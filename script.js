@@ -57,7 +57,10 @@ async function main() {
     }
 
     layer.on("click", (e) => {
-      e.target.bindPopup(toolTip).openPopup();
+        L.popup()
+        .setLatLng(e.latlng) // Set the position of the popup based on the click event
+        .setContent(toolTip)
+        .openOn(layer._map); // Open the popup on the map
     });
   };
 
