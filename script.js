@@ -10,13 +10,9 @@ const getGeoJsonData = async () => {
 };
 
 async function getEpisodes() {
-  const url =
-    "https://skog-95556456.azurewebsites.net/api/hello?code=N47ZHVkIIEpAN9CffLR8nc2BMT5NHK8p7m-9GbV3wm6_AzFuLAjOiw==";
-  return fetch(url)
-    .then((response) => response.json())
-    .then((data) => {
-      return data;
-    });
+    // Read json file from local file system
+    const response = await fetch("episodes_by_country.json");
+    return response.json()
 }
 
 // Create a tile layer using the CartoDB Positron (No Labels) tile server
@@ -68,7 +64,6 @@ async function main() {
     const countryCode = country.properties.ISO_A3;
 
     if (Object.keys(data).includes(countryCode)) {
-      console.log("BLUE", country, countryCode);
       return { fillColor: "#ff7800", fillOpacity: 0.5, weight: 1 };
     }
     return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
