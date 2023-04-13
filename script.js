@@ -43,26 +43,34 @@ async function main() {
 
   noLabelsTileLayer.addTo(map);
 
-  const data = await getEpisodes();
+  const episodeData = await getEpisodes();
 
-  const onEachFeature = (feature, layer) => {
-    // Add a click event listener to the layer (country polygon)
-    const entries = data[feature.properties.ISO_A3];
+  const createCountryPopup = (countryName, cc) => {
+    let text = `<b>${countryName}</b>\n`;
 
-    let toolTip = `<b>${feature.properties.ADMIN}</b>\n`;
+    const episodes = episodeData[cc];
 
-    if (entries) {
-      entries.forEach((entry) => {
+    if (episodes) {
+      episodes.forEach((entry) => {
         const trimmed = entry.ep.name.trim();
-        toolTip += "\n";
-        toolTip += `<a target="_blank" href="${entry.ep.external_urls.spotify}">${trimmed}</a>`;
+        text += "\n";
+        text += `<a target="_blank" href="${entry.ep.external_urls.spotify}">${trimmed}</a>`;
       });
     }
+
+    return text;
+  };
+
+  const onEachFeature = (feature, layer) => {
+    const countryPopupText = createCountryPopup(
+      feature.properties.ADMIN,
+      feature.properties.ISO_A3
+    );
 
     layer.on("click", (e) => {
       L.popup()
         .setLatLng(e.latlng) // Set the position of the popup based on the click event
-        .setContent(toolTip)
+        .setContent(countryPopupText)
         .openOn(layer._map); // Open the popup on the map
     });
   };
@@ -70,10 +78,38 @@ async function main() {
   const styleCountry = (country) => {
     const countryCode = country.properties.ISO_A3;
 
-    if (Object.keys(data).includes(countryCode)) {
+    if (Object.keys(episodeData).includes(countryCode)) {
       return { fillColor: "#4CAF50", fillOpacity: 0.5, weight: 1 };
     }
     return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
+  };
+
+  const openRandomCountryOnLoad = () => {
+    const countries = Object.keys(episodeData);
+    let randomCountry = countries[Math.floor(Math.random() * countries.length)];
+
+    const episodes = episodeData[randomCountry];
+
+    const popupText = createCountryPopup(episodes[0].country, randomCountry);
+
+    // Get the country's GeoJSON feature
+    const countryFeature = geoJsonData.features.find(
+      (feature) => feature.properties.ISO_A3 === randomCountry
+    );
+
+    if (countryFeature) {
+      // Get the country's centroid coordinates
+      let countryCoordinates = L.geoJSON(countryFeature)
+        .getBounds()
+        .getCenter();
+
+      if (randomCountry == "NOR") {
+        countryCoordinates = L.latLng(64.5, 13.5);
+      }
+
+      // Display the popup at the country's coordinates
+      L.popup().setLatLng(countryCoordinates).setContent(popupText).openOn(map);
+    }
   };
 
   const geoJsonData = await getGeoJsonData();
@@ -81,5 +117,8 @@ async function main() {
     onEachFeature: onEachFeature,
     style: styleCountry,
   }).addTo(map);
+
+  openRandomCountryOnLoad();
 }
+
 main();
