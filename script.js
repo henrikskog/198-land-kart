@@ -10,9 +10,9 @@ const getGeoJsonData = async () => {
 };
 
 async function getEpisodes() {
-    // Read json file from local file system
-    const response = await fetch("episodes_by_country.json");
-    return response.json()
+  // Read json file from local file system
+  const response = await fetch("episodes_by_country.json");
+  return response.json();
 }
 
 // Create a tile layer using the CartoDB Positron (No Labels) tile server
@@ -32,7 +32,14 @@ function setTileLayer(map) {
 }
 
 async function main() {
-  const map = L.map("map").setView([62, 15], 4);
+  const map = L.map("map", {
+    center: [62, 15],
+    zoom: 2,
+    maxBounds: [
+      [-90, -180], // South-west corner (latitude, longitude)
+      [90, 180], // North-east corner (latitude, longitude)
+    ],
+  });
 
   noLabelsTileLayer.addTo(map);
 
@@ -53,7 +60,7 @@ async function main() {
     }
 
     layer.on("click", (e) => {
-        L.popup()
+      L.popup()
         .setLatLng(e.latlng) // Set the position of the popup based on the click event
         .setContent(toolTip)
         .openOn(layer._map); // Open the popup on the map
@@ -64,7 +71,7 @@ async function main() {
     const countryCode = country.properties.ISO_A3;
 
     if (Object.keys(data).includes(countryCode)) {
-      return { fillColor: "#ff7800", fillOpacity: 0.5, weight: 1 };
+      return { fillColor: "#4CAF50", fillOpacity: 0.5, weight: 1 };
     }
     return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
   };
