@@ -7,7 +7,7 @@ Dette prosjektet er enkelt og greit et interaktivt kart som viser hvilke land so
 - Oppdateres daglig med informasjon om nye episoder
 
 ## Dataoppdatering
-Informasjonen om episodene hentes fra Spotify API og lagres i filen [episodes_by_country.json](./episodes_by_country.json). Denne filen oppdateres automatisk hver dag ved hjelp av en Azure Function.
+Informasjonen om episodene hentes fra Spotify API og lagres i filen [episodes_by_country.json](./episodes_by_country.json). Denne filen oppdateres automatisk hver dag ved hjelp av en Azure Function. Koden for dette ligger i [azure-func](./azure-func)
 
 ## Se kartet live
 Kartet er tilgjengelig på nettet og kan besøkes her: [henrikskog.github.io/198-land-kart](https://henrikskog.github.io/198-land-kart)
