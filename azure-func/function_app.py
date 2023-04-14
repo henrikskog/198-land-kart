@@ -75,10 +75,6 @@ def update_github_workflow():
         return
 
     logging.info("Found " + str(len(new_episodes)) + " new episodes.")
-    logging.info("Updating episodes.json...")
-
-
-    logging.info("Updating episodes_by_country.json...")
 
     by_country = update_episodes_by_country(new_episodes)
 
@@ -86,7 +82,11 @@ def update_github_workflow():
         logging.info("Duplicate found. Exiting and not writing to github.")
         return
 
+
+    logging.info("Updating episodes.json...")
     overwrite_github_file(RAW_EPISODES_PATH, episodes)
+
+    logging.info("Updating episodes_by_country.json...")
     overwrite_github_file(BY_COUNTRY_PATH, by_country)
 
     logging.info("Done.")
