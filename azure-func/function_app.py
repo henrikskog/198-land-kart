@@ -100,6 +100,6 @@ def main(req):
 @app.function_name(name="episode-poller")
 @app.schedule(schedule="0 0 11 * * *",
               arg_name="mytimer",
-              run_on_startup=True) 
+              run_on_startup=False) 
 def test_function(mytimer: func.TimerRequest) -> None:
     update_github_workflow()
