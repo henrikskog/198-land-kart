@@ -8,10 +8,12 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'azure-func/**' # Trigger only when changes are made to the azure-func folder
   workflow_dispatch:
 
 env:
-  AZURE_FUNCTIONAPP_PACKAGE_PATH: '.' # set this to the path to your web app project, defaults to the repository root
+  AZURE_FUNCTIONAPP_PACKAGE_PATH: 'azure-func' # set this to the path to your web app project, defaults to the repository root
   PYTHON_VERSION: '3.9' # set this to the python version to use (supports 3.6, 3.7, 3.8)
 
 jobs:
@@ -28,11 +30,14 @@ jobs:
 
       - name: Create and start virtual environment
         run: |
+          cd azure-func
           python -m venv venv
           source venv/bin/activate
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          cd azure-func
+          pip install -r requirements.txt
         
       # Optional: Add step to run tests here
 
