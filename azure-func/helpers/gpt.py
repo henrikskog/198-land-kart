@@ -9,10 +9,10 @@ def extract_country(episode_name: str, episode_description: str):
     prompt = f"""
         You will be given an episode of an episode of a norwegian geography podcast. 
 
-        If the episode is not about one spesific country, please answer "no". If it is, return the name of the country in english followed by its country code.
+        If the episode is not about a spesific country, please answer "no". If it is, return the name of the country in english followed by its country code according to the A3 spesification.
 
         Examples:
-        Noway, NOR
+        Norway, NOR
         Sweden, SWE
         no
 

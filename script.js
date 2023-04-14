@@ -1,3 +1,9 @@
+const getCountryTranslations = async () => {
+const countryTranslations = await fetch("country_translations.json")
+return countryTranslations.json()
+}
+
+
 const getGeoJsonData = async () => {
   try {
     const response = await axios.get(
@@ -44,6 +50,7 @@ async function main() {
   noLabelsTileLayer.addTo(map);
 
   const episodeData = await getEpisodes();
+  const countryTranslations = await getCountryTranslations()
 
   const createCountryPopup = (countryName, cc) => {
     let text = `<b>${countryName}</b>\n`;
@@ -62,8 +69,11 @@ async function main() {
   };
 
   const onEachFeature = (feature, layer) => {
+    // get translation or show english name
+    const name = countryTranslations[feature.properties.ADMIN]  || feature.properties.ADMIN
+
     const countryPopupText = createCountryPopup(
-      feature.properties.ADMIN,
+      name,
       feature.properties.ISO_A3
     );
 
