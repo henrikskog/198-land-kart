@@ -2,7 +2,7 @@
 
 Kartet er tilgjengelig her: [henrikskog.github.io/198-land-kart](https://henrikskog.github.io/198-land-kart)
 
-Dette prosjektet er enkelt og greit et interaktivt kart som viser hvilke land som har blitt omtalt i podcasten [198 land med Einar Tørnquist](https://open.spotify.com/show/7gVC1AP7O35An9TK6l2XpJ?si=7835f4c660794488). Kartet gir lytterne en visuell oversikt over de ulike landene som er dekket i episodene.
+Dette prosjektet er enkelt og greit et interaktivt kart som viser hvilke land som har blitt omtalt i podcasten [198 land med Einar Tørnquist](https://open.spotify.com/show/7gVC1AP7O35An9TK6l2XpJ?si=7835f4c660794488).
 
 ## Funksjoner
 - Interaktivt kart som viser landene som er omtalt i podcasten
