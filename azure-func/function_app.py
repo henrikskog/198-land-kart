@@ -80,12 +80,11 @@ def update_github_workflow():
         logging.info("Duplicate found. Exiting and not writing to github.")
         return
 
-
     logging.info("Updating episodes.json...")
-    overwrite_github_file(RAW_EPISODES_PATH, episodes)
+    overwrite_github_file(RAW_EPISODES_PATH, episodes, "Automatic update of json file with new podcast episode!")
 
     logging.info("Updating episodes_by_country.json...")
-    overwrite_github_file(BY_COUNTRY_PATH, by_country)
+    overwrite_github_file(BY_COUNTRY_PATH, by_country, "Automatic update of json file with new podcast episode!")
 
     logging.info("Done.")
 

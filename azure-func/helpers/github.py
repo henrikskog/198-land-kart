@@ -34,7 +34,7 @@ def get_github_file(filename) -> str:
         return None
     
 
-def overwrite_github_file(filename, new):
+def overwrite_github_file(filename, new, commit_msg = 'Update JSON file'):
     # Convert the JSON content to a string and encode it in base64
     new_content_str = json.dumps(new, indent=4)
     new_content_bytes = new_content_str.encode('utf-8')
@@ -49,7 +49,7 @@ def overwrite_github_file(filename, new):
 
     # Prepare the data for the update request
     data = {
-        'message': 'Update JSON file',
+        'message': commit_msg,
         'content': new_content_base64,
         'sha': current_sha  # Include the current SHA to update the file
     }
