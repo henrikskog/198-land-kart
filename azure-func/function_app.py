@@ -38,8 +38,6 @@ def check_new_episodes():
 def update_episodes_by_country(new_episodes: list) -> None:
     by_country = get_old_by_country()
 
-    # TODO: write backups
-
     for episode in new_episodes:
         country, cc = extract_country(episode["name"], episode["description"])
 
