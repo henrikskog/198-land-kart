@@ -2528,6 +2528,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:41EJqbFVTQQyUGHL1k2TaQ"
             }
+        },
+        {
+            "country": "Vanuatu",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/57aeecbcc716877293bf4dfcd45c1a5800fa355e",
+                "description": "Har det rablet for Einar? Har han glemt at det allerede eksisterer en Vanuatu-episode? Og at Vanuatu skrives med u p\u00e5 slutten? Frykt ikke, kj\u00e6re lytter, Einar er fortsatt ved sine fulle fem. Etter en krass kronikk (eller Facebookpost, kj\u00e6rt barn har mange navn) fra ukens gjest valgte Einar \u00e5 invitere mannen bak karakterdrapet inn til en koselig prat i studio. Her g\u00e5r de gjennom diverse misforst\u00e5elser om Vanuatu, deriblant kilder fra Telegraph og TedTalks som viser seg \u00e5 v\u00e6re misinformasjon av verste grad. Denne episoden har ikke Einar med seg en br\u00e5te mer eller mindre kvalitetsikrede fakta, men velger heller \u00e5 lene seg tungt p\u00e5 ukens gjest i denne VanuaTO-spesialen: Sosialantropolog, Vanuatuekspert og hissig kronikkskribent Thorgeir Kolshus.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3552914,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/46sclbJRJgm1wuDL2SYHUj"
+                },
+                "href": "https://api.spotify.com/v1/episodes/46sclbJRJgm1wuDL2SYHUj",
+                "html_description": "<p>Har det rablet for Einar? Har han glemt at det allerede eksisterer en Vanuatu-episode? Og at Vanuatu skrives med u p\u00e5 slutten? Frykt ikke, kj\u00e6re lytter, Einar er fortsatt ved sine fulle fem. Etter en krass kronikk (eller Facebookpost, kj\u00e6rt barn har mange navn) fra ukens gjest valgte Einar \u00e5 invitere mannen bak karakterdrapet inn til en koselig prat i studio. Her g\u00e5r de gjennom diverse misforst\u00e5elser om Vanuatu, deriblant kilder fra Telegraph og TedTalks som viser seg \u00e5 v\u00e6re misinformasjon av verste grad. Denne episoden har ikke Einar med seg en br\u00e5te mer eller mindre kvalitetsikrede fakta, men velger heller \u00e5 lene seg tungt p\u00e5 ukens gjest i denne VanuaTO-spesialen: Sosialantropolog, Vanuatuekspert og hissig kronikkskribent Thorgeir Kolshus.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "46sclbJRJgm1wuDL2SYHUj",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "VanuaTO del 1 med Thorgeir Kolshus",
+                "release_date": "2023-04-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:46sclbJRJgm1wuDL2SYHUj"
+            }
         }
     ],
     "NPL": [
