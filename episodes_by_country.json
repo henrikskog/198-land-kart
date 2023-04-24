@@ -2571,6 +2571,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:46sclbJRJgm1wuDL2SYHUj"
             }
+        },
+        {
+            "country": "Vanuatu",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/34869d0dfcb1602e9ae85b8d4d95c89896d511a8",
+                "description": "Denne uken g\u00e5r vi til del 2 av Vanuatu fors\u00f8k to. Her kommer vi til bunns i Vanuatus forhold til kannibalisme, hvordan kava smaker, hvor realistisk NRK-serien \"Den store reisen\" skildret livet p\u00e5 \u00f8ya, moralen rundt mana, kollaterale slektsforhold og mye, mye mer. Men hvorfor skal jeg gjenfortelle alt innholdet n\u00e5r Einar gj\u00f8r det best med ukens gjest: Om dagen en sindig sosialantropolog, om natten en hissig kronikkskribent, Thorgeir Kolshus.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 2956068,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/3d00xmZQ4DfN4Nnf3TK5Hl"
+                },
+                "href": "https://api.spotify.com/v1/episodes/3d00xmZQ4DfN4Nnf3TK5Hl",
+                "html_description": "<p>Denne uken g\u00e5r vi til del 2 av Vanuatu fors\u00f8k to. Her kommer vi til bunns i Vanuatus forhold til kannibalisme, hvordan kava smaker, hvor realistisk NRK-serien &#34;Den store reisen&#34; skildret livet p\u00e5 \u00f8ya, moralen rundt mana, kollaterale slektsforhold og mye, mye mer. Men hvorfor skal jeg gjenfortelle alt innholdet n\u00e5r Einar gj\u00f8r det best med ukens gjest: Om dagen en sindig sosialantropolog, om natten en hissig kronikkskribent, Thorgeir Kolshus.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "3d00xmZQ4DfN4Nnf3TK5Hl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "VanuaTO del 2 med Thorgeir Kolshus",
+                "release_date": "2023-04-24",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:3d00xmZQ4DfN4Nnf3TK5Hl"
+            }
         }
     ],
     "NPL": [
