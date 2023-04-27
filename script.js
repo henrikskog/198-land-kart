@@ -1,8 +1,7 @@
 const getCountryTranslations = async () => {
-const countryTranslations = await fetch("country_translations.json")
-return countryTranslations.json()
-}
-
+  const countryTranslations = await fetch("country_translations.json");
+  return countryTranslations.json();
+};
 
 const getGeoJsonData = async () => {
   try {
@@ -21,15 +20,6 @@ async function getEpisodes() {
   return response.json();
 }
 
-// Create a tile layer using the CartoDB Positron (No Labels) tile server
-const noLabelsTileLayer = L.tileLayer(
-  "https://{s}.basemaps.cartocdn.com/rastertiles/light_nolabels/{z}/{x}/{y}{r}.png",
-  {
-    attribution: "© OpenStreetMap contributors, © CARTO",
-    maxZoom: 19,
-  }
-);
-
 function setTileLayer(map) {
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution:
@@ -37,7 +27,7 @@ function setTileLayer(map) {
   }).addTo(map);
 }
 
-async function main() {
+function createMap() {
   const map = L.map("map", {
     center: [62, 15],
     zoom: 2,
@@ -47,88 +37,94 @@ async function main() {
     ],
   });
 
-  noLabelsTileLayer.addTo(map);
-
-  const episodeData = await getEpisodes();
-  const countryTranslations = await getCountryTranslations()
-
-  const createCountryPopup = (countryName, cc) => {
-    let text = `<b>${countryName}</b>\n`;
-
-    const episodes = episodeData[cc];
-
-    if (episodes) {
-      episodes.forEach((entry) => {
-        const trimmed = entry.ep.name.trim();
-        text += "\n";
-        text += `<a target="_blank" href="${entry.ep.external_urls.spotify}">${trimmed}</a>`;
-      });
-    }
-
-    return text;
-  };
-
-  const onEachFeature = (feature, layer) => {
-    // get translation or show english name
-    const name = countryTranslations[feature.properties.ADMIN]  || feature.properties.ADMIN
-
-    const countryPopupText = createCountryPopup(
-      name,
-      feature.properties.ISO_A3
-    );
-
-    layer.on("click", (e) => {
-      L.popup()
-        .setLatLng(e.latlng) // Set the position of the popup based on the click event
-        .setContent(countryPopupText)
-        .openOn(layer._map); // Open the popup on the map
-    });
-  };
-
-  const styleCountry = (country) => {
-    const countryCode = country.properties.ISO_A3;
-
-    if (Object.keys(episodeData).includes(countryCode)) {
-      return { fillColor: "#4CAF50", fillOpacity: 0.5, weight: 1 };
-    }
-    return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
-  };
-
-  const openRandomCountryOnLoad = () => {
-    const countries = Object.keys(episodeData);
-    let randomCountry = countries[Math.floor(Math.random() * countries.length)];
-
-    const episodes = episodeData[randomCountry];
-
-    const popupText = createCountryPopup(episodes[0].country, randomCountry);
-
-    // Get the country's GeoJSON feature
-    const countryFeature = geoJsonData.features.find(
-      (feature) => feature.properties.ISO_A3 === randomCountry
-    );
-
-    if (countryFeature) {
-      // Get the country's centroid coordinates
-      let countryCoordinates = L.geoJSON(countryFeature)
-        .getBounds()
-        .getCenter();
-
-      if (randomCountry == "NOR") {
-        countryCoordinates = L.latLng(64.5, 13.5);
-      }
-
-      // Display the popup at the country's coordinates
-      L.popup().setLatLng(countryCoordinates).setContent(popupText).openOn(map);
-    }
-  };
-
-  const geoJsonData = await getGeoJsonData();
-  L.geoJSON(geoJsonData, {
-    onEachFeature: onEachFeature,
-    style: styleCountry,
-  }).addTo(map);
-
-  openRandomCountryOnLoad();
+  setTileLayer(map);
+  return map;
 }
 
-main();
+function onEachFeature(feature, layer) {
+  const name =
+    COUNTRY_TRANSLATIONS[feature.properties.ADMIN] || feature.properties.ADMIN;
+  const countryPopupText = createCountryPopup(name, feature.properties.ISO_A3);
+
+  layer.on("click", (e) => {
+    L.popup()
+      .setLatLng(e.latlng)
+      .setContent(countryPopupText)
+      .openOn(layer._map);
+  });
+}
+
+function createCountryPopup(countryName, cc) {
+  let text = `<b>${countryName}</b>\n`;
+  const episodes = EPISODE_DATA[cc];
+
+  if (episodes) {
+    episodes.forEach((entry) => {
+      const trimmed = entry.ep.name.trim();
+      text += "\n";
+      text += `<a target="_blank" href="${entry.ep.external_urls.spotify}">${trimmed}</a>`;
+    });
+  }
+
+  return text;
+}
+
+function styleCountry(country) {
+  const countryCode = country.properties.ISO_A3;
+
+  if (Object.keys(EPISODE_DATA).includes(countryCode)) {
+    return { fillColor: "#4CAF50", fillOpacity: 0.5, weight: 1 };
+  }
+  return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
+}
+
+async function openRandomCountryOnLoad(map) {
+  const countries = Object.keys(EPISODE_DATA);
+  let randomCountry = countries[Math.floor(Math.random() * countries.length)];
+  const episodes = EPISODE_DATA[randomCountry];
+  const countryName =
+    COUNTRY_TRANSLATIONS[episodes[0].country] || episodes[0].country;
+  const popupText = createCountryPopup(countryName, randomCountry);
+
+  const countryFeature = GEOJSONDATA.features.find(
+    (feature) => feature.properties.ISO_A3 === randomCountry
+  );
+
+  if (countryFeature) {
+    let countryCoordinates = L.geoJSON(countryFeature).getBounds().getCenter();
+
+    if (randomCountry === "NOR") {
+      countryCoordinates = L.latLng(64.5, 13.5);
+    }
+
+    L.popup().setLatLng(countryCoordinates).setContent(popupText).openOn(map);
+  }
+}
+async function main() {
+  await COUNTRY_TRANSLATIONS;
+  await EPISODE_DATA;
+  await GEOJSONDATA;
+  const map = createMap();
+
+  L.geoJSON(GEOJSONDATA, {
+    onEachFeature: (feature, layer) => onEachFeature(feature, layer),
+    style: (country) => styleCountry(country),
+  }).addTo(map);
+
+  openRandomCountryOnLoad(map);
+}
+
+// Declare global variables
+let COUNTRY_TRANSLATIONS;
+let GEOJSONDATA;
+let EPISODE_DATA;
+
+// IIFE to initialize global variables with promises
+(async function () {
+  COUNTRY_TRANSLATIONS = await getCountryTranslations();
+  GEOJSONDATA = await getGeoJsonData();
+  EPISODE_DATA = await getEpisodes();
+
+  // Execute the main function
+  main();
+})();
