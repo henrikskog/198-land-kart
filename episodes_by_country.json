@@ -3822,5 +3822,50 @@
                 "uri": "spotify:episode:7djVFn9bWFxOzJABr8i2SZ"
             }
         }
+    ],
+    "SAU": [
+        {
+            "country": "Saudi Arabia",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/873565f7f0db116f8400516ec6f13e7da2f3b5ae",
+                "description": "Denne uken retter vi blikket \u00f8stover n\u00e5r vi tar for et land folk flest har en mening om, nemlig kongeriket Saudi-Arabia. Landet er hjemstedet til stolte muslimske reisem\u00e5l som Mekka og Medina, moderne motorveier og overraskende mye norsk industri. Samtidig er Saudi-Arabia et absolutt monarki som er kjent for strenge straffemetoder og et omdiskutert kvinnesyn. Dette krever mer ekspertise enn Einars mer eller mindre kvalitetsikrede fakta, s\u00e5 for \u00e5 geleide oss gjennom sannheter og usannheter har han f\u00e5tt bes\u00f8k av en som b\u00e5de har bodd og forsket i Saudi-Arabia, ingen ringere enn postdoktor ved Universitet i Oslo, Charlotte Lysa.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3551320,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7Jg9IarE4D0fnFjvPfjCIp"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7Jg9IarE4D0fnFjvPfjCIp",
+                "html_description": "<p>Denne uken retter vi blikket \u00f8stover n\u00e5r vi tar for et land folk flest har en mening om, nemlig kongeriket Saudi-Arabia. Landet er hjemstedet til stolte muslimske reisem\u00e5l som Mekka og Medina, moderne motorveier og overraskende mye norsk industri. Samtidig er Saudi-Arabia et absolutt monarki som er kjent for strenge straffemetoder og et omdiskutert kvinnesyn. Dette krever mer ekspertise enn Einars mer eller mindre kvalitetsikrede fakta, s\u00e5 for \u00e5 geleide oss gjennom sannheter og usannheter har han f\u00e5tt bes\u00f8k av en som b\u00e5de har bodd og forsket i Saudi-Arabia, ingen ringere enn postdoktor ved Universitet i Oslo, Charlotte Lysa.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "7Jg9IarE4D0fnFjvPfjCIp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Saudi-Arabia del 1 med Charlotte Lysa",
+                "release_date": "2023-05-01",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7Jg9IarE4D0fnFjvPfjCIp"
+            }
+        }
     ]
 }
