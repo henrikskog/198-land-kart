@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/9a1f99b8d89e426f20045cbc4ce328e082b5078a",
+        "description": "Denne uken pakker vi snippesken og den sjette st\u00f8rste befolkningen i verden, nemlig Nigeria. Hvis du n\u00e5 satte kaffen i halsen og sprutet den ut over stuebordet mens du sjokkert utbryter \"sjette st\u00f8rste?! Hva har du r\u00f8yka, mann?!\" s\u00e5 er du jaggumeg ikke alene. Nigeria er ikke n\u00e6rheten av s\u00e5 kjent for Ola Nordmann som det burde ha v\u00e6rt. Vet du for eksempel hva hovedstaden heter? Eller hvorfor landet kalles for Afrikas USA? Eller at over 40% av befolkningen er under 15 \u00e5r? P\u00e5 et eller annet punkt kan ikke Einar kun lene seg p\u00e5 sine mer eller mindre kvalitetssikrede fakta, s\u00e5 heldigvis f\u00e5r han str\u00e5lende hjelp fra ukens gjest: Nigeria-ekspert Camilla Houeland.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3729972,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3ky2efJPQSjWloAki9t42D"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3ky2efJPQSjWloAki9t42D",
+        "html_description": "<p>Denne uken pakker vi snippesken og den sjette st\u00f8rste befolkningen i verden, nemlig Nigeria. Hvis du n\u00e5 satte kaffen i halsen og sprutet den ut over stuebordet mens du sjokkert utbryter &#34;sjette st\u00f8rste?! Hva har du r\u00f8yka, mann?!&#34; s\u00e5 er du jaggumeg ikke alene. Nigeria er ikke n\u00e6rheten av s\u00e5 kjent for Ola Nordmann som det burde ha v\u00e6rt. Vet du for eksempel hva hovedstaden heter? Eller hvorfor landet kalles for Afrikas USA? Eller at over 40% av befolkningen er under 15 \u00e5r? P\u00e5 et eller annet punkt kan ikke Einar kun lene seg p\u00e5 sine mer eller mindre kvalitetssikrede fakta, s\u00e5 heldigvis f\u00e5r han str\u00e5lende hjelp fra ukens gjest: Nigeria-ekspert Camilla Houeland.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B </p><p><br /></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3ky2efJPQSjWloAki9t42D",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Nigeria del 1 med Camilla Houeland",
+        "release_date": "2023-05-29",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3ky2efJPQSjWloAki9t42D"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/9db3694b2f6b00ab0186a93eec4c9f3590a850b4",
         "description": "Denne uken fortsetter vi saumfaringen av Saudi-Arabia. Her skal store og sm\u00e5 sp\u00f8rsm\u00e5l besvares, og her diskuteres alt fra geopolitikk (\"hvordan b\u00f8r vi forholde oss til Saudi-Arabia mens det p\u00e5g\u00e5r en krig?\" til severdigheter (\"Hva b\u00f8r man ser n\u00e5r man er der?\"). I tillegg blir det som vanlig noen lyttersp\u00f8rsm\u00e5l og \"j\u00f8ss!\", som forh\u00e5pentligvis blir reaksjonen til ukens gjest, kjent som postdoktor ved Universitet i Oslo og ekspert i forrige episode, Charlotte Lysa.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2589884,
