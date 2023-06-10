@@ -1,62 +1,23 @@
 const getCountryTranslations = async () => {
-  const countryTranslations = await fetch("country_translations.json");
-  return countryTranslations.json();
+  const response = await axios.get("country_translations.json");
+  return response.data;
 };
 
 const getGeoJsonData = async () => {
-  try {
-    const response = await axios.get(
-      "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson"
-    );
-    return response.data;
-  } catch (error) {
-    console.error("Failed to fetch GeoJSON data:", error);
-  }
+  const response = await axios.get(
+    "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson"
+  );
+  return response.data;
 };
 
 async function getEpisodes() {
-  // Read json file from local file system
-  const response = await fetch("episodes_by_country.json");
-  return response.json();
+  const response = await axios.get("episodes_by_country.json");
+  return response.data;
 }
 
-function setTileLayer(map) {
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  }).addTo(map);
-}
-
-function createMap() {
-  const map = L.map("map", {
-    center: [62, 15],
-    zoom: 2,
-    maxBounds: [
-      [-90, -180], // South-west corner (latitude, longitude)
-      [90, 180], // North-east corner (latitude, longitude)
-    ],
-  });
-
-  setTileLayer(map);
-  return map;
-}
-
-function onEachFeature(feature, layer) {
-  const name =
-    COUNTRY_TRANSLATIONS[feature.properties.ADMIN] || feature.properties.ADMIN;
-  const countryPopupText = createCountryPopup(name, feature.properties.ISO_A3);
-
-  layer.on("click", (e) => {
-    L.popup()
-      .setLatLng(e.latlng)
-      .setContent(countryPopupText)
-      .openOn(layer._map);
-  });
-}
-
-function createCountryPopup(countryName, cc) {
+function createCountryPopup(countryName, cc, episodeData) {
   let text = `<b>${countryName}</b>\n`;
-  const episodes = EPISODE_DATA[cc];
+  const episodes = episodeData[cc];
 
   if (episodes) {
     episodes.forEach((entry) => {
@@ -69,24 +30,22 @@ function createCountryPopup(countryName, cc) {
   return text;
 }
 
-function styleCountry(country) {
-  const countryCode = country.properties.ISO_A3;
+async function openRandomCountryOnLoad(
+  map,
+  geoJSONData,
+  countryTranslations,
+  episodeData
+) {
+  const countries = Object.keys(episodeData);
+  const randomCountry = countries[Math.floor(Math.random() * countries.length)];
 
-  if (Object.keys(EPISODE_DATA).includes(countryCode)) {
-    return { fillColor: "#4CAF50", fillOpacity: 0.5, weight: 1 };
-  }
-  return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
-}
+  const episodes = episodeData[randomCountry];
 
-async function openRandomCountryOnLoad(map) {
-  const countries = Object.keys(EPISODE_DATA);
-  let randomCountry = countries[Math.floor(Math.random() * countries.length)];
-  const episodes = EPISODE_DATA[randomCountry];
   const countryName =
-    COUNTRY_TRANSLATIONS[episodes[0].country] || episodes[0].country;
-  const popupText = createCountryPopup(countryName, randomCountry);
+    countryTranslations[episodes[0].country] || episodes[0].country;
+  const popupText = createCountryPopup(countryName, randomCountry, episodeData);
 
-  const countryFeature = GEOJSONDATA.features.find(
+  const countryFeature = geoJSONData.features.find(
     (feature) => feature.properties.ISO_A3 === randomCountry
   );
 
@@ -100,31 +59,89 @@ async function openRandomCountryOnLoad(map) {
     L.popup().setLatLng(countryCoordinates).setContent(popupText).openOn(map);
   }
 }
-async function main() {
-  await COUNTRY_TRANSLATIONS;
-  await EPISODE_DATA;
-  await GEOJSONDATA;
-  const map = createMap();
 
-  L.geoJSON(GEOJSONDATA, {
-    onEachFeature: (feature, layer) => onEachFeature(feature, layer),
-    style: (country) => styleCountry(country),
+const main = async () => {
+  //   Fetching and parsing translations for country names from a JSON file.
+  const countryTranslations = await getCountryTranslations();
+
+  // Fetching GeoJSON data representing country shapes from a remote source.
+  const geoJSONData = await getGeoJsonData();
+
+  // Fetching and parsing an "episodes by country" dataset from a local JSON file.
+  const episodeData = await getEpisodes();
+
+  // Setting up a Leaflet map, which is a JavaScript library for interactive maps.
+  const map = L.map("map", {
+    center: [62, 15],
+    zoom: 2,
+  });
+
+  // Attaching a tile layer to the map from OpenStreetMap, which provides the base map tiles.
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
 
-  openRandomCountryOnLoad(map);
+  // Styling and adding GeoJSON features (countries) to the map. If a country has associated episodes from the dataset, its style is different.
+  L.geoJSON(geoJSONData, {
+    onEachFeature: (feature, layer) => {
+      const name =
+        countryTranslations[feature.properties.ADMIN] ||
+        feature.properties.ADMIN;
+      const countryPopupText = createCountryPopup(
+        name,
+        feature.properties.ISO_A3,
+        episodeData
+      );
+
+      // For each country on the map, attaching a click event listener that opens a popup with information about the country and a list of episode links.
+      layer.on("click", (e) => {
+        L.popup()
+          .setLatLng(e.latlng)
+          .setContent(countryPopupText)
+          .openOn(layer._map);
+      });
+    },
+    style: (country) => {
+      const countryCode = country.properties.ISO_A3;
+
+      if (Object.keys(episodeData).includes(countryCode)) {
+        return { fillColor: "#4CAF50", fillOpacity: 0.5, weight: 1 };
+      }
+      return { fillColor: "transparent", fillOpacity: 0.5, weight: 1 };
+    },
+  }).addTo(map);
+
+  // On load, randomly selecting a country from the dataset and opening a popup with its information.
+  openRandomCountryOnLoad(map, geoJSONData, countryTranslations, episodeData);
+};
+
+// Error handling function
+const handleError = (errorMessage) => {
+  document.body.innerHTML = `
+      <div style="
+          position: fixed; 
+          top: 0; 
+          left: 0; 
+          width: 100%; 
+          height: 100%; 
+          background: rgba(0, 0, 0, 0.5);
+          display: flex; 
+          justify-content: center; 
+          align-items: center; 
+          color: white; 
+          font-size: 2em;
+          text-align: center;">
+          <p style="max-width: 40ch; text-align: left;">${errorMessage}</p>
+      </div>`;
+};
+
+try {
+  main().catch(error => {
+    console.log("Asynchronous error");
+    handleError("UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere.")
+  });
+} catch (error) {
+  console.log("Synchronous error");
+  handleError("UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere.")
 }
-
-// Declare global variables
-let COUNTRY_TRANSLATIONS;
-let GEOJSONDATA;
-let EPISODE_DATA;
-
-// IIFE to initialize global variables with promises
-(async function () {
-  COUNTRY_TRANSLATIONS = await getCountryTranslations();
-  GEOJSONDATA = await getGeoJsonData();
-  EPISODE_DATA = await getEpisodes();
-
-  // Execute the main function
-  main();
-})();
