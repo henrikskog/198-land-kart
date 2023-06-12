@@ -3998,5 +3998,50 @@
                 "uri": "spotify:episode:77eYNNMiWbVljc9IgqsEsj"
             }
         }
+    ],
+    "VAT": [
+        {
+            "country": "Vatican City",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/62bcff39e92623b0c4f1e9ea6ae3f7e54cabae39",
+                "description": "Noen ganger m\u00e5 man bare sparke av seg skoa, legge beina p\u00e5 bordet og podde i vei uten at andre folk tar oppmerksomheten. Her er det mange sp\u00f8rsm\u00e5l som skal besvarer av intet annet enn Einars egne mer eller mindre kvalitetssikrede fakta. Er Vatikanstaten et land? Hvor stort er det? Hva i alle dager er opplegget med de rare uniformene til sveitsergarden? Og hvor i alle dager har de en sveitsergarde midt i Italia? Dette, og mye mer, skal diskuteres opp og ned i mente med ukens gjest: Einar T\u00f8rnquist.Produsert av Martin Oftedal, PLAN-BLyddesign av Niklas Figenschau Johansen, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3881926,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4AwGwPEsrAOOV5Na3YkFpn"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4AwGwPEsrAOOV5Na3YkFpn",
+                "html_description": "<p>Noen ganger m\u00e5 man bare sparke av seg skoa, legge beina p\u00e5 bordet og podde i vei uten at andre folk tar oppmerksomheten. Her er det mange sp\u00f8rsm\u00e5l som skal besvarer av intet annet enn Einars egne mer eller mindre kvalitetssikrede fakta. Er Vatikanstaten et land? Hvor stort er det? Hva i alle dager er opplegget med de rare uniformene til sveitsergarden? Og hvor i alle dager har de en sveitsergarde midt i Italia? Dette, og mye mer, skal diskuteres opp og ned i mente med ukens gjest: Einar T\u00f8rnquist.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p>Lyddesign av Niklas Figenschau Johansen, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "4AwGwPEsrAOOV5Na3YkFpn",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Vatikanstaten",
+                "release_date": "2023-06-12",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4AwGwPEsrAOOV5Na3YkFpn"
+            }
+        }
     ]
 }
