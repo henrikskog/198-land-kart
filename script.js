@@ -115,7 +115,7 @@ const main = async () => {
     "country-geojson-data.json",
     TOTAL_COUNTRY_GEOJSON_SIZE,
     (percentComplete) => {
-      if (percentComplete > 0 && percentComplete < 100) {
+      if (percentComplete > 0 && percentComplete <= 100) {
         updateProgress(percentComplete);
       }
     }
@@ -213,8 +213,6 @@ function updateProgress(number) {
   );
   const progressBar = document.getElementById("loader");
 
-  const mapTitleContainer = document.querySelector("#map-title");
-
   // Update the progress bar
   progressBar.value = number;
 
@@ -223,6 +221,5 @@ function updateProgress(number) {
     progressBarContainer.style.display = "block";
   } else {
     progressBarContainer.style.display = "none";
-    mapTitleContainer.style.display = "block";
   }
 }
