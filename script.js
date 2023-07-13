@@ -1,18 +1,19 @@
 const getCountryTranslations = async () => {
-  const response = await axios.get("country_translations.json");
-  return response.data;
+  const response = await fetch("country_translations.json");
+  const data = await response.json();
+  return data;
 };
 
 const getGeoJsonData = async () => {
-  const response = await axios.get(
-    "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson"
-  );
-  return response.data;
+  const response = await fetch("country-geojson-data.json");
+  const data = await response.json();
+  return data;
 };
 
 async function getEpisodes() {
-  const response = await axios.get("episodes_by_country.json");
-  return response.data;
+  const response = await fetch("episodes_by_country.json");
+  const data = await response.json();
+  return data;
 }
 
 function createCountryPopup(countryName, cc, episodeData) {
@@ -29,6 +30,14 @@ function createCountryPopup(countryName, cc, episodeData) {
 
   return text;
 }
+
+const runOnFirstVisit = (callback) => {
+  const hasVisited = localStorage.getItem("hasVisited");
+  if (!hasVisited) {
+    localStorage.setItem("hasVisited", true);
+    callback();
+  }
+};
 
 async function openRandomCountryOnLoad(
   map,
@@ -62,6 +71,7 @@ async function openRandomCountryOnLoad(
 
 const main = async () => {
   //   Fetching and parsing translations for country names from a JSON file.
+
   const countryTranslations = await getCountryTranslations();
 
   // Fetching GeoJSON data representing country shapes from a remote source.
@@ -73,7 +83,7 @@ const main = async () => {
   // Setting up a Leaflet map, which is a JavaScript library for interactive maps.
   const map = L.map("map", {
     center: [62, 15],
-    zoom: 2,
+    zoom: 3,
   });
 
   // Attaching a tile layer to the map from OpenStreetMap, which provides the base map tiles.
@@ -113,7 +123,9 @@ const main = async () => {
   }).addTo(map);
 
   // On load, randomly selecting a country from the dataset and opening a popup with its information.
-  openRandomCountryOnLoad(map, geoJSONData, countryTranslations, episodeData);
+  runOnFirstVisit(() =>
+    openRandomCountryOnLoad(map, geoJSONData, countryTranslations, episodeData)
+  );
 };
 
 // Error handling function
@@ -137,11 +149,15 @@ const handleError = (errorMessage) => {
 };
 
 try {
-  main().catch(error => {
+  main().catch((error) => {
     console.log("Asynchronous error");
-    handleError("UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere.")
+    handleError(
+      "UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere."
+    );
   });
 } catch (error) {
   console.log("Synchronous error");
-  handleError("UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere.")
+  handleError(
+    "UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere."
+  );
 }
