@@ -1,3 +1,5 @@
+const TOTAL_COUNTRY_GEOJSON_SIZE = 24261278;
+
 const getCountryTranslations = async () => {
   const response = await fetch("country_translations.json");
   const data = await response.json();
@@ -69,13 +71,55 @@ async function openRandomCountryOnLoad(
   }
 }
 
+async function fetchWithProgress(url, totalSize, onProgress) {
+  const response = await fetch(url);
+
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+
+  const reader = response.body.getReader();
+  let receivedLength = 0;
+
+  const chunks = [];
+  while (true) {
+    const { done, value } = await reader.read();
+
+    if (done) {
+      break;
+    }
+
+    chunks.push(value);
+    receivedLength += value.length;
+
+    const percentComplete = Math.round((receivedLength / totalSize) * 100);
+    onProgress(percentComplete);
+  }
+
+  let chunksAll = new Uint8Array(receivedLength);
+  let position = 0;
+  for (let chunk of chunks) {
+    chunksAll.set(chunk, position);
+    position += chunk.length;
+  }
+
+  return new Response(chunksAll, { headers: response.headers }).json();
+}
+
 const main = async () => {
   //   Fetching and parsing translations for country names from a JSON file.
-
   const countryTranslations = await getCountryTranslations();
 
-  // Fetching GeoJSON data representing country shapes from a remote source.
-  const geoJSONData = await getGeoJsonData();
+  // Fetching GeoJSON data representing country shapes
+  const geoJSONData = await fetchWithProgress(
+    "country-geojson-data.json",
+    TOTAL_COUNTRY_GEOJSON_SIZE,
+    (percentComplete) => {
+      if (percentComplete > 0 && percentComplete < 100) {
+        updateProgress(percentComplete);
+      }
+    }
+  );
 
   // Fetching and parsing an "episodes by country" dataset from a local JSON file.
   const episodeData = await getEpisodes();
@@ -150,14 +194,35 @@ const handleError = (errorMessage) => {
 
 try {
   main().catch((error) => {
-    console.log("Asynchronous error");
+    console.log("Asynchronous error", error);
     handleError(
       "UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere."
     );
   });
 } catch (error) {
-  console.log("Synchronous error");
+  console.log("Synchronous error", error);
   handleError(
     "UPS! Her skjedde det noe feil. :( Prøv å laste inn siden på nytt eller kom tilbake senere."
   );
+}
+
+function updateProgress(number) {
+  // Get the progress bar and spinner
+  const progressBarContainer = document.querySelector(
+    ".progress-bar-container"
+  );
+  const progressBar = document.getElementById("loader");
+
+  const mapTitleContainer = document.querySelector("#map-title");
+
+  // Update the progress bar
+  progressBar.value = number;
+
+  // Show or hide the spinner
+  if (number < 100) {
+    progressBarContainer.style.display = "block";
+  } else {
+    progressBarContainer.style.display = "none";
+    mapTitleContainer.style.display = "block";
+  }
 }
