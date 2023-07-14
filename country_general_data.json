@@ -1,0 +1,1766 @@
+{
+  "AF": {
+    "name": "Afghanistan",
+    "name_no": "Afghanistan",
+    "lat": 34.13402601376932,
+    "lon": 66.59216131095278,
+    "ISO_A3": "AFG",
+    "ISO_A2": "AF",
+    "numeric": "004"
+  },
+  "AL": {
+    "name": "Albania",
+    "name_no": "Albania",
+    "lat": 41.14165894891656,
+    "lon": 20.061082767269493,
+    "ISO_A3": "ALB",
+    "ISO_A2": "AL",
+    "numeric": "008"
+  },
+  "DZ": {
+    "name": "Algeria",
+    "name_no": "Algerie",
+    "lat": 28.350969744889056,
+    "lon": 2.655846471976913,
+    "ISO_A3": "DZA",
+    "ISO_A2": "DZ",
+    "numeric": "012"
+  },
+  "AD": {
+    "name": "Andorra",
+    "name_no": "Andorra",
+    "lat": 42.54859834854764,
+    "lon": 1.5802243611232871,
+    "ISO_A3": "AND",
+    "ISO_A2": "AD",
+    "numeric": "020"
+  },
+  "AO": {
+    "name": "Angola",
+    "name_no": "Angola",
+    "lat": -12.167424062667942,
+    "lon": 17.651768783079,
+    "ISO_A3": "AGO",
+    "ISO_A2": "AO",
+    "numeric": "024"
+  },
+  "AQ": {
+    "name": "Antarctica",
+    "name_no": "Antarktis",
+    "lat": -77.16987521415838,
+    "lon": -177.56451613408842,
+    "ISO_A3": "ATA",
+    "ISO_A2": "AQ",
+    "numeric": "010"
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "name_no": "Antigua og Barbuda",
+    "lat": 17.07146759372967,
+    "lon": -61.78530823226373,
+    "ISO_A3": "ATG",
+    "ISO_A2": "AG",
+    "numeric": "028"
+  },
+  "AR": {
+    "name": "Argentina",
+    "name_no": "Argentina",
+    "lat": -35.697270518120085,
+    "lon": -64.53238503843076,
+    "ISO_A3": "ARG",
+    "ISO_A2": "AR",
+    "numeric": "032"
+  },
+  "AM": {
+    "name": "Armenia",
+    "name_no": "Armenia",
+    "lat": 40.17841274230679,
+    "lon": 45.05490831965259,
+    "ISO_A3": "ARM",
+    "ISO_A2": "AM",
+    "numeric": "051"
+  },
+  "AW": {
+    "name": "Aruba",
+    "name_no": "Aruba",
+    "lat": 12.515625722992898,
+    "lon": -69.97564014284046,
+    "ISO_A3": "ABW",
+    "ISO_A2": "AW",
+    "numeric": "533"
+  },
+  "AU": {
+    "name": "Australia",
+    "name_no": "Australia",
+    "lat": -53.084170035513736,
+    "lon": 73.49298560844045,
+    "ISO_A3": "AUS",
+    "ISO_A2": "AU",
+    "numeric": "036"
+  },
+  "AT": {
+    "name": "Austria",
+    "name_no": "\u00d8sterrike",
+    "lat": 47.631858269895794,
+    "lon": 13.797778364631036,
+    "ISO_A3": "AUT",
+    "ISO_A2": "AT",
+    "numeric": "040"
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "name_no": "Aserbajdsjan",
+    "lat": 40.3920509942049,
+    "lon": 48.63459267064432,
+    "ISO_A3": "AZE",
+    "ISO_A2": "AZ",
+    "numeric": "031"
+  },
+  "BS": {
+    "name": "Bahamas (the)",
+    "name_no": "Bahamas",
+    "lat": 24.72162633646784,
+    "lon": -78.07275370060313,
+    "ISO_A3": "BHS",
+    "ISO_A2": "BS",
+    "numeric": "044"
+  },
+  "BH": {
+    "name": "Bahrain",
+    "name_no": "Bahrain",
+    "lat": 26.04798501537066,
+    "lon": 50.540695402276775,
+    "ISO_A3": "BHR",
+    "ISO_A2": "BH",
+    "numeric": "048"
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "name_no": "Bangladesh",
+    "lat": 23.673728665121,
+    "lon": 90.43212562608612,
+    "ISO_A3": "BGD",
+    "ISO_A2": "BD",
+    "numeric": "050"
+  },
+  "BB": {
+    "name": "Barbados",
+    "name_no": "Barbados",
+    "lat": 13.183219369337529,
+    "lon": -59.557383949150285,
+    "ISO_A3": "BRB",
+    "ISO_A2": "BB",
+    "numeric": "052"
+  },
+  "BY": {
+    "name": "Belarus",
+    "name_no": "Hviterussland",
+    "lat": 53.46791374543163,
+    "lon": 27.964252054715104,
+    "ISO_A3": "BLR",
+    "ISO_A2": "BY",
+    "numeric": "112"
+  },
+  "BE": {
+    "name": "Belgium",
+    "name_no": "Belgia",
+    "lat": 50.6182138854095,
+    "lon": 4.675010154696485,
+    "ISO_A3": "BEL",
+    "ISO_A2": "BE",
+    "numeric": "056"
+  },
+  "BZ": {
+    "name": "Belize",
+    "name_no": "Belize",
+    "lat": 17.24252476647155,
+    "lon": -88.68273510023441,
+    "ISO_A3": "BLZ",
+    "ISO_A2": "BZ",
+    "numeric": "084"
+  },
+  "BJ": {
+    "name": "Benin",
+    "name_no": "Benin",
+    "lat": 9.503013199615893,
+    "lon": 2.305714528830206,
+    "ISO_A3": "BEN",
+    "ISO_A2": "BJ",
+    "numeric": "204"
+  },
+  "BT": {
+    "name": "Bhutan",
+    "name_no": "Bhutan",
+    "lat": 27.42163933959824,
+    "lon": 90.4671664717386,
+    "ISO_A3": "BTN",
+    "ISO_A2": "BT",
+    "numeric": "064"
+  },
+  "BO": {
+    "name": "Bolivia (Plurinational State of)",
+    "name_no": "Bolivia",
+    "lat": -16.7312488393574,
+    "lon": -64.45209597511206,
+    "ISO_A3": "BOL",
+    "ISO_A2": "BO",
+    "numeric": "068"
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "name_no": "Bosnia-Hercegovina",
+    "lat": 44.14415356126429,
+    "lon": 17.83467240787538,
+    "ISO_A3": "BIH",
+    "ISO_A2": "BA",
+    "numeric": "070"
+  },
+  "BW": {
+    "name": "Botswana",
+    "name_no": "Botswana",
+    "lat": -22.236609002062902,
+    "lon": 23.85779956995608,
+    "ISO_A3": "BWA",
+    "ISO_A2": "BW",
+    "numeric": "072"
+  },
+  "BR": {
+    "name": "Brazil",
+    "name_no": "Brasil",
+    "lat": -11.524630416426652,
+    "lon": -54.35520660825642,
+    "ISO_A3": "BRA",
+    "ISO_A2": "BR",
+    "numeric": "076"
+  },
+  "BN": {
+    "name": "Brunei Darussalam",
+    "name_no": "Brunei",
+    "lat": 4.543205889917609,
+    "lon": 114.6430958360464,
+    "ISO_A3": "BRN",
+    "ISO_A2": "BN",
+    "numeric": "096"
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "name_no": "Bulgaria",
+    "lat": 42.82043677302438,
+    "lon": 25.251739122561908,
+    "ISO_A3": "BGR",
+    "ISO_A2": "BG",
+    "numeric": "100"
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "name_no": "Burkina Faso",
+    "lat": 12.108709036312735,
+    "lon": -1.6932816211842323,
+    "ISO_A3": "BFA",
+    "ISO_A2": "BF",
+    "numeric": "854"
+  },
+  "BI": {
+    "name": "Burundi",
+    "name_no": "Burundi",
+    "lat": -3.261251993278643,
+    "lon": 29.88518227845293,
+    "ISO_A3": "BDI",
+    "ISO_A2": "BI",
+    "numeric": "108"
+  },
+  "CV": {
+    "name": "Cabo Verde",
+    "name_no": "Kapp Verde",
+    "lat": 15.076411518651645,
+    "lon": -23.63401005900474,
+    "ISO_A3": "CPV",
+    "ISO_A2": "CV",
+    "numeric": "132"
+  },
+  "KH": {
+    "name": "Cambodia",
+    "name_no": "Kambodsja",
+    "lat": 12.699186865507777,
+    "lon": 105.039730786807,
+    "ISO_A3": "KHM",
+    "ISO_A2": "KH",
+    "numeric": "116"
+  },
+  "CM": {
+    "name": "Cameroon",
+    "name_no": "Kamerun",
+    "lat": 6.294168487480992,
+    "lon": 12.948474142398265,
+    "ISO_A3": "CMR",
+    "ISO_A2": "CM",
+    "numeric": "120"
+  },
+  "CA": {
+    "name": "Canada",
+    "name_no": "Canada",
+    "lat": 57.55048004465564,
+    "lon": -98.41680517868062,
+    "ISO_A3": "CAN",
+    "ISO_A2": "CA",
+    "numeric": "124"
+  },
+  "CF": {
+    "name": "Central African Republic (the)",
+    "name_no": "Den sentralafrikanske republikk",
+    "lat": 6.331390033944319,
+    "lon": 20.520743419397256,
+    "ISO_A3": "CAF",
+    "ISO_A2": "CF",
+    "numeric": "140"
+  },
+  "TD": {
+    "name": "Chad",
+    "name_no": "Tsjad",
+    "lat": 15.283493546654505,
+    "lon": 18.427113900363025,
+    "ISO_A3": "TCD",
+    "ISO_A2": "TD",
+    "numeric": "148"
+  },
+  "CL": {
+    "name": "Chile",
+    "name_no": "Chile",
+    "lat": -37.82938283049967,
+    "lon": -70.76863431739216,
+    "ISO_A3": "CHL",
+    "ISO_A2": "CL",
+    "numeric": "152"
+  },
+  "CN": {
+    "name": "China",
+    "name_no": "Kina",
+    "lat": 38.07325481105728,
+    "lon": 104.69113855849604,
+    "ISO_A3": "CHN",
+    "ISO_A2": "CN",
+    "numeric": "156"
+  },
+  "CO": {
+    "name": "Colombia",
+    "name_no": "Colombia",
+    "lat": 4.187753877352739,
+    "lon": -72.6445066243485,
+    "ISO_A3": "COL",
+    "ISO_A2": "CO",
+    "numeric": "170"
+  },
+  "KM": {
+    "name": "Comoros (the)",
+    "name_no": "Komorene",
+    "lat": -11.658861474508493,
+    "lon": 43.34826587429403,
+    "ISO_A3": "COM",
+    "ISO_A2": "KM",
+    "numeric": "174"
+  },
+  "CD": {
+    "name": "Congo (the Democratic Republic of the)",
+    "name_no": "Den demokratiske republikken Kongo",
+    "lat": -3.338629596207896,
+    "lon": 23.419827574282188,
+    "ISO_A3": "COD",
+    "ISO_A2": "CD",
+    "numeric": "180"
+  },
+  "CG": {
+    "name": "Congo (the)",
+    "name_no": "Kongo",
+    "lat": -0.7294391595233845,
+    "lon": 14.879732849491392,
+    "ISO_A3": "COG",
+    "ISO_A2": "CG",
+    "numeric": "178"
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "name_no": "Costa Rica",
+    "lat": 9.863467407406214,
+    "lon": -84.14673625701816,
+    "ISO_A3": "CRI",
+    "ISO_A2": "CR",
+    "numeric": "188"
+  },
+  "HR": {
+    "name": "Croatia",
+    "name_no": "Kroatia",
+    "lat": 44.91192100856702,
+    "lon": 16.625761129583374,
+    "ISO_A3": "HRV",
+    "ISO_A2": "HR",
+    "numeric": "191"
+  },
+  "CU": {
+    "name": "Cuba",
+    "name_no": "Cuba",
+    "lat": 21.476176522869448,
+    "lon": -79.69817857618705,
+    "ISO_A3": "CUB",
+    "ISO_A2": "CU",
+    "numeric": "192"
+  },
+  "CY": {
+    "name": "Cyprus",
+    "name_no": "Kypros",
+    "lat": 35.11700416345239,
+    "lon": 33.375346009199205,
+    "ISO_A3": "CYP",
+    "ISO_A2": "CY",
+    "numeric": "196"
+  },
+  "CZ": {
+    "name": "Czechia",
+    "name_no": "Tsjekkia",
+    "lat": 49.74917370930982,
+    "lon": 15.383273292023532,
+    "ISO_A3": "CZE",
+    "ISO_A2": "CZ",
+    "numeric": "203"
+  },
+  "CI": {
+    "name": "C\u00f4te d'Ivoire",
+    "name_no": "Elfenbenskysten",
+    "lat": 7.536779279421307,
+    "lon": -5.571710194917734,
+    "ISO_A3": "CIV",
+    "ISO_A2": "CI",
+    "numeric": "384"
+  },
+  "DK": {
+    "name": "Denmark",
+    "name_no": "Danmark",
+    "lat": 74.16847218965994,
+    "lon": -42.07567788066985,
+    "ISO_A3": "DNK",
+    "ISO_A2": "DK",
+    "numeric": "208"
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "name_no": "Djibouti",
+    "lat": 11.750235727618804,
+    "lon": 42.61349689878951,
+    "ISO_A3": "DJI",
+    "ISO_A2": "DJ",
+    "numeric": "262"
+  },
+  "DM": {
+    "name": "Dominica",
+    "name_no": "Dominica",
+    "lat": 15.429269860940511,
+    "lon": -61.360471946942994,
+    "ISO_A3": "DMA",
+    "ISO_A2": "DM",
+    "numeric": "212"
+  },
+  "DO": {
+    "name": "Dominican Republic (the)",
+    "name_no": "Den dominikanske republikk",
+    "lat": 18.77954818522993,
+    "lon": -70.43495198520012,
+    "ISO_A3": "DOM",
+    "ISO_A2": "DO",
+    "numeric": "214"
+  },
+  "EC": {
+    "name": "Ecuador",
+    "name_no": "Ecuador",
+    "lat": -1.5642721388853116,
+    "lon": -78.4630326109714,
+    "ISO_A3": "ECU",
+    "ISO_A2": "EC",
+    "numeric": "218"
+  },
+  "EG": {
+    "name": "Egypt",
+    "name_no": "Egypt",
+    "lat": 26.60517034450628,
+    "lon": 30.240135435012338,
+    "ISO_A3": "EGY",
+    "ISO_A2": "EG",
+    "numeric": "818"
+  },
+  "SV": {
+    "name": "El Salvador",
+    "name_no": "El Salvador",
+    "lat": 13.758041517055418,
+    "lon": -88.85911489238985,
+    "ISO_A3": "SLV",
+    "ISO_A2": "SV",
+    "numeric": "222"
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "name_no": "Ekvatorial-Guinea",
+    "lat": 1.595464393659073,
+    "lon": 10.425456672353825,
+    "ISO_A3": "GNQ",
+    "ISO_A2": "GQ",
+    "numeric": "226"
+  },
+  "ER": {
+    "name": "Eritrea",
+    "name_no": "Eritrea",
+    "lat": 15.005533147667684,
+    "lon": 39.2672401449901,
+    "ISO_A3": "ERI",
+    "ISO_A2": "ER",
+    "numeric": "232"
+  },
+  "EE": {
+    "name": "Estonia",
+    "name_no": "Estland",
+    "lat": 58.64810831123104,
+    "lon": 25.916870250633806,
+    "ISO_A3": "EST",
+    "ISO_A2": "EE",
+    "numeric": "233"
+  },
+  "SZ": {
+    "name": "Eswatini",
+    "name_no": "Eswatini",
+    "lat": -26.562540935608705,
+    "lon": 31.510685746082007,
+    "ISO_A3": "SWZ",
+    "ISO_A2": "SZ",
+    "numeric": "748"
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "name_no": "Etiopia",
+    "lat": 8.729389557048396,
+    "lon": 39.91490288654428,
+    "ISO_A3": "ETH",
+    "ISO_A2": "ET",
+    "numeric": "231"
+  },
+  "FJ": {
+    "name": "Fiji",
+    "name_no": "Fiji",
+    "lat": -17.822470952336204,
+    "lon": 177.98144613732626,
+    "ISO_A3": "FJI",
+    "ISO_A2": "FJ",
+    "numeric": "242"
+  },
+  "FI": {
+    "name": "Finland",
+    "name_no": "Finland",
+    "lat": 65.01578959749911,
+    "lon": 25.65738433454702,
+    "ISO_A3": "FIN",
+    "ISO_A2": "FI",
+    "numeric": "246"
+  },
+  "FR": {
+    "name": "France",
+    "name_no": "Frankrike",
+    "lat": -17.674684080120677,
+    "lon": -149.40041671099763,
+    "ISO_A3": "FRA",
+    "ISO_A2": "FR",
+    "numeric": "250"
+  },
+  "GA": {
+    "name": "Gabon",
+    "name_no": "Gabon",
+    "lat": -0.628448459921234,
+    "lon": 11.839410898545754,
+    "ISO_A3": "GAB",
+    "ISO_A2": "GA",
+    "numeric": "266"
+  },
+  "GM": {
+    "name": "Gambia (the)",
+    "name_no": "Gambia",
+    "lat": 13.428617959189328,
+    "lon": -15.383380385869662,
+    "ISO_A3": "GMB",
+    "ISO_A2": "GM",
+    "numeric": "270"
+  },
+  "GE": {
+    "name": "Georgia",
+    "name_no": "Georgia",
+    "lat": 42.17986277737226,
+    "lon": 43.37886653411224,
+    "ISO_A3": "GEO",
+    "ISO_A2": "GE",
+    "numeric": "268"
+  },
+  "DE": {
+    "name": "Germany",
+    "name_no": "Tyskland",
+    "lat": 51.08304539800482,
+    "lon": 10.426171427430804,
+    "ISO_A3": "DEU",
+    "ISO_A2": "DE",
+    "numeric": "276"
+  },
+  "GH": {
+    "name": "Ghana",
+    "name_no": "Ghana",
+    "lat": 7.94530467243628,
+    "lon": -1.219233362526581,
+    "ISO_A3": "GHA",
+    "ISO_A2": "GH",
+    "numeric": "288"
+  },
+  "GR": {
+    "name": "Greece",
+    "name_no": "Hellas",
+    "lat": 39.42012261727978,
+    "lon": 23.11036893616188,
+    "ISO_A3": "GRC",
+    "ISO_A2": "GR",
+    "numeric": "300"
+  },
+  "GD": {
+    "name": "Grenada",
+    "name_no": "Grenada",
+    "lat": 12.112926656338908,
+    "lon": -61.67937937204098,
+    "ISO_A3": "GRD",
+    "ISO_A2": "GD",
+    "numeric": "308"
+  },
+  "GT": {
+    "name": "Guatemala",
+    "name_no": "Guatemala",
+    "lat": 15.820878515352684,
+    "lon": -90.31219349119615,
+    "ISO_A3": "GTM",
+    "ISO_A2": "GT",
+    "numeric": "320"
+  },
+  "GN": {
+    "name": "Guinea",
+    "name_no": "Guinea",
+    "lat": 10.255986541378112,
+    "lon": -10.986948848040218,
+    "ISO_A3": "GIN",
+    "ISO_A2": "GN",
+    "numeric": "324"
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "name_no": "Guinea-Bissau",
+    "lat": 11.980075324820504,
+    "lon": -14.980186756910848,
+    "ISO_A3": "GNB",
+    "ISO_A2": "GW",
+    "numeric": "624"
+  },
+  "GY": {
+    "name": "Guyana",
+    "name_no": "Guyana",
+    "lat": 4.68211981385056,
+    "lon": -58.91352612754667,
+    "ISO_A3": "GUY",
+    "ISO_A2": "GY",
+    "numeric": "328"
+  },
+  "HT": {
+    "name": "Haiti",
+    "name_no": "Haiti",
+    "lat": 18.883520486983567,
+    "lon": -72.89291379842,
+    "ISO_A3": "HTI",
+    "ISO_A2": "HT",
+    "numeric": "332"
+  },
+  "VA": {
+    "name": "Holy See (the)",
+    "name_no": "Vatikanstaten",
+    "lat": 41.90402351316735,
+    "lon": 12.451312917026131,
+    "ISO_A3": "VAT",
+    "ISO_A2": "VA",
+    "numeric": "336"
+  },
+  "HN": {
+    "name": "Honduras",
+    "name_no": "Honduras",
+    "lat": 14.740370695750006,
+    "lon": -86.49251679006962,
+    "ISO_A3": "HND",
+    "ISO_A2": "HN",
+    "numeric": "340"
+  },
+  "HU": {
+    "name": "Hungary",
+    "name_no": "Ungarn",
+    "lat": 47.22527332486294,
+    "lon": 19.39620048366142,
+    "ISO_A3": "HUN",
+    "ISO_A2": "HU",
+    "numeric": "348"
+  },
+  "IS": {
+    "name": "Iceland",
+    "name_no": "Island",
+    "lat": 65.12360920205514,
+    "lon": -19.05682967106099,
+    "ISO_A3": "ISL",
+    "ISO_A2": "IS",
+    "numeric": "352"
+  },
+  "IN": {
+    "name": "India",
+    "name_no": "India",
+    "lat": 23.58630056774672,
+    "lon": 81.17300408530181,
+    "ISO_A3": "IND",
+    "ISO_A2": "IN",
+    "numeric": "356"
+  },
+  "ID": {
+    "name": "Indonesia",
+    "name_no": "Indonesia",
+    "lat": 0.1559197995903765,
+    "lon": 113.96538246847302,
+    "ISO_A3": "IDN",
+    "ISO_A2": "ID",
+    "numeric": "360"
+  },
+  "IR": {
+    "name": "Iran (Islamic Republic of)",
+    "name_no": "Iran",
+    "lat": 32.906023742890056,
+    "lon": 54.23707700106544,
+    "ISO_A3": "IRN",
+    "ISO_A2": "IR",
+    "numeric": "364"
+  },
+  "IQ": {
+    "name": "Iraq",
+    "name_no": "Irak",
+    "lat": 33.105075667527906,
+    "lon": 43.83252918105688,
+    "ISO_A3": "IRQ",
+    "ISO_A2": "IQ",
+    "numeric": "368"
+  },
+  "IE": {
+    "name": "Ireland",
+    "name_no": "Irland",
+    "lat": 53.30489539816495,
+    "lon": -8.241128545554096,
+    "ISO_A3": "IRL",
+    "ISO_A2": "IE",
+    "numeric": "372"
+  },
+  "IL": {
+    "name": "Israel",
+    "name_no": "Israel",
+    "lat": 31.513542220043195,
+    "lon": 35.027923472437024,
+    "ISO_A3": "ISR",
+    "ISO_A2": "IL",
+    "numeric": "376"
+  },
+  "IT": {
+    "name": "Italy",
+    "name_no": "Italia",
+    "lat": 42.98201127614267,
+    "lon": 12.763657166123137,
+    "ISO_A3": "ITA",
+    "ISO_A2": "IT",
+    "numeric": "380"
+  },
+  "JM": {
+    "name": "Jamaica",
+    "name_no": "Jamaica",
+    "lat": 18.12207889341651,
+    "lon": -77.30358894542778,
+    "ISO_A3": "JAM",
+    "ISO_A2": "JM",
+    "numeric": "388"
+  },
+  "JP": {
+    "name": "Japan",
+    "name_no": "Japan",
+    "lat": 36.76738832597829,
+    "lon": 137.46934234351835,
+    "ISO_A3": "JPN",
+    "ISO_A2": "JP",
+    "numeric": "392"
+  },
+  "JO": {
+    "name": "Jordan",
+    "name_no": "Jordan",
+    "lat": 31.38706488444916,
+    "lon": 36.95728884547246,
+    "ISO_A3": "JOR",
+    "ISO_A2": "JO",
+    "numeric": "400"
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "name_no": "Kasakhstan",
+    "lat": 47.64146519517684,
+    "lon": 66.3759193479301,
+    "ISO_A3": "KAZ",
+    "ISO_A2": "KZ",
+    "numeric": "398"
+  },
+  "KE": {
+    "name": "Kenya",
+    "name_no": "Kenya",
+    "lat": 0.6899182318376179,
+    "lon": 37.95309411262371,
+    "ISO_A3": "KEN",
+    "ISO_A2": "KE",
+    "numeric": "404"
+  },
+  "KI": {
+    "name": "Kiribati",
+    "name_no": "Kiribati",
+    "lat": 1.8676673749241064,
+    "lon": -157.39024189323504,
+    "ISO_A3": "KIR",
+    "ISO_A2": "KI",
+    "numeric": "296"
+  },
+  "KP": {
+    "name": "Korea (the Democratic People's Republic of)",
+    "name_no": "Nord-Korea",
+    "lat": 40.19198091470839,
+    "lon": 127.3379805653744,
+    "ISO_A3": "PRK",
+    "ISO_A2": "KP",
+    "numeric": "408"
+  },
+  "KR": {
+    "name": "Korea (the Republic of)",
+    "name_no": "S\u00f8r-Korea",
+    "lat": 36.402386712544114,
+    "lon": 127.76224551357647,
+    "ISO_A3": "KOR",
+    "ISO_A2": "KR",
+    "numeric": "410"
+  },
+  "KW": {
+    "name": "Kuwait",
+    "name_no": "Kuwait",
+    "lat": 29.28136096544309,
+    "lon": 47.56311109320184,
+    "ISO_A3": "KWT",
+    "ISO_A2": "KW",
+    "numeric": "414"
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "name_no": "Kirgisistan",
+    "lat": 41.35698905438358,
+    "lon": 74.17532903468319,
+    "ISO_A3": "KGZ",
+    "ISO_A2": "KG",
+    "numeric": "417"
+  },
+  "LA": {
+    "name": "Lao People's Democratic Republic (the)",
+    "name_no": "Laos",
+    "lat": 18.11728273687328,
+    "lon": 103.76375899026448,
+    "ISO_A3": "LAO",
+    "ISO_A2": "LA",
+    "numeric": "418"
+  },
+  "LV": {
+    "name": "Latvia",
+    "name_no": "Latvia",
+    "lat": 56.81385304755416,
+    "lon": 24.693671325654403,
+    "ISO_A3": "LVA",
+    "ISO_A2": "LV",
+    "numeric": "428"
+  },
+  "LB": {
+    "name": "Lebanon",
+    "name_no": "Libanon",
+    "lat": 33.91160170722086,
+    "lon": 35.89651946324749,
+    "ISO_A3": "LBN",
+    "ISO_A2": "LB",
+    "numeric": "422"
+  },
+  "LS": {
+    "name": "Lesotho",
+    "name_no": "Lesotho",
+    "lat": -29.60168116924817,
+    "lon": 28.24475317864227,
+    "ISO_A3": "LSO",
+    "ISO_A2": "LS",
+    "numeric": "426"
+  },
+  "LR": {
+    "name": "Liberia",
+    "name_no": "Liberia",
+    "lat": 6.52012979398834,
+    "lon": -9.258988935497618,
+    "ISO_A3": "LBR",
+    "ISO_A2": "LR",
+    "numeric": "430"
+  },
+  "LY": {
+    "name": "Libya",
+    "name_no": "Libya",
+    "lat": 27.202915771690797,
+    "lon": 17.91133392454237,
+    "ISO_A3": "LBY",
+    "ISO_A2": "LY",
+    "numeric": "434"
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "name_no": "Liechtenstein",
+    "lat": 47.14627562133036,
+    "lon": 9.547674672376376,
+    "ISO_A3": "LIE",
+    "ISO_A2": "LI",
+    "numeric": "438"
+  },
+  "LT": {
+    "name": "Lithuania",
+    "name_no": "Litauen",
+    "lat": 55.29437393417175,
+    "lon": 23.94602160501353,
+    "ISO_A3": "LTU",
+    "ISO_A2": "LT",
+    "numeric": "440"
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "name_no": "Luxembourg",
+    "lat": 49.77523454542369,
+    "lon": 6.103230338458876,
+    "ISO_A3": "LUX",
+    "ISO_A2": "LU",
+    "numeric": "442"
+  },
+  "MG": {
+    "name": "Madagascar",
+    "name_no": "Madagaskar",
+    "lat": -19.04163612493041,
+    "lon": 46.68493466832544,
+    "ISO_A3": "MDG",
+    "ISO_A2": "MG",
+    "numeric": "450"
+  },
+  "MW": {
+    "name": "Malawi",
+    "name_no": "Malawi",
+    "lat": -13.128986464184024,
+    "lon": 34.23441182298881,
+    "ISO_A3": "MWI",
+    "ISO_A2": "MW",
+    "numeric": "454"
+  },
+  "MY": {
+    "name": "Malaysia",
+    "name_no": "Malaysia",
+    "lat": 3.6716608556387857,
+    "lon": 114.63330303992868,
+    "ISO_A3": "MYS",
+    "ISO_A2": "MY",
+    "numeric": "458"
+  },
+  "MV": {
+    "name": "Maldives",
+    "name_no": "Maldivene",
+    "lat": -0.6065577168009924,
+    "lon": 73.10076245140479,
+    "ISO_A3": "MDV",
+    "ISO_A2": "MV",
+    "numeric": "462"
+  },
+  "ML": {
+    "name": "Mali",
+    "name_no": "Mali",
+    "lat": 17.168146208584837,
+    "lon": -4.346399841781153,
+    "ISO_A3": "MLI",
+    "ISO_A2": "ML",
+    "numeric": "466"
+  },
+  "MT": {
+    "name": "Malta",
+    "name_no": "Malta",
+    "lat": 35.890522650899314,
+    "lon": 14.441922442508494,
+    "ISO_A3": "MLT",
+    "ISO_A2": "MT",
+    "numeric": "470"
+  },
+  "MH": {
+    "name": "Marshall Islands (the)",
+    "name_no": "Marshall\u00f8yene",
+    "lat": 7.307929900994344,
+    "lon": 168.72016025351076,
+    "ISO_A3": "MHL",
+    "ISO_A2": "MH",
+    "numeric": "584"
+  },
+  "MR": {
+    "name": "Mauritania",
+    "name_no": "Mauritania",
+    "lat": 20.466731212820022,
+    "lon": -10.495079045035716,
+    "ISO_A3": "MRT",
+    "ISO_A2": "MR",
+    "numeric": "478"
+  },
+  "MU": {
+    "name": "Mauritius",
+    "name_no": "Mauritius",
+    "lat": -20.28142317475198,
+    "lon": 57.56415671066546,
+    "ISO_A3": "MUS",
+    "ISO_A2": "MU",
+    "numeric": "480"
+  },
+  "MX": {
+    "name": "Mexico",
+    "name_no": "Mexico",
+    "lat": 23.87436068093592,
+    "lon": -101.55399731630118,
+    "ISO_A3": "MEX",
+    "ISO_A2": "MX",
+    "numeric": "484"
+  },
+  "FM": {
+    "name": "Micronesia (Federated States of)",
+    "name_no": "Mikronesiaf\u00f8derasjonen",
+    "lat": 6.878944812925544,
+    "lon": 158.2291899444527,
+    "ISO_A3": "FSM",
+    "ISO_A2": "FM",
+    "numeric": "583"
+  },
+  "MD": {
+    "name": "Moldova (the Republic of)",
+    "name_no": "Moldova",
+    "lat": 47.0725674580696,
+    "lon": 28.391111865941348,
+    "ISO_A3": "MDA",
+    "ISO_A2": "MD",
+    "numeric": "498"
+  },
+  "MC": {
+    "name": "Monaco",
+    "name_no": "Monaco",
+    "lat": 43.74798224995656,
+    "lon": 7.412820873271196,
+    "ISO_A3": "MCO",
+    "ISO_A2": "MC",
+    "numeric": "492"
+  },
+  "MN": {
+    "name": "Mongolia",
+    "name_no": "Mongolia",
+    "lat": 47.08644454604851,
+    "lon": 103.3987360327455,
+    "ISO_A3": "MNG",
+    "ISO_A2": "MN",
+    "numeric": "496"
+  },
+  "ME": {
+    "name": "Montenegro",
+    "name_no": "Montenegro",
+    "lat": 42.73694835210454,
+    "lon": 19.29505087156758,
+    "ISO_A3": "MNE",
+    "ISO_A2": "ME",
+    "numeric": "499"
+  },
+  "MA": {
+    "name": "Morocco",
+    "name_no": "Marokko",
+    "lat": 28.687598134979325,
+    "lon": -8.817212587250811,
+    "ISO_A3": "MAR",
+    "ISO_A2": "MA",
+    "numeric": "504"
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "name_no": "Mosambik",
+    "lat": -17.525230309488748,
+    "lon": 35.208577031290176,
+    "ISO_A3": "MOZ",
+    "ISO_A2": "MZ",
+    "numeric": "508"
+  },
+  "MM": {
+    "name": "Myanmar",
+    "name_no": "Myanmar",
+    "lat": 19.901227931399877,
+    "lon": 97.08892285397344,
+    "ISO_A3": "MMR",
+    "ISO_A2": "MM",
+    "numeric": "104"
+  },
+  "NR": {
+    "name": "Nauru",
+    "name_no": "Nauru",
+    "lat": -0.5221021440668993,
+    "lon": 166.92937633139178,
+    "ISO_A3": "NRU",
+    "ISO_A2": "NR",
+    "numeric": "520"
+  },
+  "NP": {
+    "name": "Nepal",
+    "name_no": "Nepal",
+    "lat": 28.300920699755657,
+    "lon": 84.1338898313567,
+    "ISO_A3": "NPL",
+    "ISO_A2": "NP",
+    "numeric": "524"
+  },
+  "NL": {
+    "name": "Netherlands (the)",
+    "name_no": "Nederland",
+    "lat": 12.180844982440338,
+    "lon": -68.29350445958761,
+    "ISO_A3": "NLD",
+    "ISO_A2": "NL",
+    "numeric": "528"
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "name_no": "New Zealand",
+    "lat": -21.22261325339984,
+    "lon": -159.78768870952257,
+    "ISO_A3": "NZL",
+    "ISO_A2": "NZ",
+    "numeric": "554"
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "name_no": "Nicaragua",
+    "lat": 12.893566631930554,
+    "lon": -85.016088327669,
+    "ISO_A3": "NIC",
+    "ISO_A2": "NI",
+    "numeric": "558"
+  },
+  "NE": {
+    "name": "Niger (the)",
+    "name_no": "Niger",
+    "lat": 17.08105392407292,
+    "lon": 8.86863247002646,
+    "ISO_A3": "NER",
+    "ISO_A2": "NE",
+    "numeric": "562"
+  },
+  "NG": {
+    "name": "Nigeria",
+    "name_no": "Nigeria",
+    "lat": 9.61029352034213,
+    "lon": 8.147714845256194,
+    "ISO_A3": "NGA",
+    "ISO_A2": "NG",
+    "numeric": "566"
+  },
+  "NO": {
+    "name": "Norway",
+    "name_no": "Norge",
+    "lat": 78.57318936469626,
+    "lon": 16.036378851505283,
+    "ISO_A3": "NOR",
+    "ISO_A2": "NO",
+    "numeric": "578"
+  },
+  "OM": {
+    "name": "Oman",
+    "name_no": "Oman",
+    "lat": 20.7242833183209,
+    "lon": 55.841088119829,
+    "ISO_A3": "OMN",
+    "ISO_A2": "OM",
+    "numeric": "512"
+  },
+  "PK": {
+    "name": "Pakistan",
+    "name_no": "Pakistan",
+    "lat": 30.11618837141088,
+    "lon": 69.08835090769651,
+    "ISO_A3": "PAK",
+    "ISO_A2": "PK",
+    "numeric": "586"
+  },
+  "PW": {
+    "name": "Palau",
+    "name_no": "Palau",
+    "lat": 7.534775852547396,
+    "lon": 134.57965086721052,
+    "ISO_A3": "PLW",
+    "ISO_A2": "PW",
+    "numeric": "585"
+  },
+  "PS": {
+    "name": "Palestine, State of",
+    "name_no": "Palestina",
+    "lat": 31.930818736453883,
+    "lon": 35.24251184154588,
+    "ISO_A3": "PSE",
+    "ISO_A2": "PS",
+    "numeric": "275"
+  },
+  "PA": {
+    "name": "Panama",
+    "name_no": "Panama",
+    "lat": 8.439536749576892,
+    "lon": -80.14428761482796,
+    "ISO_A3": "PAN",
+    "ISO_A2": "PA",
+    "numeric": "591"
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "name_no": "Papua Ny-Guinea",
+    "lat": -7.156912819152135,
+    "lon": 144.8348942994695,
+    "ISO_A3": "PNG",
+    "ISO_A2": "PG",
+    "numeric": "598"
+  },
+  "PY": {
+    "name": "Paraguay",
+    "name_no": "Paraguay",
+    "lat": -23.42190559259428,
+    "lon": -58.38906357428651,
+    "ISO_A3": "PRY",
+    "ISO_A2": "PY",
+    "numeric": "600"
+  },
+  "PE": {
+    "name": "Peru",
+    "name_no": "Peru",
+    "lat": -8.522717984240291,
+    "lon": -74.11416196781884,
+    "ISO_A3": "PER",
+    "ISO_A2": "PE",
+    "numeric": "604"
+  },
+  "PH": {
+    "name": "Philippines (the)",
+    "name_no": "Filippinene",
+    "lat": 15.586542251094242,
+    "lon": 121.82208941416744,
+    "ISO_A3": "PHL",
+    "ISO_A2": "PH",
+    "numeric": "608"
+  },
+  "PL": {
+    "name": "Poland",
+    "name_no": "Polen",
+    "lat": 52.06848055692473,
+    "lon": 19.43573279234468,
+    "ISO_A3": "POL",
+    "ISO_A2": "PL",
+    "numeric": "616"
+  },
+  "PT": {
+    "name": "Portugal",
+    "name_no": "Portugal",
+    "lat": 39.67529214702138,
+    "lon": -7.933662183874006,
+    "ISO_A3": "PRT",
+    "ISO_A2": "PT",
+    "numeric": "620"
+  },
+  "QA": {
+    "name": "Qatar",
+    "name_no": "Qatar",
+    "lat": 25.318528486425382,
+    "lon": 51.19794918743203,
+    "ISO_A3": "QAT",
+    "ISO_A2": "QA",
+    "numeric": "634"
+  },
+  "MK": {
+    "name": "Republic of North Macedonia",
+    "name_no": "Nord-Makedonia",
+    "lat": 41.59402890143112,
+    "lon": 21.70998923872772,
+    "ISO_A3": "MKD",
+    "ISO_A2": "MK",
+    "numeric": "807"
+  },
+  "RO": {
+    "name": "Romania",
+    "name_no": "Romania",
+    "lat": 45.82454894397586,
+    "lon": 25.09415820156329,
+    "ISO_A3": "ROU",
+    "ISO_A2": "RO",
+    "numeric": "642"
+  },
+  "RU": {
+    "name": "Russian Federation (the)",
+    "name_no": "Russland",
+    "lat": 59.039434214106194,
+    "lon": 98.6704990698032,
+    "ISO_A3": "RUS",
+    "ISO_A2": "RU",
+    "numeric": "643"
+  },
+  "RW": {
+    "name": "Rwanda",
+    "name_no": "Rwanda",
+    "lat": -2.014687460047154,
+    "lon": 29.91943968176408,
+    "ISO_A3": "RWA",
+    "ISO_A2": "RW",
+    "numeric": "646"
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "name_no": "Saint Kitts og Nevis",
+    "lat": 17.314736299587768,
+    "lon": -62.74560385895787,
+    "ISO_A3": "KNA",
+    "ISO_A2": "KN",
+    "numeric": "659"
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "name_no": "Saint Lucia",
+    "lat": 13.895749185129906,
+    "lon": -60.9689510935251,
+    "ISO_A3": "LCA",
+    "ISO_A2": "LC",
+    "numeric": "662"
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "name_no": "Saint Vincent og Grenadinene",
+    "lat": 13.254808122970651,
+    "lon": -61.19376635439304,
+    "ISO_A3": "VCT",
+    "ISO_A2": "VC",
+    "numeric": "670"
+  },
+  "WS": {
+    "name": "Samoa",
+    "name_no": "Samoa",
+    "lat": -13.634252953274622,
+    "lon": -172.44107655740137,
+    "ISO_A3": "WSM",
+    "ISO_A2": "WS",
+    "numeric": "882"
+  },
+  "SM": {
+    "name": "San Marino",
+    "name_no": "San Marino",
+    "lat": 43.942820729097896,
+    "lon": 12.461278349581722,
+    "ISO_A3": "SMR",
+    "ISO_A2": "SM",
+    "numeric": "674"
+  },
+  "ST": {
+    "name": "Sao Tome and Principe",
+    "name_no": "S\u00e3o Tom\u00e9 og Pr\u00edncipe",
+    "lat": 0.2274470429479377,
+    "lon": 6.606158796857607,
+    "ISO_A3": "STP",
+    "ISO_A2": "ST",
+    "numeric": "678"
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "name_no": "Saudi-Arabia",
+    "lat": 24.136038144757897,
+    "lon": 44.6009581782256,
+    "ISO_A3": "SAU",
+    "ISO_A2": "SA",
+    "numeric": "682"
+  },
+  "SN": {
+    "name": "Senegal",
+    "name_no": "Senegal",
+    "lat": 14.228861491763402,
+    "lon": -14.610875368352303,
+    "ISO_A3": "SEN",
+    "ISO_A2": "SN",
+    "numeric": "686"
+  },
+  "RS": {
+    "name": "Serbia",
+    "name_no": "Serbia",
+    "lat": 44.02679870131969,
+    "lon": 20.85677444395745,
+    "ISO_A3": "SRB",
+    "ISO_A2": "RS",
+    "numeric": "688"
+  },
+  "SC": {
+    "name": "Seychelles",
+    "name_no": "Seychellene",
+    "lat": -4.660002318822744,
+    "lon": 55.47250789595527,
+    "ISO_A3": "SYC",
+    "ISO_A2": "SC",
+    "numeric": "690"
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "name_no": "Sierra Leone",
+    "lat": 8.561330384750587,
+    "lon": -11.78656695731115,
+    "ISO_A3": "SLE",
+    "ISO_A2": "SL",
+    "numeric": "694"
+  },
+  "SG": {
+    "name": "Singapore",
+    "name_no": "Singapore",
+    "lat": 1.3528251890006349,
+    "lon": 103.81025757634052,
+    "ISO_A3": "SGP",
+    "ISO_A2": "SG",
+    "numeric": "702"
+  },
+  "SK": {
+    "name": "Slovakia",
+    "name_no": "Slovakia",
+    "lat": 48.69808390520484,
+    "lon": 19.58101536249097,
+    "ISO_A3": "SVK",
+    "ISO_A2": "SK",
+    "numeric": "703"
+  },
+  "SI": {
+    "name": "Slovenia",
+    "name_no": "Slovenia",
+    "lat": 46.13759229564504,
+    "lon": 14.89063689997378,
+    "ISO_A3": "SVN",
+    "ISO_A2": "SI",
+    "numeric": "705"
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "name_no": "Salomon\u00f8yene",
+    "lat": -9.613104734596517,
+    "lon": 160.16475795033884,
+    "ISO_A3": "SLB",
+    "ISO_A2": "SB",
+    "numeric": "090"
+  },
+  "SO": {
+    "name": "Somalia",
+    "name_no": "Somalia",
+    "lat": 6.524534573103924,
+    "lon": 45.40037867243972,
+    "ISO_A3": "SOM",
+    "ISO_A2": "SO",
+    "numeric": "706"
+  },
+  "ZA": {
+    "name": "South Africa",
+    "name_no": "S\u00f8r-Afrika",
+    "lat": -28.55361930679731,
+    "lon": 24.75252746489084,
+    "ISO_A3": "ZAF",
+    "ISO_A2": "ZA",
+    "numeric": "710"
+  },
+  "SS": {
+    "name": "South Sudan",
+    "name_no": "S\u00f8r-Sudan",
+    "lat": 7.657782041763295,
+    "lon": 30.3851856901788,
+    "ISO_A3": "SSD",
+    "ISO_A2": "SS",
+    "numeric": "728"
+  },
+  "ES": {
+    "name": "Spain",
+    "name_no": "Spania",
+    "lat": 40.36500833668384,
+    "lon": -3.6516251409956975,
+    "ISO_A3": "ESP",
+    "ISO_A2": "ES",
+    "numeric": "724"
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "name_no": "Sri Lanka",
+    "lat": 7.696630939329944,
+    "lon": 80.66931169770622,
+    "ISO_A3": "LKA",
+    "ISO_A2": "LK",
+    "numeric": "144"
+  },
+  "SD": {
+    "name": "Sudan (the)",
+    "name_no": "Sudan",
+    "lat": 15.67060230984256,
+    "lon": 29.951458283594064,
+    "ISO_A3": "SDN",
+    "ISO_A2": "SD",
+    "numeric": "729"
+  },
+  "SR": {
+    "name": "Suriname",
+    "name_no": "Surinam",
+    "lat": 4.098723595920171,
+    "lon": -55.855514311561286,
+    "ISO_A3": "SUR",
+    "ISO_A2": "SR",
+    "numeric": "740"
+  },
+  "SE": {
+    "name": "Sweden",
+    "name_no": "Sverige",
+    "lat": 62.73420986108448,
+    "lon": 17.062431988004956,
+    "ISO_A3": "SWE",
+    "ISO_A2": "SE",
+    "numeric": "752"
+  },
+  "CH": {
+    "name": "Switzerland",
+    "name_no": "Sveits",
+    "lat": 46.73678128684938,
+    "lon": 8.286928794895285,
+    "ISO_A3": "CHE",
+    "ISO_A2": "CH",
+    "numeric": "756"
+  },
+  "SY": {
+    "name": "Syrian Arab Republic",
+    "name_no": "Syria",
+    "lat": 35.09751106058316,
+    "lon": 38.5117323139514,
+    "ISO_A3": "SYR",
+    "ISO_A2": "SY",
+    "numeric": "760"
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "name_no": "Tadsjikistan",
+    "lat": 38.56933138382972,
+    "lon": 70.94215281065698,
+    "ISO_A3": "TJK",
+    "ISO_A2": "TJ",
+    "numeric": "762"
+  },
+  "TZ": {
+    "name": "Tanzania, United Republic of",
+    "name_no": "Tanzania",
+    "lat": -6.355794440041147,
+    "lon": 34.81832206060381,
+    "ISO_A3": "TZA",
+    "ISO_A2": "TZ",
+    "numeric": "834"
+  },
+  "TH": {
+    "name": "Thailand",
+    "name_no": "Thailand",
+    "lat": 13.66222784745538,
+    "lon": 101.08675116214552,
+    "ISO_A3": "THA",
+    "ISO_A2": "TH",
+    "numeric": "764"
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "name_no": "\u00d8st-Timor",
+    "lat": -8.809894630601962,
+    "lon": 125.9502404956266,
+    "ISO_A3": "TLS",
+    "ISO_A2": "TL",
+    "numeric": "626"
+  },
+  "TG": {
+    "name": "Togo",
+    "name_no": "Togo",
+    "lat": 8.660743037717811,
+    "lon": 0.8990857571109684,
+    "ISO_A3": "TGO",
+    "ISO_A2": "TG",
+    "numeric": "768"
+  },
+  "TO": {
+    "name": "Tonga",
+    "name_no": "Tonga",
+    "lat": -21.15927212823853,
+    "lon": -175.20415878511247,
+    "ISO_A3": "TON",
+    "ISO_A2": "TO",
+    "numeric": "776"
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "name_no": "Trinidad og Tobago",
+    "lat": 10.415515638298093,
+    "lon": -61.37236579976247,
+    "ISO_A3": "TTO",
+    "ISO_A2": "TT",
+    "numeric": "780"
+  },
+  "TN": {
+    "name": "Tunisia",
+    "name_no": "Tunisia",
+    "lat": 34.08636179565723,
+    "lon": 9.65587551697984,
+    "ISO_A3": "TUN",
+    "ISO_A2": "TN",
+    "numeric": "788"
+  },
+  "TR": {
+    "name": "Turkey",
+    "name_no": "Tyrkia",
+    "lat": 38.93207363123396,
+    "lon": 35.56886764076691,
+    "ISO_A3": "TUR",
+    "ISO_A2": "TR",
+    "numeric": "792"
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "name_no": "Turkmenistan",
+    "lat": 39.06069118001429,
+    "lon": 58.4577357627054,
+    "ISO_A3": "TKM",
+    "ISO_A2": "TM",
+    "numeric": "795"
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "name_no": "Tuvalu",
+    "lat": -8.514701506447222,
+    "lon": 179.217833977593,
+    "ISO_A3": "TUV",
+    "ISO_A2": "TV",
+    "numeric": "798"
+  },
+  "UG": {
+    "name": "Uganda",
+    "name_no": "Uganda",
+    "lat": 1.2821729218416205,
+    "lon": 32.34371768463123,
+    "ISO_A3": "UGA",
+    "ISO_A2": "UG",
+    "numeric": "800"
+  },
+  "UA": {
+    "name": "Ukraine",
+    "name_no": "Ukraina",
+    "lat": 48.657532515563794,
+    "lon": 31.27377208442636,
+    "ISO_A3": "UKR",
+    "ISO_A2": "UA",
+    "numeric": "804"
+  },
+  "AE": {
+    "name": "United Arab Emirates (the)",
+    "name_no": "De forente arabiske emirater",
+    "lat": 24.18250292309135,
+    "lon": 54.27920525789581,
+    "ISO_A3": "ARE",
+    "ISO_A2": "AE",
+    "numeric": "784"
+  },
+  "GB": {
+    "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "name_no": "Storbritannia",
+    "lat": -24.366121747565455,
+    "lon": -128.3149848627581,
+    "ISO_A3": "GBR",
+    "ISO_A2": "GB",
+    "numeric": "826"
+  },
+  "US": {
+    "name": "United States of America (the)",
+    "name_no": "USA",
+    "lat": -14.305711987770538,
+    "lon": -170.7007316174498,
+    "ISO_A3": "USA",
+    "ISO_A2": "US",
+    "numeric": "840"
+  },
+  "UY": {
+    "name": "Uruguay",
+    "name_no": "Uruguay",
+    "lat": -32.78195043831093,
+    "lon": -56.01919523458085,
+    "ISO_A3": "URY",
+    "ISO_A2": "UY",
+    "numeric": "858"
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "name_no": "Usbekistan",
+    "lat": 41.4879065244633,
+    "lon": 63.8548297593985,
+    "ISO_A3": "UZB",
+    "ISO_A2": "UZ",
+    "numeric": "860"
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "name_no": "Vanuatu",
+    "lat": -15.189132121699332,
+    "lon": 166.84912735669738,
+    "ISO_A3": "VUT",
+    "ISO_A2": "VU",
+    "numeric": "548"
+  },
+  "VE": {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "name_no": "Venezuela",
+    "lat": 7.148324760507107,
+    "lon": -66.36492135985132,
+    "ISO_A3": "VEN",
+    "ISO_A2": "VE",
+    "numeric": "862"
+  },
+  "VN": {
+    "name": "Viet Nam",
+    "name_no": "Vietnam",
+    "lat": 16.517347170839393,
+    "lon": 105.91338832758704,
+    "ISO_A3": "VNM",
+    "ISO_A2": "VN",
+    "numeric": "704"
+  },
+  "YE": {
+    "name": "Yemen",
+    "name_no": "Jemen",
+    "lat": 16.001392616307445,
+    "lon": 47.46815793206386,
+    "ISO_A3": "YEM",
+    "ISO_A2": "YE",
+    "numeric": "887"
+  },
+  "ZM": {
+    "name": "Zambia",
+    "name_no": "Zambia",
+    "lat": -13.162832953186246,
+    "lon": 27.75521363430896,
+    "ISO_A3": "ZMB",
+    "ISO_A2": "ZM",
+    "numeric": "894"
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "name_no": "Zimbabwe",
+    "lat": -18.92700121981475,
+    "lon": 29.717829640720844,
+    "ISO_A3": "ZWE",
+    "ISO_A2": "ZW",
+    "numeric": "716"
+  }
+}
