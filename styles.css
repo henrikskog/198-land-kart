@@ -96,23 +96,30 @@ body {
 }
 
 #countryList li {
-  height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid #ccc;
   padding: 20px;
+  height: 10px;
+}
+.continentListSubHeader {
+  font-style: italic;
+  text-align: center;
+  font-size: small;
+  margin: 0;
+  margin-bottom: 5px;
 }
 
 .episodeItem {
-  background: #4caf50a6;
+  /* background: #4caf50a6; */
   color: #322f2f;
 }
 
 .noEpisodeItem {
   /* colors that symbolize unavailable item, grayed out */
-  background: #d3d3d3;
-  color: #595858bf;
+  /* background: #d3d3d3; */
+  color: #00000075;
 }
 
 #countryList li:last-child {

@@ -246,50 +246,106 @@ const fillCountryList = (countryData, episodeData, map) => {
   // Create a list of countries with norwegian names
   const countryList = document.getElementById("countryList");
 
+  const c = [
+    "Europa",
+    "Asia",
+    "Afrika",
+    "Oseania",
+    "Sør-Amerika",
+    "Nord-Amerika",
+  ];
 
-  const continents = ["Europa", "Asia", "Afrika", "Oseania", "Sør-Amerika", "Nord-Amerika"]
+  // calculate number of countries covered in each continent
+  const continents = {};
+  c.forEach((a) => {
+    continents[a] = {
+      covered: 0,
+      total: 0,
+    };
+  });
 
-  continents.forEach((continent) => {
+  Object.values(countryData).forEach((value) => {
+    const continent = value["continent_no"];
+
+    if (continent) {
+      const isoa3 = value["ISO_A3"];
+
+      if (episodeData[isoa3] != undefined) {
+        continents[continent]["covered"] += 1;
+      }
+
+      continents[continent]["total"] += 1;
+    }
+  });
+
+  Object.entries(continents).forEach(([continentName, continent]) => {
     const header = document.createElement("h3");
-    const ul = document.createElement("ul");
+    header.innerHTML = continentName;
 
-    header.innerHTML = continent;
-    ul.id = continent.toLowerCase();
+    const ul = document.createElement("ul");
+    ul.id = continentName.toLowerCase();
+
+    const subHeader = document.createElement("p");
+    subHeader.classList.add("continentListSubHeader");
+    subHeader.innerHTML =
+      continent["covered"] + "/" + continent["total"];
 
     countryList.appendChild(header);
+    countryList.appendChild(subHeader);
     countryList.appendChild(ul);
   });
 
-  // Loop through the countrytranslations
-  for (const [key, value] of Object.entries(countryData)) {
+  const orderedOnCovered = Object.keys(countryData).sort((a, b) => {
+    // if episode is in episodeData (country[key]['ISO_A3'] in episodeData), sort it to the top
 
+    const aInEpisodes = Object.keys(episodeData).includes(
+      countryData[a]["ISO_A3"]
+    );
+
+    const bInEpisodes = Object.keys(episodeData).includes(
+      countryData[b]["ISO_A3"]
+    );
+
+    if (aInEpisodes && !bInEpisodes) {
+      return -1;
+    } else if (!aInEpisodes && bInEpisodes) {
+      return 1;
+    } else {
+      return 0;
+    }
+  });
+
+  // Loop through the countrytranslations
+  orderedOnCovered.forEach((key) => {
+    const value = countryData[key];
     // find the continent
     const continent = value["continent_no"];
 
-    if(!continent) {
-      console.log("not writing country ", value["name"])
-      continue
-    }
-
-    const ul = document.getElementById(continent.toLowerCase());
-
-    // Create a list item for each country
-    const li = document.createElement("li");
-    ul.appendChild(li);
-    li.innerHTML = value["name_no"];
-
-    // if in episodeData, add a class
-
-    const doneEpisodes = Object.keys(episodeData);
-
-    if (doneEpisodes.includes(value["ISO_A3"])) {
-      console.log("yes");
-      li.classList.add("episodeItem");
-      li.addEventListener("click", () => onListItemClick(value, map, episodeData));
+    if (!continent) {
+      console.log("not writing country ", value["name"]);
     } else {
-      li.classList.add("noEpisodeItem");
+      const ul = document.getElementById(continent.toLowerCase());
+
+      // Create a list item for each country
+      const li = document.createElement("li");
+      ul.appendChild(li);
+      li.innerHTML = value["name_no"];
+
+      // if in episodeData, add a class
+
+      const doneEpisodes = Object.keys(episodeData);
+
+      if (doneEpisodes.includes(value["ISO_A3"])) {
+        console.log("yes");
+        li.classList.add("episodeItem");
+        li.addEventListener("click", () =>
+          onListItemClick(value, map, episodeData)
+        );
+      } else {
+        li.classList.add("noEpisodeItem");
+      }
     }
-  }
+  });
 };
 
 const onListItemClick = (countryName, map, episodeData) => {
