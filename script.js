@@ -211,7 +211,7 @@ function updateProgress(number) {
     ".progress-bar-container"
   );
   const progressBar = document.getElementById("loader");
-  const map = document.getElementById("mapContainer");
+  const mapContainer = document.getElementById("mapContainer");
 
   // Update the progress bar
   progressBar.value = number;
@@ -221,7 +221,7 @@ function updateProgress(number) {
     progressBarContainer.style.display = "block";
   } else {
     progressBarContainer.style.display = "none";
-    map.style.display = "block";
+    mapContainer.style.display = "block";
   }
 }
 
@@ -235,10 +235,10 @@ listBtn.addEventListener("click", () => {
     countryList.style.display = "flex";
     // add blur to map
     const map = document.getElementById("map");
-    map.classList.add("blur");
+    // map.classList.add("blur");
   } else {
     countryList.style.display = "none";
-    map.classList.remove("blur");
+    // map.classList.remove("blur");
   }
 });
 
