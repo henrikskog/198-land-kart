@@ -6,7 +6,9 @@
     "lon": 66.59216131095278,
     "ISO_A3": "AFG",
     "ISO_A2": "AF",
-    "numeric": "004"
+    "numeric": "004",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "AL": {
     "name": "Albania",
@@ -15,7 +17,9 @@
     "lon": 20.061082767269493,
     "ISO_A3": "ALB",
     "ISO_A2": "AL",
-    "numeric": "008"
+    "numeric": "008",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "DZ": {
     "name": "Algeria",
@@ -24,7 +28,9 @@
     "lon": 2.655846471976913,
     "ISO_A3": "DZA",
     "ISO_A2": "DZ",
-    "numeric": "012"
+    "numeric": "012",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "AD": {
     "name": "Andorra",
@@ -33,7 +39,9 @@
     "lon": 1.5802243611232871,
     "ISO_A3": "AND",
     "ISO_A2": "AD",
-    "numeric": "020"
+    "numeric": "020",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "AO": {
     "name": "Angola",
@@ -42,7 +50,9 @@
     "lon": 17.651768783079,
     "ISO_A3": "AGO",
     "ISO_A2": "AO",
-    "numeric": "024"
+    "numeric": "024",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "AQ": {
     "name": "Antarctica",
@@ -51,7 +61,8 @@
     "lon": -177.56451613408842,
     "ISO_A3": "ATA",
     "ISO_A2": "AQ",
-    "numeric": "010"
+    "numeric": "010",
+    "continent": null
   },
   "AG": {
     "name": "Antigua and Barbuda",
@@ -60,7 +71,9 @@
     "lon": -61.78530823226373,
     "ISO_A3": "ATG",
     "ISO_A2": "AG",
-    "numeric": "028"
+    "numeric": "028",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "AR": {
     "name": "Argentina",
@@ -69,7 +82,9 @@
     "lon": -64.53238503843076,
     "ISO_A3": "ARG",
     "ISO_A2": "AR",
-    "numeric": "032"
+    "numeric": "032",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "AM": {
     "name": "Armenia",
@@ -78,7 +93,9 @@
     "lon": 45.05490831965259,
     "ISO_A3": "ARM",
     "ISO_A2": "AM",
-    "numeric": "051"
+    "numeric": "051",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "AW": {
     "name": "Aruba",
@@ -87,7 +104,8 @@
     "lon": -69.97564014284046,
     "ISO_A3": "ABW",
     "ISO_A2": "AW",
-    "numeric": "533"
+    "numeric": "533",
+    "continent": null
   },
   "AU": {
     "name": "Australia",
@@ -96,7 +114,9 @@
     "lon": 73.49298560844045,
     "ISO_A3": "AUS",
     "ISO_A2": "AU",
-    "numeric": "036"
+    "numeric": "036",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "AT": {
     "name": "Austria",
@@ -105,7 +125,9 @@
     "lon": 13.797778364631036,
     "ISO_A3": "AUT",
     "ISO_A2": "AT",
-    "numeric": "040"
+    "numeric": "040",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "AZ": {
     "name": "Azerbaijan",
@@ -114,7 +136,9 @@
     "lon": 48.63459267064432,
     "ISO_A3": "AZE",
     "ISO_A2": "AZ",
-    "numeric": "031"
+    "numeric": "031",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "BS": {
     "name": "Bahamas (the)",
@@ -123,7 +147,9 @@
     "lon": -78.07275370060313,
     "ISO_A3": "BHS",
     "ISO_A2": "BS",
-    "numeric": "044"
+    "numeric": "044",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "BH": {
     "name": "Bahrain",
@@ -132,7 +158,9 @@
     "lon": 50.540695402276775,
     "ISO_A3": "BHR",
     "ISO_A2": "BH",
-    "numeric": "048"
+    "numeric": "048",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "BD": {
     "name": "Bangladesh",
@@ -141,7 +169,9 @@
     "lon": 90.43212562608612,
     "ISO_A3": "BGD",
     "ISO_A2": "BD",
-    "numeric": "050"
+    "numeric": "050",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "BB": {
     "name": "Barbados",
@@ -150,7 +180,9 @@
     "lon": -59.557383949150285,
     "ISO_A3": "BRB",
     "ISO_A2": "BB",
-    "numeric": "052"
+    "numeric": "052",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "BY": {
     "name": "Belarus",
@@ -159,7 +191,9 @@
     "lon": 27.964252054715104,
     "ISO_A3": "BLR",
     "ISO_A2": "BY",
-    "numeric": "112"
+    "numeric": "112",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "BE": {
     "name": "Belgium",
@@ -168,7 +202,9 @@
     "lon": 4.675010154696485,
     "ISO_A3": "BEL",
     "ISO_A2": "BE",
-    "numeric": "056"
+    "numeric": "056",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "BZ": {
     "name": "Belize",
@@ -177,7 +213,9 @@
     "lon": -88.68273510023441,
     "ISO_A3": "BLZ",
     "ISO_A2": "BZ",
-    "numeric": "084"
+    "numeric": "084",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "BJ": {
     "name": "Benin",
@@ -186,7 +224,9 @@
     "lon": 2.305714528830206,
     "ISO_A3": "BEN",
     "ISO_A2": "BJ",
-    "numeric": "204"
+    "numeric": "204",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "BT": {
     "name": "Bhutan",
@@ -195,7 +235,9 @@
     "lon": 90.4671664717386,
     "ISO_A3": "BTN",
     "ISO_A2": "BT",
-    "numeric": "064"
+    "numeric": "064",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "BO": {
     "name": "Bolivia (Plurinational State of)",
@@ -204,7 +246,9 @@
     "lon": -64.45209597511206,
     "ISO_A3": "BOL",
     "ISO_A2": "BO",
-    "numeric": "068"
+    "numeric": "068",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "BA": {
     "name": "Bosnia and Herzegovina",
@@ -213,7 +257,9 @@
     "lon": 17.83467240787538,
     "ISO_A3": "BIH",
     "ISO_A2": "BA",
-    "numeric": "070"
+    "numeric": "070",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "BW": {
     "name": "Botswana",
@@ -222,7 +268,9 @@
     "lon": 23.85779956995608,
     "ISO_A3": "BWA",
     "ISO_A2": "BW",
-    "numeric": "072"
+    "numeric": "072",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "BR": {
     "name": "Brazil",
@@ -231,7 +279,9 @@
     "lon": -54.35520660825642,
     "ISO_A3": "BRA",
     "ISO_A2": "BR",
-    "numeric": "076"
+    "numeric": "076",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "BN": {
     "name": "Brunei Darussalam",
@@ -240,7 +290,9 @@
     "lon": 114.6430958360464,
     "ISO_A3": "BRN",
     "ISO_A2": "BN",
-    "numeric": "096"
+    "numeric": "096",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "BG": {
     "name": "Bulgaria",
@@ -249,7 +301,9 @@
     "lon": 25.251739122561908,
     "ISO_A3": "BGR",
     "ISO_A2": "BG",
-    "numeric": "100"
+    "numeric": "100",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "BF": {
     "name": "Burkina Faso",
@@ -258,7 +312,9 @@
     "lon": -1.6932816211842323,
     "ISO_A3": "BFA",
     "ISO_A2": "BF",
-    "numeric": "854"
+    "numeric": "854",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "BI": {
     "name": "Burundi",
@@ -267,7 +323,9 @@
     "lon": 29.88518227845293,
     "ISO_A3": "BDI",
     "ISO_A2": "BI",
-    "numeric": "108"
+    "numeric": "108",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "CV": {
     "name": "Cabo Verde",
@@ -276,7 +334,9 @@
     "lon": -23.63401005900474,
     "ISO_A3": "CPV",
     "ISO_A2": "CV",
-    "numeric": "132"
+    "numeric": "132",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "KH": {
     "name": "Cambodia",
@@ -285,7 +345,9 @@
     "lon": 105.039730786807,
     "ISO_A3": "KHM",
     "ISO_A2": "KH",
-    "numeric": "116"
+    "numeric": "116",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "CM": {
     "name": "Cameroon",
@@ -294,7 +356,9 @@
     "lon": 12.948474142398265,
     "ISO_A3": "CMR",
     "ISO_A2": "CM",
-    "numeric": "120"
+    "numeric": "120",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "CA": {
     "name": "Canada",
@@ -303,7 +367,9 @@
     "lon": -98.41680517868062,
     "ISO_A3": "CAN",
     "ISO_A2": "CA",
-    "numeric": "124"
+    "numeric": "124",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "CF": {
     "name": "Central African Republic (the)",
@@ -312,7 +378,9 @@
     "lon": 20.520743419397256,
     "ISO_A3": "CAF",
     "ISO_A2": "CF",
-    "numeric": "140"
+    "numeric": "140",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "TD": {
     "name": "Chad",
@@ -321,7 +389,9 @@
     "lon": 18.427113900363025,
     "ISO_A3": "TCD",
     "ISO_A2": "TD",
-    "numeric": "148"
+    "numeric": "148",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "CL": {
     "name": "Chile",
@@ -330,7 +400,9 @@
     "lon": -70.76863431739216,
     "ISO_A3": "CHL",
     "ISO_A2": "CL",
-    "numeric": "152"
+    "numeric": "152",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "CN": {
     "name": "China",
@@ -339,7 +411,9 @@
     "lon": 104.69113855849604,
     "ISO_A3": "CHN",
     "ISO_A2": "CN",
-    "numeric": "156"
+    "numeric": "156",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "CO": {
     "name": "Colombia",
@@ -348,7 +422,9 @@
     "lon": -72.6445066243485,
     "ISO_A3": "COL",
     "ISO_A2": "CO",
-    "numeric": "170"
+    "numeric": "170",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "KM": {
     "name": "Comoros (the)",
@@ -357,7 +433,9 @@
     "lon": 43.34826587429403,
     "ISO_A3": "COM",
     "ISO_A2": "KM",
-    "numeric": "174"
+    "numeric": "174",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "CD": {
     "name": "Congo (the Democratic Republic of the)",
@@ -366,7 +444,9 @@
     "lon": 23.419827574282188,
     "ISO_A3": "COD",
     "ISO_A2": "CD",
-    "numeric": "180"
+    "numeric": "180",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "CG": {
     "name": "Congo (the)",
@@ -375,7 +455,9 @@
     "lon": 14.879732849491392,
     "ISO_A3": "COG",
     "ISO_A2": "CG",
-    "numeric": "178"
+    "numeric": "178",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "CR": {
     "name": "Costa Rica",
@@ -384,7 +466,9 @@
     "lon": -84.14673625701816,
     "ISO_A3": "CRI",
     "ISO_A2": "CR",
-    "numeric": "188"
+    "numeric": "188",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "HR": {
     "name": "Croatia",
@@ -393,7 +477,9 @@
     "lon": 16.625761129583374,
     "ISO_A3": "HRV",
     "ISO_A2": "HR",
-    "numeric": "191"
+    "numeric": "191",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "CU": {
     "name": "Cuba",
@@ -402,7 +488,9 @@
     "lon": -79.69817857618705,
     "ISO_A3": "CUB",
     "ISO_A2": "CU",
-    "numeric": "192"
+    "numeric": "192",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "CY": {
     "name": "Cyprus",
@@ -411,7 +499,9 @@
     "lon": 33.375346009199205,
     "ISO_A3": "CYP",
     "ISO_A2": "CY",
-    "numeric": "196"
+    "numeric": "196",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "CZ": {
     "name": "Czechia",
@@ -420,7 +510,9 @@
     "lon": 15.383273292023532,
     "ISO_A3": "CZE",
     "ISO_A2": "CZ",
-    "numeric": "203"
+    "numeric": "203",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "CI": {
     "name": "C\u00f4te d'Ivoire",
@@ -429,7 +521,9 @@
     "lon": -5.571710194917734,
     "ISO_A3": "CIV",
     "ISO_A2": "CI",
-    "numeric": "384"
+    "numeric": "384",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "DK": {
     "name": "Denmark",
@@ -438,7 +532,9 @@
     "lon": -42.07567788066985,
     "ISO_A3": "DNK",
     "ISO_A2": "DK",
-    "numeric": "208"
+    "numeric": "208",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "DJ": {
     "name": "Djibouti",
@@ -447,7 +543,9 @@
     "lon": 42.61349689878951,
     "ISO_A3": "DJI",
     "ISO_A2": "DJ",
-    "numeric": "262"
+    "numeric": "262",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "DM": {
     "name": "Dominica",
@@ -456,7 +554,9 @@
     "lon": -61.360471946942994,
     "ISO_A3": "DMA",
     "ISO_A2": "DM",
-    "numeric": "212"
+    "numeric": "212",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "DO": {
     "name": "Dominican Republic (the)",
@@ -465,7 +565,9 @@
     "lon": -70.43495198520012,
     "ISO_A3": "DOM",
     "ISO_A2": "DO",
-    "numeric": "214"
+    "numeric": "214",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "EC": {
     "name": "Ecuador",
@@ -474,7 +576,9 @@
     "lon": -78.4630326109714,
     "ISO_A3": "ECU",
     "ISO_A2": "EC",
-    "numeric": "218"
+    "numeric": "218",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "EG": {
     "name": "Egypt",
@@ -483,7 +587,9 @@
     "lon": 30.240135435012338,
     "ISO_A3": "EGY",
     "ISO_A2": "EG",
-    "numeric": "818"
+    "numeric": "818",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "SV": {
     "name": "El Salvador",
@@ -492,7 +598,9 @@
     "lon": -88.85911489238985,
     "ISO_A3": "SLV",
     "ISO_A2": "SV",
-    "numeric": "222"
+    "numeric": "222",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "GQ": {
     "name": "Equatorial Guinea",
@@ -501,7 +609,9 @@
     "lon": 10.425456672353825,
     "ISO_A3": "GNQ",
     "ISO_A2": "GQ",
-    "numeric": "226"
+    "numeric": "226",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "ER": {
     "name": "Eritrea",
@@ -510,7 +620,9 @@
     "lon": 39.2672401449901,
     "ISO_A3": "ERI",
     "ISO_A2": "ER",
-    "numeric": "232"
+    "numeric": "232",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "EE": {
     "name": "Estonia",
@@ -519,7 +631,9 @@
     "lon": 25.916870250633806,
     "ISO_A3": "EST",
     "ISO_A2": "EE",
-    "numeric": "233"
+    "numeric": "233",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "SZ": {
     "name": "Eswatini",
@@ -528,7 +642,9 @@
     "lon": 31.510685746082007,
     "ISO_A3": "SWZ",
     "ISO_A2": "SZ",
-    "numeric": "748"
+    "numeric": "748",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "ET": {
     "name": "Ethiopia",
@@ -537,7 +653,9 @@
     "lon": 39.91490288654428,
     "ISO_A3": "ETH",
     "ISO_A2": "ET",
-    "numeric": "231"
+    "numeric": "231",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "FJ": {
     "name": "Fiji",
@@ -546,7 +664,9 @@
     "lon": 177.98144613732626,
     "ISO_A3": "FJI",
     "ISO_A2": "FJ",
-    "numeric": "242"
+    "numeric": "242",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "FI": {
     "name": "Finland",
@@ -555,7 +675,9 @@
     "lon": 25.65738433454702,
     "ISO_A3": "FIN",
     "ISO_A2": "FI",
-    "numeric": "246"
+    "numeric": "246",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "FR": {
     "name": "France",
@@ -564,7 +686,9 @@
     "lon": -149.40041671099763,
     "ISO_A3": "FRA",
     "ISO_A2": "FR",
-    "numeric": "250"
+    "numeric": "250",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "GA": {
     "name": "Gabon",
@@ -573,7 +697,9 @@
     "lon": 11.839410898545754,
     "ISO_A3": "GAB",
     "ISO_A2": "GA",
-    "numeric": "266"
+    "numeric": "266",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "GM": {
     "name": "Gambia (the)",
@@ -582,7 +708,9 @@
     "lon": -15.383380385869662,
     "ISO_A3": "GMB",
     "ISO_A2": "GM",
-    "numeric": "270"
+    "numeric": "270",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "GE": {
     "name": "Georgia",
@@ -591,7 +719,9 @@
     "lon": 43.37886653411224,
     "ISO_A3": "GEO",
     "ISO_A2": "GE",
-    "numeric": "268"
+    "numeric": "268",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "DE": {
     "name": "Germany",
@@ -600,7 +730,9 @@
     "lon": 10.426171427430804,
     "ISO_A3": "DEU",
     "ISO_A2": "DE",
-    "numeric": "276"
+    "numeric": "276",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "GH": {
     "name": "Ghana",
@@ -609,7 +741,9 @@
     "lon": -1.219233362526581,
     "ISO_A3": "GHA",
     "ISO_A2": "GH",
-    "numeric": "288"
+    "numeric": "288",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "GR": {
     "name": "Greece",
@@ -618,7 +752,9 @@
     "lon": 23.11036893616188,
     "ISO_A3": "GRC",
     "ISO_A2": "GR",
-    "numeric": "300"
+    "numeric": "300",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "GD": {
     "name": "Grenada",
@@ -627,7 +763,9 @@
     "lon": -61.67937937204098,
     "ISO_A3": "GRD",
     "ISO_A2": "GD",
-    "numeric": "308"
+    "numeric": "308",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "GT": {
     "name": "Guatemala",
@@ -636,7 +774,9 @@
     "lon": -90.31219349119615,
     "ISO_A3": "GTM",
     "ISO_A2": "GT",
-    "numeric": "320"
+    "numeric": "320",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "GN": {
     "name": "Guinea",
@@ -645,7 +785,9 @@
     "lon": -10.986948848040218,
     "ISO_A3": "GIN",
     "ISO_A2": "GN",
-    "numeric": "324"
+    "numeric": "324",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "GW": {
     "name": "Guinea-Bissau",
@@ -654,7 +796,9 @@
     "lon": -14.980186756910848,
     "ISO_A3": "GNB",
     "ISO_A2": "GW",
-    "numeric": "624"
+    "numeric": "624",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "GY": {
     "name": "Guyana",
@@ -663,7 +807,9 @@
     "lon": -58.91352612754667,
     "ISO_A3": "GUY",
     "ISO_A2": "GY",
-    "numeric": "328"
+    "numeric": "328",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "HT": {
     "name": "Haiti",
@@ -672,7 +818,9 @@
     "lon": -72.89291379842,
     "ISO_A3": "HTI",
     "ISO_A2": "HT",
-    "numeric": "332"
+    "numeric": "332",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "VA": {
     "name": "Holy See (the)",
@@ -681,7 +829,9 @@
     "lon": 12.451312917026131,
     "ISO_A3": "VAT",
     "ISO_A2": "VA",
-    "numeric": "336"
+    "numeric": "336",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "HN": {
     "name": "Honduras",
@@ -690,7 +840,9 @@
     "lon": -86.49251679006962,
     "ISO_A3": "HND",
     "ISO_A2": "HN",
-    "numeric": "340"
+    "numeric": "340",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "HU": {
     "name": "Hungary",
@@ -699,7 +851,9 @@
     "lon": 19.39620048366142,
     "ISO_A3": "HUN",
     "ISO_A2": "HU",
-    "numeric": "348"
+    "numeric": "348",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "IS": {
     "name": "Iceland",
@@ -708,7 +862,9 @@
     "lon": -19.05682967106099,
     "ISO_A3": "ISL",
     "ISO_A2": "IS",
-    "numeric": "352"
+    "numeric": "352",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "IN": {
     "name": "India",
@@ -717,7 +873,9 @@
     "lon": 81.17300408530181,
     "ISO_A3": "IND",
     "ISO_A2": "IN",
-    "numeric": "356"
+    "numeric": "356",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "ID": {
     "name": "Indonesia",
@@ -726,7 +884,9 @@
     "lon": 113.96538246847302,
     "ISO_A3": "IDN",
     "ISO_A2": "ID",
-    "numeric": "360"
+    "numeric": "360",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "IR": {
     "name": "Iran (Islamic Republic of)",
@@ -735,7 +895,9 @@
     "lon": 54.23707700106544,
     "ISO_A3": "IRN",
     "ISO_A2": "IR",
-    "numeric": "364"
+    "numeric": "364",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "IQ": {
     "name": "Iraq",
@@ -744,7 +906,9 @@
     "lon": 43.83252918105688,
     "ISO_A3": "IRQ",
     "ISO_A2": "IQ",
-    "numeric": "368"
+    "numeric": "368",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "IE": {
     "name": "Ireland",
@@ -753,7 +917,9 @@
     "lon": -8.241128545554096,
     "ISO_A3": "IRL",
     "ISO_A2": "IE",
-    "numeric": "372"
+    "numeric": "372",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "IL": {
     "name": "Israel",
@@ -762,7 +928,9 @@
     "lon": 35.027923472437024,
     "ISO_A3": "ISR",
     "ISO_A2": "IL",
-    "numeric": "376"
+    "numeric": "376",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "IT": {
     "name": "Italy",
@@ -771,7 +939,9 @@
     "lon": 12.763657166123137,
     "ISO_A3": "ITA",
     "ISO_A2": "IT",
-    "numeric": "380"
+    "numeric": "380",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "JM": {
     "name": "Jamaica",
@@ -780,7 +950,9 @@
     "lon": -77.30358894542778,
     "ISO_A3": "JAM",
     "ISO_A2": "JM",
-    "numeric": "388"
+    "numeric": "388",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "JP": {
     "name": "Japan",
@@ -789,7 +961,9 @@
     "lon": 137.46934234351835,
     "ISO_A3": "JPN",
     "ISO_A2": "JP",
-    "numeric": "392"
+    "numeric": "392",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "JO": {
     "name": "Jordan",
@@ -798,7 +972,9 @@
     "lon": 36.95728884547246,
     "ISO_A3": "JOR",
     "ISO_A2": "JO",
-    "numeric": "400"
+    "numeric": "400",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "KZ": {
     "name": "Kazakhstan",
@@ -807,7 +983,9 @@
     "lon": 66.3759193479301,
     "ISO_A3": "KAZ",
     "ISO_A2": "KZ",
-    "numeric": "398"
+    "numeric": "398",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "KE": {
     "name": "Kenya",
@@ -816,7 +994,9 @@
     "lon": 37.95309411262371,
     "ISO_A3": "KEN",
     "ISO_A2": "KE",
-    "numeric": "404"
+    "numeric": "404",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "KI": {
     "name": "Kiribati",
@@ -825,7 +1005,9 @@
     "lon": -157.39024189323504,
     "ISO_A3": "KIR",
     "ISO_A2": "KI",
-    "numeric": "296"
+    "numeric": "296",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "KP": {
     "name": "Korea (the Democratic People's Republic of)",
@@ -834,7 +1016,9 @@
     "lon": 127.3379805653744,
     "ISO_A3": "PRK",
     "ISO_A2": "KP",
-    "numeric": "408"
+    "numeric": "408",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "KR": {
     "name": "Korea (the Republic of)",
@@ -843,7 +1027,9 @@
     "lon": 127.76224551357647,
     "ISO_A3": "KOR",
     "ISO_A2": "KR",
-    "numeric": "410"
+    "numeric": "410",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "KW": {
     "name": "Kuwait",
@@ -852,7 +1038,9 @@
     "lon": 47.56311109320184,
     "ISO_A3": "KWT",
     "ISO_A2": "KW",
-    "numeric": "414"
+    "numeric": "414",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "KG": {
     "name": "Kyrgyzstan",
@@ -861,7 +1049,9 @@
     "lon": 74.17532903468319,
     "ISO_A3": "KGZ",
     "ISO_A2": "KG",
-    "numeric": "417"
+    "numeric": "417",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "LA": {
     "name": "Lao People's Democratic Republic (the)",
@@ -870,7 +1060,9 @@
     "lon": 103.76375899026448,
     "ISO_A3": "LAO",
     "ISO_A2": "LA",
-    "numeric": "418"
+    "numeric": "418",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "LV": {
     "name": "Latvia",
@@ -879,7 +1071,9 @@
     "lon": 24.693671325654403,
     "ISO_A3": "LVA",
     "ISO_A2": "LV",
-    "numeric": "428"
+    "numeric": "428",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "LB": {
     "name": "Lebanon",
@@ -888,7 +1082,9 @@
     "lon": 35.89651946324749,
     "ISO_A3": "LBN",
     "ISO_A2": "LB",
-    "numeric": "422"
+    "numeric": "422",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "LS": {
     "name": "Lesotho",
@@ -897,7 +1093,9 @@
     "lon": 28.24475317864227,
     "ISO_A3": "LSO",
     "ISO_A2": "LS",
-    "numeric": "426"
+    "numeric": "426",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "LR": {
     "name": "Liberia",
@@ -906,7 +1104,9 @@
     "lon": -9.258988935497618,
     "ISO_A3": "LBR",
     "ISO_A2": "LR",
-    "numeric": "430"
+    "numeric": "430",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "LY": {
     "name": "Libya",
@@ -915,7 +1115,9 @@
     "lon": 17.91133392454237,
     "ISO_A3": "LBY",
     "ISO_A2": "LY",
-    "numeric": "434"
+    "numeric": "434",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "LI": {
     "name": "Liechtenstein",
@@ -924,7 +1126,9 @@
     "lon": 9.547674672376376,
     "ISO_A3": "LIE",
     "ISO_A2": "LI",
-    "numeric": "438"
+    "numeric": "438",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "LT": {
     "name": "Lithuania",
@@ -933,7 +1137,9 @@
     "lon": 23.94602160501353,
     "ISO_A3": "LTU",
     "ISO_A2": "LT",
-    "numeric": "440"
+    "numeric": "440",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "LU": {
     "name": "Luxembourg",
@@ -942,7 +1148,9 @@
     "lon": 6.103230338458876,
     "ISO_A3": "LUX",
     "ISO_A2": "LU",
-    "numeric": "442"
+    "numeric": "442",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "MG": {
     "name": "Madagascar",
@@ -951,7 +1159,9 @@
     "lon": 46.68493466832544,
     "ISO_A3": "MDG",
     "ISO_A2": "MG",
-    "numeric": "450"
+    "numeric": "450",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MW": {
     "name": "Malawi",
@@ -960,7 +1170,9 @@
     "lon": 34.23441182298881,
     "ISO_A3": "MWI",
     "ISO_A2": "MW",
-    "numeric": "454"
+    "numeric": "454",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MY": {
     "name": "Malaysia",
@@ -969,7 +1181,9 @@
     "lon": 114.63330303992868,
     "ISO_A3": "MYS",
     "ISO_A2": "MY",
-    "numeric": "458"
+    "numeric": "458",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "MV": {
     "name": "Maldives",
@@ -978,7 +1192,9 @@
     "lon": 73.10076245140479,
     "ISO_A3": "MDV",
     "ISO_A2": "MV",
-    "numeric": "462"
+    "numeric": "462",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "ML": {
     "name": "Mali",
@@ -987,7 +1203,9 @@
     "lon": -4.346399841781153,
     "ISO_A3": "MLI",
     "ISO_A2": "ML",
-    "numeric": "466"
+    "numeric": "466",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MT": {
     "name": "Malta",
@@ -996,7 +1214,9 @@
     "lon": 14.441922442508494,
     "ISO_A3": "MLT",
     "ISO_A2": "MT",
-    "numeric": "470"
+    "numeric": "470",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "MH": {
     "name": "Marshall Islands (the)",
@@ -1005,7 +1225,9 @@
     "lon": 168.72016025351076,
     "ISO_A3": "MHL",
     "ISO_A2": "MH",
-    "numeric": "584"
+    "numeric": "584",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "MR": {
     "name": "Mauritania",
@@ -1014,7 +1236,9 @@
     "lon": -10.495079045035716,
     "ISO_A3": "MRT",
     "ISO_A2": "MR",
-    "numeric": "478"
+    "numeric": "478",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MU": {
     "name": "Mauritius",
@@ -1023,7 +1247,9 @@
     "lon": 57.56415671066546,
     "ISO_A3": "MUS",
     "ISO_A2": "MU",
-    "numeric": "480"
+    "numeric": "480",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MX": {
     "name": "Mexico",
@@ -1032,7 +1258,9 @@
     "lon": -101.55399731630118,
     "ISO_A3": "MEX",
     "ISO_A2": "MX",
-    "numeric": "484"
+    "numeric": "484",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "FM": {
     "name": "Micronesia (Federated States of)",
@@ -1041,7 +1269,9 @@
     "lon": 158.2291899444527,
     "ISO_A3": "FSM",
     "ISO_A2": "FM",
-    "numeric": "583"
+    "numeric": "583",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "MD": {
     "name": "Moldova (the Republic of)",
@@ -1050,7 +1280,9 @@
     "lon": 28.391111865941348,
     "ISO_A3": "MDA",
     "ISO_A2": "MD",
-    "numeric": "498"
+    "numeric": "498",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "MC": {
     "name": "Monaco",
@@ -1059,7 +1291,9 @@
     "lon": 7.412820873271196,
     "ISO_A3": "MCO",
     "ISO_A2": "MC",
-    "numeric": "492"
+    "numeric": "492",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "MN": {
     "name": "Mongolia",
@@ -1068,7 +1302,9 @@
     "lon": 103.3987360327455,
     "ISO_A3": "MNG",
     "ISO_A2": "MN",
-    "numeric": "496"
+    "numeric": "496",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "ME": {
     "name": "Montenegro",
@@ -1077,7 +1313,9 @@
     "lon": 19.29505087156758,
     "ISO_A3": "MNE",
     "ISO_A2": "ME",
-    "numeric": "499"
+    "numeric": "499",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "MA": {
     "name": "Morocco",
@@ -1086,7 +1324,9 @@
     "lon": -8.817212587250811,
     "ISO_A3": "MAR",
     "ISO_A2": "MA",
-    "numeric": "504"
+    "numeric": "504",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MZ": {
     "name": "Mozambique",
@@ -1095,7 +1335,9 @@
     "lon": 35.208577031290176,
     "ISO_A3": "MOZ",
     "ISO_A2": "MZ",
-    "numeric": "508"
+    "numeric": "508",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "MM": {
     "name": "Myanmar",
@@ -1104,7 +1346,9 @@
     "lon": 97.08892285397344,
     "ISO_A3": "MMR",
     "ISO_A2": "MM",
-    "numeric": "104"
+    "numeric": "104",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "NR": {
     "name": "Nauru",
@@ -1113,7 +1357,9 @@
     "lon": 166.92937633139178,
     "ISO_A3": "NRU",
     "ISO_A2": "NR",
-    "numeric": "520"
+    "numeric": "520",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "NP": {
     "name": "Nepal",
@@ -1122,7 +1368,9 @@
     "lon": 84.1338898313567,
     "ISO_A3": "NPL",
     "ISO_A2": "NP",
-    "numeric": "524"
+    "numeric": "524",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "NL": {
     "name": "Netherlands (the)",
@@ -1131,7 +1379,9 @@
     "lon": -68.29350445958761,
     "ISO_A3": "NLD",
     "ISO_A2": "NL",
-    "numeric": "528"
+    "numeric": "528",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "NZ": {
     "name": "New Zealand",
@@ -1140,7 +1390,9 @@
     "lon": -159.78768870952257,
     "ISO_A3": "NZL",
     "ISO_A2": "NZ",
-    "numeric": "554"
+    "numeric": "554",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "NI": {
     "name": "Nicaragua",
@@ -1149,7 +1401,9 @@
     "lon": -85.016088327669,
     "ISO_A3": "NIC",
     "ISO_A2": "NI",
-    "numeric": "558"
+    "numeric": "558",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "NE": {
     "name": "Niger (the)",
@@ -1158,7 +1412,9 @@
     "lon": 8.86863247002646,
     "ISO_A3": "NER",
     "ISO_A2": "NE",
-    "numeric": "562"
+    "numeric": "562",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "NG": {
     "name": "Nigeria",
@@ -1167,7 +1423,9 @@
     "lon": 8.147714845256194,
     "ISO_A3": "NGA",
     "ISO_A2": "NG",
-    "numeric": "566"
+    "numeric": "566",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "NO": {
     "name": "Norway",
@@ -1176,7 +1434,9 @@
     "lon": 16.036378851505283,
     "ISO_A3": "NOR",
     "ISO_A2": "NO",
-    "numeric": "578"
+    "numeric": "578",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "OM": {
     "name": "Oman",
@@ -1185,7 +1445,9 @@
     "lon": 55.841088119829,
     "ISO_A3": "OMN",
     "ISO_A2": "OM",
-    "numeric": "512"
+    "numeric": "512",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "PK": {
     "name": "Pakistan",
@@ -1194,7 +1456,9 @@
     "lon": 69.08835090769651,
     "ISO_A3": "PAK",
     "ISO_A2": "PK",
-    "numeric": "586"
+    "numeric": "586",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "PW": {
     "name": "Palau",
@@ -1203,7 +1467,9 @@
     "lon": 134.57965086721052,
     "ISO_A3": "PLW",
     "ISO_A2": "PW",
-    "numeric": "585"
+    "numeric": "585",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "PS": {
     "name": "Palestine, State of",
@@ -1212,7 +1478,9 @@
     "lon": 35.24251184154588,
     "ISO_A3": "PSE",
     "ISO_A2": "PS",
-    "numeric": "275"
+    "numeric": "275",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "PA": {
     "name": "Panama",
@@ -1221,7 +1489,9 @@
     "lon": -80.14428761482796,
     "ISO_A3": "PAN",
     "ISO_A2": "PA",
-    "numeric": "591"
+    "numeric": "591",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "PG": {
     "name": "Papua New Guinea",
@@ -1230,7 +1500,9 @@
     "lon": 144.8348942994695,
     "ISO_A3": "PNG",
     "ISO_A2": "PG",
-    "numeric": "598"
+    "numeric": "598",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "PY": {
     "name": "Paraguay",
@@ -1239,7 +1511,9 @@
     "lon": -58.38906357428651,
     "ISO_A3": "PRY",
     "ISO_A2": "PY",
-    "numeric": "600"
+    "numeric": "600",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "PE": {
     "name": "Peru",
@@ -1248,7 +1522,9 @@
     "lon": -74.11416196781884,
     "ISO_A3": "PER",
     "ISO_A2": "PE",
-    "numeric": "604"
+    "numeric": "604",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "PH": {
     "name": "Philippines (the)",
@@ -1257,7 +1533,9 @@
     "lon": 121.82208941416744,
     "ISO_A3": "PHL",
     "ISO_A2": "PH",
-    "numeric": "608"
+    "numeric": "608",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "PL": {
     "name": "Poland",
@@ -1266,7 +1544,9 @@
     "lon": 19.43573279234468,
     "ISO_A3": "POL",
     "ISO_A2": "PL",
-    "numeric": "616"
+    "numeric": "616",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "PT": {
     "name": "Portugal",
@@ -1275,7 +1555,9 @@
     "lon": -7.933662183874006,
     "ISO_A3": "PRT",
     "ISO_A2": "PT",
-    "numeric": "620"
+    "numeric": "620",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "QA": {
     "name": "Qatar",
@@ -1284,7 +1566,9 @@
     "lon": 51.19794918743203,
     "ISO_A3": "QAT",
     "ISO_A2": "QA",
-    "numeric": "634"
+    "numeric": "634",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "MK": {
     "name": "Republic of North Macedonia",
@@ -1293,7 +1577,9 @@
     "lon": 21.70998923872772,
     "ISO_A3": "MKD",
     "ISO_A2": "MK",
-    "numeric": "807"
+    "numeric": "807",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "RO": {
     "name": "Romania",
@@ -1302,7 +1588,9 @@
     "lon": 25.09415820156329,
     "ISO_A3": "ROU",
     "ISO_A2": "RO",
-    "numeric": "642"
+    "numeric": "642",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "RU": {
     "name": "Russian Federation (the)",
@@ -1311,7 +1599,9 @@
     "lon": 98.6704990698032,
     "ISO_A3": "RUS",
     "ISO_A2": "RU",
-    "numeric": "643"
+    "numeric": "643",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "RW": {
     "name": "Rwanda",
@@ -1320,7 +1610,9 @@
     "lon": 29.91943968176408,
     "ISO_A3": "RWA",
     "ISO_A2": "RW",
-    "numeric": "646"
+    "numeric": "646",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "KN": {
     "name": "Saint Kitts and Nevis",
@@ -1329,7 +1621,9 @@
     "lon": -62.74560385895787,
     "ISO_A3": "KNA",
     "ISO_A2": "KN",
-    "numeric": "659"
+    "numeric": "659",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "LC": {
     "name": "Saint Lucia",
@@ -1338,7 +1632,9 @@
     "lon": -60.9689510935251,
     "ISO_A3": "LCA",
     "ISO_A2": "LC",
-    "numeric": "662"
+    "numeric": "662",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "VC": {
     "name": "Saint Vincent and the Grenadines",
@@ -1347,7 +1643,9 @@
     "lon": -61.19376635439304,
     "ISO_A3": "VCT",
     "ISO_A2": "VC",
-    "numeric": "670"
+    "numeric": "670",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "WS": {
     "name": "Samoa",
@@ -1356,7 +1654,9 @@
     "lon": -172.44107655740137,
     "ISO_A3": "WSM",
     "ISO_A2": "WS",
-    "numeric": "882"
+    "numeric": "882",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "SM": {
     "name": "San Marino",
@@ -1365,7 +1665,9 @@
     "lon": 12.461278349581722,
     "ISO_A3": "SMR",
     "ISO_A2": "SM",
-    "numeric": "674"
+    "numeric": "674",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "ST": {
     "name": "Sao Tome and Principe",
@@ -1374,7 +1676,9 @@
     "lon": 6.606158796857607,
     "ISO_A3": "STP",
     "ISO_A2": "ST",
-    "numeric": "678"
+    "numeric": "678",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "SA": {
     "name": "Saudi Arabia",
@@ -1383,7 +1687,9 @@
     "lon": 44.6009581782256,
     "ISO_A3": "SAU",
     "ISO_A2": "SA",
-    "numeric": "682"
+    "numeric": "682",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "SN": {
     "name": "Senegal",
@@ -1392,7 +1698,9 @@
     "lon": -14.610875368352303,
     "ISO_A3": "SEN",
     "ISO_A2": "SN",
-    "numeric": "686"
+    "numeric": "686",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "RS": {
     "name": "Serbia",
@@ -1401,7 +1709,9 @@
     "lon": 20.85677444395745,
     "ISO_A3": "SRB",
     "ISO_A2": "RS",
-    "numeric": "688"
+    "numeric": "688",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "SC": {
     "name": "Seychelles",
@@ -1410,7 +1720,9 @@
     "lon": 55.47250789595527,
     "ISO_A3": "SYC",
     "ISO_A2": "SC",
-    "numeric": "690"
+    "numeric": "690",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "SL": {
     "name": "Sierra Leone",
@@ -1419,7 +1731,9 @@
     "lon": -11.78656695731115,
     "ISO_A3": "SLE",
     "ISO_A2": "SL",
-    "numeric": "694"
+    "numeric": "694",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "SG": {
     "name": "Singapore",
@@ -1428,7 +1742,9 @@
     "lon": 103.81025757634052,
     "ISO_A3": "SGP",
     "ISO_A2": "SG",
-    "numeric": "702"
+    "numeric": "702",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "SK": {
     "name": "Slovakia",
@@ -1437,7 +1753,9 @@
     "lon": 19.58101536249097,
     "ISO_A3": "SVK",
     "ISO_A2": "SK",
-    "numeric": "703"
+    "numeric": "703",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "SI": {
     "name": "Slovenia",
@@ -1446,7 +1764,9 @@
     "lon": 14.89063689997378,
     "ISO_A3": "SVN",
     "ISO_A2": "SI",
-    "numeric": "705"
+    "numeric": "705",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "SB": {
     "name": "Solomon Islands",
@@ -1455,7 +1775,9 @@
     "lon": 160.16475795033884,
     "ISO_A3": "SLB",
     "ISO_A2": "SB",
-    "numeric": "090"
+    "numeric": "090",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "SO": {
     "name": "Somalia",
@@ -1464,7 +1786,9 @@
     "lon": 45.40037867243972,
     "ISO_A3": "SOM",
     "ISO_A2": "SO",
-    "numeric": "706"
+    "numeric": "706",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "ZA": {
     "name": "South Africa",
@@ -1473,7 +1797,9 @@
     "lon": 24.75252746489084,
     "ISO_A3": "ZAF",
     "ISO_A2": "ZA",
-    "numeric": "710"
+    "numeric": "710",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "SS": {
     "name": "South Sudan",
@@ -1482,7 +1808,9 @@
     "lon": 30.3851856901788,
     "ISO_A3": "SSD",
     "ISO_A2": "SS",
-    "numeric": "728"
+    "numeric": "728",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "ES": {
     "name": "Spain",
@@ -1491,7 +1819,9 @@
     "lon": -3.6516251409956975,
     "ISO_A3": "ESP",
     "ISO_A2": "ES",
-    "numeric": "724"
+    "numeric": "724",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "LK": {
     "name": "Sri Lanka",
@@ -1500,7 +1830,9 @@
     "lon": 80.66931169770622,
     "ISO_A3": "LKA",
     "ISO_A2": "LK",
-    "numeric": "144"
+    "numeric": "144",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "SD": {
     "name": "Sudan (the)",
@@ -1509,7 +1841,9 @@
     "lon": 29.951458283594064,
     "ISO_A3": "SDN",
     "ISO_A2": "SD",
-    "numeric": "729"
+    "numeric": "729",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "SR": {
     "name": "Suriname",
@@ -1518,7 +1852,9 @@
     "lon": -55.855514311561286,
     "ISO_A3": "SUR",
     "ISO_A2": "SR",
-    "numeric": "740"
+    "numeric": "740",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "SE": {
     "name": "Sweden",
@@ -1527,7 +1863,9 @@
     "lon": 17.062431988004956,
     "ISO_A3": "SWE",
     "ISO_A2": "SE",
-    "numeric": "752"
+    "numeric": "752",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "CH": {
     "name": "Switzerland",
@@ -1536,7 +1874,9 @@
     "lon": 8.286928794895285,
     "ISO_A3": "CHE",
     "ISO_A2": "CH",
-    "numeric": "756"
+    "numeric": "756",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "SY": {
     "name": "Syrian Arab Republic",
@@ -1545,7 +1885,9 @@
     "lon": 38.5117323139514,
     "ISO_A3": "SYR",
     "ISO_A2": "SY",
-    "numeric": "760"
+    "numeric": "760",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "TJ": {
     "name": "Tajikistan",
@@ -1554,7 +1896,9 @@
     "lon": 70.94215281065698,
     "ISO_A3": "TJK",
     "ISO_A2": "TJ",
-    "numeric": "762"
+    "numeric": "762",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "TZ": {
     "name": "Tanzania, United Republic of",
@@ -1563,7 +1907,9 @@
     "lon": 34.81832206060381,
     "ISO_A3": "TZA",
     "ISO_A2": "TZ",
-    "numeric": "834"
+    "numeric": "834",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "TH": {
     "name": "Thailand",
@@ -1572,7 +1918,9 @@
     "lon": 101.08675116214552,
     "ISO_A3": "THA",
     "ISO_A2": "TH",
-    "numeric": "764"
+    "numeric": "764",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "TL": {
     "name": "Timor-Leste",
@@ -1581,7 +1929,9 @@
     "lon": 125.9502404956266,
     "ISO_A3": "TLS",
     "ISO_A2": "TL",
-    "numeric": "626"
+    "numeric": "626",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "TG": {
     "name": "Togo",
@@ -1590,7 +1940,9 @@
     "lon": 0.8990857571109684,
     "ISO_A3": "TGO",
     "ISO_A2": "TG",
-    "numeric": "768"
+    "numeric": "768",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "TO": {
     "name": "Tonga",
@@ -1599,7 +1951,9 @@
     "lon": -175.20415878511247,
     "ISO_A3": "TON",
     "ISO_A2": "TO",
-    "numeric": "776"
+    "numeric": "776",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "TT": {
     "name": "Trinidad and Tobago",
@@ -1608,7 +1962,9 @@
     "lon": -61.37236579976247,
     "ISO_A3": "TTO",
     "ISO_A2": "TT",
-    "numeric": "780"
+    "numeric": "780",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "TN": {
     "name": "Tunisia",
@@ -1617,7 +1973,9 @@
     "lon": 9.65587551697984,
     "ISO_A3": "TUN",
     "ISO_A2": "TN",
-    "numeric": "788"
+    "numeric": "788",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "TR": {
     "name": "Turkey",
@@ -1626,7 +1984,9 @@
     "lon": 35.56886764076691,
     "ISO_A3": "TUR",
     "ISO_A2": "TR",
-    "numeric": "792"
+    "numeric": "792",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "TM": {
     "name": "Turkmenistan",
@@ -1635,7 +1995,9 @@
     "lon": 58.4577357627054,
     "ISO_A3": "TKM",
     "ISO_A2": "TM",
-    "numeric": "795"
+    "numeric": "795",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "TV": {
     "name": "Tuvalu",
@@ -1644,7 +2006,9 @@
     "lon": 179.217833977593,
     "ISO_A3": "TUV",
     "ISO_A2": "TV",
-    "numeric": "798"
+    "numeric": "798",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "UG": {
     "name": "Uganda",
@@ -1653,7 +2017,9 @@
     "lon": 32.34371768463123,
     "ISO_A3": "UGA",
     "ISO_A2": "UG",
-    "numeric": "800"
+    "numeric": "800",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "UA": {
     "name": "Ukraine",
@@ -1662,7 +2028,9 @@
     "lon": 31.27377208442636,
     "ISO_A3": "UKR",
     "ISO_A2": "UA",
-    "numeric": "804"
+    "numeric": "804",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "AE": {
     "name": "United Arab Emirates (the)",
@@ -1671,7 +2039,9 @@
     "lon": 54.27920525789581,
     "ISO_A3": "ARE",
     "ISO_A2": "AE",
-    "numeric": "784"
+    "numeric": "784",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "GB": {
     "name": "United Kingdom of Great Britain and Northern Ireland (the)",
@@ -1680,7 +2050,9 @@
     "lon": -128.3149848627581,
     "ISO_A3": "GBR",
     "ISO_A2": "GB",
-    "numeric": "826"
+    "numeric": "826",
+    "continent": "Europe",
+    "continent_no": "Europa"
   },
   "US": {
     "name": "United States of America (the)",
@@ -1689,7 +2061,9 @@
     "lon": -170.7007316174498,
     "ISO_A3": "USA",
     "ISO_A2": "US",
-    "numeric": "840"
+    "numeric": "840",
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "UY": {
     "name": "Uruguay",
@@ -1698,7 +2072,9 @@
     "lon": -56.01919523458085,
     "ISO_A3": "URY",
     "ISO_A2": "UY",
-    "numeric": "858"
+    "numeric": "858",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "UZ": {
     "name": "Uzbekistan",
@@ -1707,7 +2083,9 @@
     "lon": 63.8548297593985,
     "ISO_A3": "UZB",
     "ISO_A2": "UZ",
-    "numeric": "860"
+    "numeric": "860",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "VU": {
     "name": "Vanuatu",
@@ -1716,7 +2094,9 @@
     "lon": 166.84912735669738,
     "ISO_A3": "VUT",
     "ISO_A2": "VU",
-    "numeric": "548"
+    "numeric": "548",
+    "continent": "Oceania",
+    "continent_no": "Oseania"
   },
   "VE": {
     "name": "Venezuela (Bolivarian Republic of)",
@@ -1725,7 +2105,9 @@
     "lon": -66.36492135985132,
     "ISO_A3": "VEN",
     "ISO_A2": "VE",
-    "numeric": "862"
+    "numeric": "862",
+    "continent": "South America",
+    "continent_no": "Sør-Amerika"
   },
   "VN": {
     "name": "Viet Nam",
@@ -1734,7 +2116,9 @@
     "lon": 105.91338832758704,
     "ISO_A3": "VNM",
     "ISO_A2": "VN",
-    "numeric": "704"
+    "numeric": "704",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "YE": {
     "name": "Yemen",
@@ -1743,7 +2127,9 @@
     "lon": 47.46815793206386,
     "ISO_A3": "YEM",
     "ISO_A2": "YE",
-    "numeric": "887"
+    "numeric": "887",
+    "continent": "Asia",
+    "continent_no": "Asia"
   },
   "ZM": {
     "name": "Zambia",
@@ -1752,7 +2138,9 @@
     "lon": 27.75521363430896,
     "ISO_A3": "ZMB",
     "ISO_A2": "ZM",
-    "numeric": "894"
+    "numeric": "894",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   },
   "ZW": {
     "name": "Zimbabwe",
@@ -1761,6 +2149,8 @@
     "lon": 29.717829640720844,
     "ISO_A3": "ZWE",
     "ISO_A2": "ZW",
-    "numeric": "716"
+    "numeric": "716",
+    "continent": "Africa",
+    "continent_no": "Afrika"
   }
 }

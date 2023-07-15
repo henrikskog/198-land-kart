@@ -245,11 +245,34 @@ listBtn.addEventListener("click", () => {
 const fillCountryList = (countryData, episodeData, map) => {
   // Create a list of countries with norwegian names
   const countryList = document.getElementById("countryList");
-  const ul = document.createElement("ul");
-  countryList.appendChild(ul);
+
+
+  const continents = ["Europa", "Asia", "Afrika", "Oseania", "Sør-Amerika", "Nord-Amerika"]
+
+  continents.forEach((continent) => {
+    const header = document.createElement("h3");
+    const ul = document.createElement("ul");
+
+    header.innerHTML = continent;
+    ul.id = continent.toLowerCase();
+
+    countryList.appendChild(header);
+    countryList.appendChild(ul);
+  });
 
   // Loop through the countrytranslations
   for (const [key, value] of Object.entries(countryData)) {
+
+    // find the continent
+    const continent = value["continent_no"];
+
+    if(!continent) {
+      console.log("not writing country ", value["name"])
+      continue
+    }
+
+    const ul = document.getElementById(continent.toLowerCase());
+
     // Create a list item for each country
     const li = document.createElement("li");
     ul.appendChild(li);
