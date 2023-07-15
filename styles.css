@@ -68,19 +68,18 @@ body {
 }
 
 #countryList {
-  display: none;
   z-index: 500;
   position: absolute;
   width: 300px;
   height: 90%;
   margin-top: 2%;
   background: #fff;
-  display: flex;
   flex-direction: column;
   overflow-y: scroll;
   /* center on page */
   left: 50%;
   transform: translate(-50%, 0);
+  display: none;
 }
 
 #countryList h3 {
