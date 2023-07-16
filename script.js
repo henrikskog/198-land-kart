@@ -1,4 +1,4 @@
-const TOTAL_COUNTRY_GEOJSON_SIZE = 24261278;
+const TOTAL_COUNTRY_GEOJSON_SIZE = 12430424;
 
 const getCountryTranslations = async () => {
   const response = await fetch("country_translations.json");
@@ -107,7 +107,7 @@ const main = async () => {
 
   // Fetching GeoJSON data representing country shapes
   const geoJSONData = await fetchWithProgress(
-    "country-geojson-data.json",
+    "country-geojson-data-compressed.json",
     TOTAL_COUNTRY_GEOJSON_SIZE,
     (percentComplete) => {
       if (percentComplete > 0 && percentComplete <= 100) {
