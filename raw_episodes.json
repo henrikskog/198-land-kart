@@ -1,5 +1,125 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/b20c27711112fabfe195452cc534197739b23259",
+        "description": "Hu-hei hvor det g\u00e5r og n\u00e6rmere bestemt g\u00e5r det til Eritrea! Landet kan smykke seg med tittelen Afrikas Nord-Korea, har en mildt sagt blodig historie og et problematisk forhold til naboen Etiopia. Heldigvis er det ogs\u00e5 noen lyspunkter \u00e5 spore i dette vakre og ressursrike landskapet, som blant annet har noen italienske innslag man ikke hadde forventet ved f\u00f8rste \u00f8yekast. Einar har brukt hele sommeren til \u00e5 grave frem mer eller mindre kvalitetsikrede fakta som skal sables ned av byr\u00e5dsleder, politiker, men f\u00f8rst og fremst tidligere r\u00f8rlegger og Eritrea-bebober, Raymond Johansen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3691311,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/4ypq4znG1nMEN8hwtsDRxU"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4ypq4znG1nMEN8hwtsDRxU",
+        "html_description": "<p>Hu-hei hvor det g\u00e5r og n\u00e6rmere bestemt g\u00e5r det til Eritrea! Landet kan smykke seg med tittelen Afrikas Nord-Korea, har en mildt sagt blodig historie og et problematisk forhold til naboen Etiopia. Heldigvis er det ogs\u00e5 noen lyspunkter \u00e5 spore i dette vakre og ressursrike landskapet, som blant annet har noen italienske innslag man ikke hadde forventet ved f\u00f8rste \u00f8yekast. Einar har brukt hele sommeren til \u00e5 grave frem mer eller mindre kvalitetsikrede fakta som skal sables ned av byr\u00e5dsleder, politiker, men f\u00f8rst og fremst tidligere r\u00f8rlegger og Eritrea-bebober, Raymond Johansen.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "4ypq4znG1nMEN8hwtsDRxU",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Eritrea med Raymond Johansen",
+        "release_date": "2023-09-04",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:4ypq4znG1nMEN8hwtsDRxU"
+    },
+    {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/b1c07bb4a475340197b4d29fe91f332ddf13bf61",
+        "description": "Einar forteller om den nye sesongen (oppstart 4. september) i tillegg til annet geosnacks!  Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 160548,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/7oEUDsNh0M7kwFsd7GtpEg"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7oEUDsNh0M7kwFsd7GtpEg",
+        "html_description": "Einar forteller om den nye sesongen (oppstart 4. september) i tillegg til annet geosnacks! <br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "7oEUDsNh0M7kwFsd7GtpEg",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Viktig melding om ny sesong",
+        "release_date": "2023-08-11",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:7oEUDsNh0M7kwFsd7GtpEg"
+    },
+    {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/99477b4d8db74e5ff9b5cf89bfd231b87686d1a8",
+        "description": "Vi runder av sesongen med en bonusepisode inn i sommervarmen. Einar gir t\u00f8mmene over til ukens gjest, forfatter og folkeminnegransker Thor Gotaas, og lar han vise vei til den hemmelige destinasjonen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3303366,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/0hSrAaiaU8m6O9WxWd3XHG"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0hSrAaiaU8m6O9WxWd3XHG",
+        "html_description": "<p>Vi runder av sesongen med en bonusepisode inn i sommervarmen. Einar gir t\u00f8mmene over til ukens gjest, forfatter og folkeminnegransker Thor Gotaas, og lar han vise vei til den hemmelige destinasjonen.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "0hSrAaiaU8m6O9WxWd3XHG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Bonusepisode: Thor Gotaas velger destinasjon",
+        "release_date": "2023-06-19",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0hSrAaiaU8m6O9WxWd3XHG"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/62bcff39e92623b0c4f1e9ea6ae3f7e54cabae39",
         "description": "Noen ganger m\u00e5 man bare sparke av seg skoa, legge beina p\u00e5 bordet og podde i vei uten at andre folk tar oppmerksomheten. Her er det mange sp\u00f8rsm\u00e5l som skal besvarer av intet annet enn Einars egne mer eller mindre kvalitetssikrede fakta. Er Vatikanstaten et land? Hvor stort er det? Hva i alle dager er opplegget med de rare uniformene til sveitsergarden? Og hvor i alle dager har de en sveitsergarde midt i Italia? Dette, og mye mer, skal diskuteres opp og ned i mente med ukens gjest: Einar T\u00f8rnquist.Produsert av Martin Oftedal, PLAN-BLyddesign av Niklas Figenschau Johansen, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3881926,
@@ -81,14 +201,14 @@
     },
     {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/9a1f99b8d89e426f20045cbc4ce328e082b5078a",
-        "description": "Denne uken pakker vi snippesken og den sjette st\u00f8rste befolkningen i verden, nemlig Nigeria. Hvis du n\u00e5 satte kaffen i halsen og sprutet den ut over stuebordet mens du sjokkert utbryter \"sjette st\u00f8rste?! Hva har du r\u00f8yka, mann?!\" s\u00e5 er du jaggumeg ikke alene. Nigeria er ikke n\u00e6rheten av s\u00e5 kjent for Ola Nordmann som det burde ha v\u00e6rt. Vet du for eksempel hva hovedstaden heter? Eller hvorfor landet kalles for Afrikas USA? Eller at over 40% av befolkningen er under 15 \u00e5r? P\u00e5 et eller annet punkt kan ikke Einar kun lene seg p\u00e5 sine mer eller mindre kvalitetssikrede fakta, s\u00e5 heldigvis f\u00e5r han str\u00e5lende hjelp fra ukens gjest: Nigeria-ekspert Camilla Houeland.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+        "description": "Denne uken pakker vi snippesken og reiser til den sjette st\u00f8rste befolkningen i verden, nemlig Nigeria. Hvis du n\u00e5 satte kaffen i halsen og sprutet den ut over stuebordet mens du sjokkert utbryter \"sjette st\u00f8rste?! Hva har du r\u00f8yka, mann?!\" s\u00e5 er du jaggumeg ikke alene. Nigeria er ikke n\u00e6rheten av s\u00e5 kjent for Ola Nordmann som det burde ha v\u00e6rt. Vet du for eksempel hva hovedstaden heter? Eller hvorfor landet kalles for Afrikas USA? Eller at over 40% av befolkningen er under 15 \u00e5r? P\u00e5 et eller annet punkt kan ikke Einar kun lene seg p\u00e5 sine mer eller mindre kvalitetssikrede fakta, s\u00e5 heldigvis f\u00e5r han str\u00e5lende hjelp fra ukens gjest: Nigeria-ekspert Camilla Houeland.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3729972,
         "explicit": false,
         "external_urls": {
             "spotify": "https://open.spotify.com/episode/3ky2efJPQSjWloAki9t42D"
         },
         "href": "https://api.spotify.com/v1/episodes/3ky2efJPQSjWloAki9t42D",
-        "html_description": "<p>Denne uken pakker vi snippesken og den sjette st\u00f8rste befolkningen i verden, nemlig Nigeria. Hvis du n\u00e5 satte kaffen i halsen og sprutet den ut over stuebordet mens du sjokkert utbryter &#34;sjette st\u00f8rste?! Hva har du r\u00f8yka, mann?!&#34; s\u00e5 er du jaggumeg ikke alene. Nigeria er ikke n\u00e6rheten av s\u00e5 kjent for Ola Nordmann som det burde ha v\u00e6rt. Vet du for eksempel hva hovedstaden heter? Eller hvorfor landet kalles for Afrikas USA? Eller at over 40% av befolkningen er under 15 \u00e5r? P\u00e5 et eller annet punkt kan ikke Einar kun lene seg p\u00e5 sine mer eller mindre kvalitetssikrede fakta, s\u00e5 heldigvis f\u00e5r han str\u00e5lende hjelp fra ukens gjest: Nigeria-ekspert Camilla Houeland.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B </p><p><br /></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "html_description": "<p>Denne uken pakker vi snippesken og reiser til den sjette st\u00f8rste befolkningen i verden, nemlig Nigeria. Hvis du n\u00e5 satte kaffen i halsen og sprutet den ut over stuebordet mens du sjokkert utbryter &#34;sjette st\u00f8rste?! Hva har du r\u00f8yka, mann?!&#34; s\u00e5 er du jaggumeg ikke alene. Nigeria er ikke n\u00e6rheten av s\u00e5 kjent for Ola Nordmann som det burde ha v\u00e6rt. Vet du for eksempel hva hovedstaden heter? Eller hvorfor landet kalles for Afrikas USA? Eller at over 40% av befolkningen er under 15 \u00e5r? P\u00e5 et eller annet punkt kan ikke Einar kun lene seg p\u00e5 sine mer eller mindre kvalitetssikrede fakta, s\u00e5 heldigvis f\u00e5r han str\u00e5lende hjelp fra ukens gjest: Nigeria-ekspert Camilla Houeland.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
         "id": "3ky2efJPQSjWloAki9t42D",
         "images": [
             {
