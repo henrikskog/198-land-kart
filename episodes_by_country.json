@@ -4043,5 +4043,50 @@
                 "uri": "spotify:episode:4AwGwPEsrAOOV5Na3YkFpn"
             }
         }
+    ],
+    "ERI": [
+        {
+            "country": "Eritrea",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/b20c27711112fabfe195452cc534197739b23259",
+                "description": "Hu-hei hvor det g\u00e5r og n\u00e6rmere bestemt g\u00e5r det til Eritrea! Landet kan smykke seg med tittelen Afrikas Nord-Korea, har en mildt sagt blodig historie og et problematisk forhold til naboen Etiopia. Heldigvis er det ogs\u00e5 noen lyspunkter \u00e5 spore i dette vakre og ressursrike landskapet, som blant annet har noen italienske innslag man ikke hadde forventet ved f\u00f8rste \u00f8yekast. Einar har brukt hele sommeren til \u00e5 grave frem mer eller mindre kvalitetsikrede fakta som skal sables ned av byr\u00e5dsleder, politiker, men f\u00f8rst og fremst tidligere r\u00f8rlegger og Eritrea-bebober, Raymond Johansen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3691311,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4ypq4znG1nMEN8hwtsDRxU"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4ypq4znG1nMEN8hwtsDRxU",
+                "html_description": "<p>Hu-hei hvor det g\u00e5r og n\u00e6rmere bestemt g\u00e5r det til Eritrea! Landet kan smykke seg med tittelen Afrikas Nord-Korea, har en mildt sagt blodig historie og et problematisk forhold til naboen Etiopia. Heldigvis er det ogs\u00e5 noen lyspunkter \u00e5 spore i dette vakre og ressursrike landskapet, som blant annet har noen italienske innslag man ikke hadde forventet ved f\u00f8rste \u00f8yekast. Einar har brukt hele sommeren til \u00e5 grave frem mer eller mindre kvalitetsikrede fakta som skal sables ned av byr\u00e5dsleder, politiker, men f\u00f8rst og fremst tidligere r\u00f8rlegger og Eritrea-bebober, Raymond Johansen.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "4ypq4znG1nMEN8hwtsDRxU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Eritrea med Raymond Johansen",
+                "release_date": "2023-09-04",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4ypq4znG1nMEN8hwtsDRxU"
+            }
+        }
     ]
 }
