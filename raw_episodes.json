@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/fffabeae122a6dfff76b862d7631477d57e6cbf6",
+        "description": "Professor i freds- og konfliktstudier ved ONH Kjetil Tronvoll hjelper oss \u00e5 forst\u00e5 bakgrunnen for de voldelige oppt\u00f8yene mellom eritreere i Bergen sist l\u00f8rdag.Produsert av Niklas Figenschau Johansen, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1425266,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/1jgBRZDQlWgYuMYhl4P82r"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1jgBRZDQlWgYuMYhl4P82r",
+        "html_description": "<p>Professor i freds- og konfliktstudier ved ONH Kjetil Tronvoll hjelper oss \u00e5 forst\u00e5 bakgrunnen for de voldelige oppt\u00f8yene mellom eritreere i Bergen sist l\u00f8rdag.</p><br /><p><br /></p><br /><p>Produsert av Niklas Figenschau Johansen, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "1jgBRZDQlWgYuMYhl4P82r",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a90aa8c9510892893bbc6fec0",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f90aa8c9510892893bbc6fec0",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d90aa8c9510892893bbc6fec0",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Bonus: Oppt\u00f8yer mellom eritreere i Bergen, med Kjetil Tronvoll",
+        "release_date": "2023-09-06",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1jgBRZDQlWgYuMYhl4P82r"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/b20c27711112fabfe195452cc534197739b23259",
         "description": "Hu-hei hvor det g\u00e5r og n\u00e6rmere bestemt g\u00e5r det til Eritrea! Landet kan smykke seg med tittelen Afrikas Nord-Korea, har en mildt sagt blodig historie og et problematisk forhold til naboen Etiopia. Heldigvis er det ogs\u00e5 noen lyspunkter \u00e5 spore i dette vakre og ressursrike landskapet, som blant annet har noen italienske innslag man ikke hadde forventet ved f\u00f8rste \u00f8yekast. Einar har brukt hele sommeren til \u00e5 grave frem mer eller mindre kvalitetsikrede fakta som skal sables ned av byr\u00e5dsleder, politiker, men f\u00f8rst og fremst tidligere r\u00f8rlegger og Eritrea-bebober, Raymond Johansen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3691311,
