@@ -4088,5 +4088,50 @@
                 "uri": "spotify:episode:4ypq4znG1nMEN8hwtsDRxU"
             }
         }
+    ],
+    "ISR": [
+        {
+            "country": "Israel",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/ed14fb4258bc41c46a039fda0d3778870767246f",
+                "description": "Denne uken skal vi ut i betent terreng og farlig farvann n\u00e5r Israel skal under lupen. F\u00e5 land skaper s\u00e5 mye splittelse blant verdens befolkning, og det som vanligvis et objektive, enkle innslag i faktaboksen blir en kilde til konflikt og debatt. Hvor stort er landet? Avhenger helt av hva du kategoriserer som grenser. Hvor mange bor det der? Vanskelig \u00e5 si. Hvordan er den gjennomsnittlige israeleren i gata? Fuglene vet. Hva heter hovedstaden? De l\u00e6rde strides, og 'strid' er et n\u00f8kkelord som oppsummerer Israels innholdsrike og kompliserte historie. Dette er altfor mye \u00e5 ta tak i for en quizglad geografiinteressert bartemann, s\u00e5 selv om Einar har med seg en br\u00e5te mer eller mindre kvalitetssikre fakta er det behov for noen voksne i rommet, og den ansvarlige til \u00e5 lose oss gjennom dette metaforiske og reelle minefeltet er ingen ringere enn forsker, forfatter og foredragsholder Hanne Eggen R\u00f8islien.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3605211,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1VRiXH4PzWqBiA0390KJco"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1VRiXH4PzWqBiA0390KJco",
+                "html_description": "<p>Denne uken skal vi ut i betent terreng og farlig farvann n\u00e5r Israel skal under lupen. F\u00e5 land skaper s\u00e5 mye splittelse blant verdens befolkning, og det som vanligvis et objektive, enkle innslag i faktaboksen blir en kilde til konflikt og debatt. Hvor stort er landet? Avhenger helt av hva du kategoriserer som grenser. Hvor mange bor det der? Vanskelig \u00e5 si. Hvordan er den gjennomsnittlige israeleren i gata? Fuglene vet. Hva heter hovedstaden? De l\u00e6rde strides, og &#39;strid&#39; er et n\u00f8kkelord som oppsummerer Israels innholdsrike og kompliserte historie. Dette er altfor mye \u00e5 ta tak i for en quizglad geografiinteressert bartemann, s\u00e5 selv om Einar har med seg en br\u00e5te mer eller mindre kvalitetssikre fakta er det behov for noen voksne i rommet, og den ansvarlige til \u00e5 lose oss gjennom dette metaforiske og reelle minefeltet er ingen ringere enn forsker, forfatter og foredragsholder Hanne Eggen R\u00f8islien.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "1VRiXH4PzWqBiA0390KJco",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Israel del 1 med Hanne Eggen R\u00f8islien",
+                "release_date": "2023-09-11",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1VRiXH4PzWqBiA0390KJco"
+            }
+        }
     ]
 }
