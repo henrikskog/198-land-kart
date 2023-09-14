@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/4a5f8a3ad18683816f305dd8035302f1809e0c89",
+        "description": "P\u00e5 denne dagen i dag m\u00f8ttes Vladimir Putin og Kim Jong-un til et overraskelsesm\u00f8te ved romsenteret Vostochny cosmodrome. Er dette ille nytt, eller skal gutta krutt bare bonde litt over pils, preik og satelittoppskytninger? Dette er sp\u00f8rsm\u00e5l Einar m\u00e5 ha svar p\u00e5 sporenstreks og ringer derfor til F\u00f8rsteamaunuensis ved institutt for forsvarsstudier og leder for internasjonal sikkerhet: Henrik St\u00e5lhane Hiim.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1234285,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/44QiHwvG8BUz63KiaYXVA7"
+        },
+        "href": "https://api.spotify.com/v1/episodes/44QiHwvG8BUz63KiaYXVA7",
+        "html_description": "<p>P\u00e5 denne dagen i dag m\u00f8ttes Vladimir Putin og Kim Jong-un til et overraskelsesm\u00f8te ved romsenteret Vostochny cosmodrome. Er dette ille nytt, eller skal gutta krutt bare bonde litt over pils, preik og satelittoppskytninger? Dette er sp\u00f8rsm\u00e5l Einar m\u00e5 ha svar p\u00e5 sporenstreks og ringer derfor til F\u00f8rsteamaunuensis ved institutt for forsvarsstudier og leder for internasjonal sikkerhet: Henrik St\u00e5lhane Hiim.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "44QiHwvG8BUz63KiaYXVA7",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224561d0c0e0c170f5e270f4",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f224561d0c0e0c170f5e270f4",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d224561d0c0e0c170f5e270f4",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Bonus: M\u00f8te mellom Vladimir Putin og Kim Jong-un med Henrik St\u00e5lhane Hiim",
+        "release_date": "2023-09-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:44QiHwvG8BUz63KiaYXVA7"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/ed14fb4258bc41c46a039fda0d3778870767246f",
         "description": "Denne uken skal vi ut i betent terreng og farlig farvann n\u00e5r Israel skal under lupen. F\u00e5 land skaper s\u00e5 mye splittelse blant verdens befolkning, og det som vanligvis et objektive, enkle innslag i faktaboksen blir en kilde til konflikt og debatt. Hvor stort er landet? Avhenger helt av hva du kategoriserer som grenser. Hvor mange bor det der? Vanskelig \u00e5 si. Hvordan er den gjennomsnittlige israeleren i gata? Fuglene vet. Hva heter hovedstaden? De l\u00e6rde strides, og 'strid' er et n\u00f8kkelord som oppsummerer Israels innholdsrike og kompliserte historie. Dette er altfor mye \u00e5 ta tak i for en quizglad geografiinteressert bartemann, s\u00e5 selv om Einar har med seg en br\u00e5te mer eller mindre kvalitetssikre fakta er det behov for noen voksne i rommet, og den ansvarlige til \u00e5 lose oss gjennom dette metaforiske og reelle minefeltet er ingen ringere enn forsker, forfatter og foredragsholder Hanne Eggen R\u00f8islien.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3605211,
