@@ -4132,6 +4132,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:1VRiXH4PzWqBiA0390KJco"
             }
+        },
+        {
+            "country": "Israel",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/44ae5b16715cd043ade15a125583a201a42872e8",
+                "description": "Denne uken fortsetter vi med nok en komplisert episode om et komplisert land, nemlig Israel. Og her er absolutt alt komplisert: Osloavtalen og Seksdagerskrigen er selvsagt to hendelser som skaper splid og uenighet, men her blir til og med lettbeinte ferieelementer som pizza, pita og postkost problematiske og politiske. Heldigvis liker israeleren i gata \u00e5 v\u00e6re uenig, for her er det MASSE \u00e5 v\u00e6re uenig om! For \u00e5 lose oss gjennom dette har Einar med seg sine sedvanlige mer eller mindre kvalitetssikrede fakta, men heldigvis g\u00e5r han ikke alene i krigen (eller krigene, hvis vi skal holde oss til Israelrelaterte metaforere) og ukens gjest er fortsatt forsker, forfatter og foredragsholder Hanne Eggen R\u00f8islien.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3627180,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2n1zAfORMmTP4cAvgdGM39"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2n1zAfORMmTP4cAvgdGM39",
+                "html_description": "<p>Denne uken fortsetter vi med nok en komplisert episode om et komplisert land, nemlig Israel. Og her er absolutt alt komplisert: Osloavtalen og Seksdagerskrigen er selvsagt to hendelser som skaper splid og uenighet, men her blir til og med lettbeinte ferieelementer som pizza, pita og postkost problematiske og politiske. Heldigvis liker israeleren i gata \u00e5 v\u00e6re uenig, for her er det MASSE \u00e5 v\u00e6re uenig om! For \u00e5 lose oss gjennom dette har Einar med seg sine sedvanlige mer eller mindre kvalitetssikrede fakta, men heldigvis g\u00e5r han ikke alene i krigen (eller krigene, hvis vi skal holde oss til Israelrelaterte metaforere) og ukens gjest er fortsatt forsker, forfatter og foredragsholder Hanne Eggen R\u00f8islien.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "2n1zAfORMmTP4cAvgdGM39",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Israel del 2 med Hanne Eggen R\u00f8islien",
+                "release_date": "2023-09-18",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2n1zAfORMmTP4cAvgdGM39"
+            }
         }
     ]
 }
