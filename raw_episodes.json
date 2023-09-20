@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/49c58bf40c8b42bfa4bb3f1b58fc8ddbbdaef7d8",
+        "description": "N\u00e5r Aserbajdsjan angriper en armensk enklave, s\u00e5 ringer jeg Morten Jentoft. Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1049312,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5xxXLbZBBGgfxIF1B6J30z"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5xxXLbZBBGgfxIF1B6J30z",
+        "html_description": "N\u00e5r Aserbajdsjan angriper en armensk enklave, s\u00e5 ringer jeg Morten Jentoft.<br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5xxXLbZBBGgfxIF1B6J30z",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8acd2a6c36fd75884109da5ad6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fcd2a6c36fd75884109da5ad6",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dcd2a6c36fd75884109da5ad6",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Bonus: Aserbajdsjans angrep p\u00e5 Nagorno-Karabakh",
+        "release_date": "2023-09-20",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5xxXLbZBBGgfxIF1B6J30z"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/44ae5b16715cd043ade15a125583a201a42872e8",
         "description": "Denne uken fortsetter vi med nok en komplisert episode om et komplisert land, nemlig Israel. Og her er absolutt alt komplisert: Osloavtalen og Seksdagerskrigen er selvsagt to hendelser som skaper splid og uenighet, men her blir til og med lettbeinte ferieelementer som pizza, pita og postkost problematiske og politiske. Heldigvis liker israeleren i gata \u00e5 v\u00e6re uenig, for her er det MASSE \u00e5 v\u00e6re uenig om! For \u00e5 lose oss gjennom dette har Einar med seg sine sedvanlige mer eller mindre kvalitetssikrede fakta, men heldigvis g\u00e5r han ikke alene i krigen (eller krigene, hvis vi skal holde oss til Israelrelaterte metaforere) og ukens gjest er fortsatt forsker, forfatter og foredragsholder Hanne Eggen R\u00f8islien.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3627180,
