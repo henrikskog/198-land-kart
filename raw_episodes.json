@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/accc4474858b79314b578725e7c0cd177738a58c",
+        "description": "Denne uken pakker vi snippesken og reiser den demokratiske republikken Kongo som, navnet til tross, ikke n\u00f8dvendigvis er s\u00e5 demokratisk allikevel. Vi g\u00e5r gjennom en mildt sagt blodig historie som inneholder diktatorer, koloniherrer, slavehandel, underslag, korrupsjon og den d\u00f8deligste krigen vi har hatt siden andre verdenskrig. HOLY MOLY. Heldigvis finnes det noen lyspunkter, og med seg i studio har Einar en gjest som i ung alder flyktet fra DR Kongo til Norge og i voksen alder har investert i b\u00e5de bryllup og humanit\u00e6r arbeid i hjemlandet sitt. Dette er ikke noe Einar kan skryte p\u00e5 seg, men han har i det minste med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta til ukens ekspert: M\u00e5lsniken Mushaga Bakenga.Produsert av Martin Oftedal, PLAN-BLyddesign av Niklas Figenschau Johansen, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 2611278,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5W8FpXDPegELAK19yBr5zD"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5W8FpXDPegELAK19yBr5zD",
+        "html_description": "<p>Denne uken pakker vi snippesken og reiser den demokratiske republikken Kongo som, navnet til tross, ikke n\u00f8dvendigvis er s\u00e5 demokratisk allikevel. Vi g\u00e5r gjennom en mildt sagt blodig historie som inneholder diktatorer, koloniherrer, slavehandel, underslag, korrupsjon og den d\u00f8deligste krigen vi har hatt siden andre verdenskrig. HOLY MOLY. Heldigvis finnes det noen lyspunkter, og med seg i studio har Einar en gjest som i ung alder flyktet fra DR Kongo til Norge og i voksen alder har investert i b\u00e5de bryllup og humanit\u00e6r arbeid i hjemlandet sitt. Dette er ikke noe Einar kan skryte p\u00e5 seg, men han har i det minste med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta til ukens ekspert: M\u00e5lsniken Mushaga Bakenga.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><p>Lyddesign av Niklas Figenschau Johansen, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5W8FpXDPegELAK19yBr5zD",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Den demokratiske republikken Kongo del 1 med Mushaga Bakenga",
+        "release_date": "2023-09-25",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5W8FpXDPegELAK19yBr5zD"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/49c58bf40c8b42bfa4bb3f1b58fc8ddbbdaef7d8",
         "description": "N\u00e5r Aserbajdsjan angriper en armensk enklave, s\u00e5 ringer jeg Morten Jentoft. Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1049312,
