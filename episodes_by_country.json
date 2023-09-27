@@ -3776,6 +3776,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:6mBbpb2CUtF631F9VkzL7D"
             }
+        },
+        {
+            "country": "Norway",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/837e329cecdbdc747d21365c0e27e83f5b4fc7e7",
+                "description": "Hvordan er livet p\u00e5 Jan Mayen? Hva jobber de med? Hvordan er \u00e5 bo i skyggen av verdens nordligste vulkan? Og hva i alle dager skjuler seg i naturen der? Dette er bare noen av sp\u00f8rsm\u00e5lene Einar pr\u00f8ver \u00e5 besvare gjennom en telefonsamtale til Silje og Sigmund som jobber og bor p\u00e5 denne mystiske \u00f8ya.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1553397,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5iYHNr0dyKGJBeP2g6m2oi"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5iYHNr0dyKGJBeP2g6m2oi",
+                "html_description": "<p>Hvordan er livet p\u00e5 Jan Mayen? Hva jobber de med? Hvordan er \u00e5 bo i skyggen av verdens nordligste vulkan? Og hva i alle dager skjuler seg i naturen der? Dette er bare noen av sp\u00f8rsm\u00e5lene Einar pr\u00f8ver \u00e5 besvare gjennom en telefonsamtale til Silje og Sigmund som jobber og bor p\u00e5 denne mystiske \u00f8ya.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "5iYHNr0dyKGJBeP2g6m2oi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af612282e8bf8f7b3bc35e70b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff612282e8bf8f7b3bc35e70b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68df612282e8bf8f7b3bc35e70b",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Bonus: Livet p\u00e5 Jan Mayen",
+                "release_date": "2023-09-27",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5iYHNr0dyKGJBeP2g6m2oi"
+            }
         }
     ],
     "URY": [
