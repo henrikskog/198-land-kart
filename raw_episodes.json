@@ -1,14 +1,54 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/061c329cce23885910414ec131de829ab2dbbf06",
+        "description": "Denne uken fortsetter vi reisen gjennom den demokratiske republikken Kongo. Hvordan er det \u00e5 gifte seg der? Er det en trygg og god flyplass man lett kan snike en Louie Vutton-koffert uten \u00e5 tiltrekke seg u\u00f8nsket oppmerksomhet? Kan man skaffe seg f\u00f8rerkort i uforskammet ung alder? Kan man virkelig bruke majones til alt? Og er virkelig den gjennomsnittlige mannlige kongoleser s\u00e5, kremt, imponerende som ryktet skal ha det til? Dette, og mye mer, blir besvart i denne episoden. I tillegg til vas, fj\u00e5s og Einars mer eller mindre kvalitetsikrede fakta f\u00e5r vi h\u00f8re fra ukens gjest, nev\u00f8en til en Nobels fredsprisvinner, grunnlegger av en barneskole i Kongo og spiss p\u00e5 Stab\u00e6k, Mushaga Bakenga.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3577391,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/6wTFMHT7NG1zhWwgE3sszX"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6wTFMHT7NG1zhWwgE3sszX",
+        "html_description": "<p>Denne uken fortsetter vi reisen gjennom den demokratiske republikken Kongo. Hvordan er det \u00e5 gifte seg der? Er det en trygg og god flyplass man lett kan snike en Louie Vutton-koffert uten \u00e5 tiltrekke seg u\u00f8nsket oppmerksomhet? Kan man skaffe seg f\u00f8rerkort i uforskammet ung alder? Kan man virkelig bruke majones til alt? Og er virkelig den gjennomsnittlige mannlige kongoleser s\u00e5, kremt, imponerende som ryktet skal ha det til? Dette, og mye mer, blir besvart i denne episoden. I tillegg til vas, fj\u00e5s og Einars mer eller mindre kvalitetsikrede fakta f\u00e5r vi h\u00f8re fra ukens gjest, nev\u00f8en til en Nobels fredsprisvinner, grunnlegger av en barneskole i Kongo og spiss p\u00e5 Stab\u00e6k, Mushaga Bakenga.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "6wTFMHT7NG1zhWwgE3sszX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Den demokratiske republikken Kongo del 2 med Mushaga Bakenga",
+        "release_date": "2023-10-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6wTFMHT7NG1zhWwgE3sszX"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/837e329cecdbdc747d21365c0e27e83f5b4fc7e7",
-        "description": "Hvordan er livet p\u00e5 Jan Mayen? Hva jobber de med? Hvordan er \u00e5 bo i skyggen av verdens nordligste vulkan? Og hva i alle dager skjuler seg i naturen der? Dette er bare noen av sp\u00f8rsm\u00e5lene Einar pr\u00f8ver \u00e5 besvare gjennom en telefonsamtale til Silje og Sigmund som jobber og bor p\u00e5 denne mystiske \u00f8ya.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+        "description": "Hvordan er livet p\u00e5 Jan Mayen? Hva jobber de med? Hvordan er \u00e5 bo i skyggen av verdens nordligste vulkan? Og hva i alle dager skjuler seg i naturen der? Dette er bare noen av sp\u00f8rsm\u00e5lene Einar pr\u00f8ver \u00e5 besvare gjennom en telefonsamtale til ekteparet Silje Gr\u00f8slie Wennesland og Sigmund L\u00f8nnve, som jobber og bor p\u00e5 denne mystiske \u00f8ya.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1553397,
         "explicit": false,
         "external_urls": {
             "spotify": "https://open.spotify.com/episode/5iYHNr0dyKGJBeP2g6m2oi"
         },
         "href": "https://api.spotify.com/v1/episodes/5iYHNr0dyKGJBeP2g6m2oi",
-        "html_description": "<p>Hvordan er livet p\u00e5 Jan Mayen? Hva jobber de med? Hvordan er \u00e5 bo i skyggen av verdens nordligste vulkan? Og hva i alle dager skjuler seg i naturen der? Dette er bare noen av sp\u00f8rsm\u00e5lene Einar pr\u00f8ver \u00e5 besvare gjennom en telefonsamtale til Silje og Sigmund som jobber og bor p\u00e5 denne mystiske \u00f8ya.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "html_description": "<p>Hvordan er livet p\u00e5 Jan Mayen? Hva jobber de med? Hvordan er \u00e5 bo i skyggen av verdens nordligste vulkan? Og hva i alle dager skjuler seg i naturen der? Dette er bare noen av sp\u00f8rsm\u00e5lene Einar pr\u00f8ver \u00e5 besvare gjennom en telefonsamtale til ekteparet Silje Gr\u00f8slie Wennesland og Sigmund L\u00f8nnve, som jobber og bor p\u00e5 denne mystiske \u00f8ya.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
         "id": "5iYHNr0dyKGJBeP2g6m2oi",
         "images": [
             {
