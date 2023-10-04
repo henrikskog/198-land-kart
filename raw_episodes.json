@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/261572ae6d2a3a449debd5825ca32275eb81c630",
+        "description": "H\u00f8stferien er i gang for mange (og like rundt hj\u00f8rnet for resten av dere), og Einar er p\u00e5 jakt etter reisem\u00e5l i Norge. Han ringer derfor til Gunnar Garfors, aktuell med boken \"Bortom allfarveg: Austlandet\", for \u00e5 f\u00e5 reisetips til et undervurdert land: \u00d8stlandet.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1194240,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3haLZEaMCfDWvCsC4FRpSL"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3haLZEaMCfDWvCsC4FRpSL",
+        "html_description": "<p>H\u00f8stferien er i gang for mange (og like rundt hj\u00f8rnet for resten av dere), og Einar er p\u00e5 jakt etter reisem\u00e5l i Norge. Han ringer derfor til Gunnar Garfors, aktuell med boken &#34;Bortom allfarveg: Austlandet&#34;, for \u00e5 f\u00e5 reisetips til et undervurdert land: \u00d8stlandet.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3haLZEaMCfDWvCsC4FRpSL",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a63153dcbd3e334b6de2d05b5",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f63153dcbd3e334b6de2d05b5",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d63153dcbd3e334b6de2d05b5",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Bonus: Reisetips i h\u00f8stferien med Gunnar Garfors",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3haLZEaMCfDWvCsC4FRpSL"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/061c329cce23885910414ec131de829ab2dbbf06",
         "description": "Denne uken fortsetter vi reisen gjennom den demokratiske republikken Kongo. Hvordan er det \u00e5 gifte seg der? Er det en trygg og god flyplass man lett kan snike en Louie Vutton-koffert uten \u00e5 tiltrekke seg u\u00f8nsket oppmerksomhet? Kan man skaffe seg f\u00f8rerkort i uforskammet ung alder? Kan man virkelig bruke majones til alt? Og er virkelig den gjennomsnittlige mannlige kongoleser s\u00e5, kremt, imponerende som ryktet skal ha det til? Dette, og mye mer, blir besvart i denne episoden. I tillegg til vas, fj\u00e5s og Einars mer eller mindre kvalitetsikrede fakta f\u00e5r vi h\u00f8re fra ukens gjest, nev\u00f8en til en Nobels fredsprisvinner, grunnlegger av en barneskole i Kongo og spiss p\u00e5 Stab\u00e6k, Mushaga Bakenga.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3577391,
