@@ -4352,5 +4352,50 @@
                 "uri": "spotify:episode:6wTFMHT7NG1zhWwgE3sszX"
             }
         }
+    ],
+    "MHL": [
+        {
+            "country": "Marshall Islands",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/5d12aaae753f92bd5f0adfefb7261bd62e5526b7",
+                "description": "Denne uken snur vi skuta i retning av Vaianas bakg\u00e5rd, n\u00e6rmere bestemt Marshall\u00f8yene. Hvis du har lurt p\u00e5 hvorfor alle disse atollene har et britisk navn, hvordan wi-fi forholdene er, hvor heftig bombet de faktisk ble av amerikanere i etterkrigstiden, om det finnes privatliv der og hvorfor folk - i hvert fall de to i studio - kaller Marshall\u00f8yene for 'Stillehavets Rjukan'. Einar har med seg en liten, snerten rumpetaske med mer eller mindre kvalitetssikrede fakta og ukens gjest er postdoktor ved universitetet i Bergen som bl.a har jobbet med misjonshistorie og moderne kristendom p\u00e5 Marshall\u00f8yene: Ola Gunhildrud Berta.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3899062,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4mrCbRvWWRIhcfWegjUTJu"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4mrCbRvWWRIhcfWegjUTJu",
+                "html_description": "<p>Denne uken snur vi skuta i retning av Vaianas bakg\u00e5rd, n\u00e6rmere bestemt Marshall\u00f8yene. Hvis du har lurt p\u00e5 hvorfor alle disse atollene har et britisk navn, hvordan wi-fi forholdene er, hvor heftig bombet de faktisk ble av amerikanere i etterkrigstiden, om det finnes privatliv der og hvorfor folk - i hvert fall de to i studio - kaller Marshall\u00f8yene for &#39;Stillehavets Rjukan&#39;. Einar har med seg en liten, snerten rumpetaske med mer eller mindre kvalitetssikrede fakta og ukens gjest er postdoktor ved universitetet i Bergen som bl.a har jobbet med misjonshistorie og moderne kristendom p\u00e5 Marshall\u00f8yene: Ola Gunhildrud Berta.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "4mrCbRvWWRIhcfWegjUTJu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Marshall\u00f8yene med Ola Gunhildrud Berta",
+                "release_date": "2023-10-09",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4mrCbRvWWRIhcfWegjUTJu"
+            }
+        }
     ]
 }
