@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/fde942a327b9ff94c70edda36770b1549ebeeca9",
+        "description": "Hamas har invadert deler av Israel. Hva har skjedd? Og hva kan vi forvente fremover? Blir det en storkrig i regionen? Jeg ringer Dag Henrik Tuastad, f\u00f8rstelektor for Midt\u00f8stenstudier, ved Universitetet i Oslo. Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 2161711,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/2l5RSzdQdT0m8qrYIM6GJo"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2l5RSzdQdT0m8qrYIM6GJo",
+        "html_description": "Hamas har invadert deler av Israel. Hva har skjedd? Og hva kan vi forvente fremover? Blir det en storkrig i regionen? Jeg ringer Dag Henrik Tuastad, f\u00f8rstelektor for Midt\u00f8stenstudier, ved Universitetet i Oslo.<br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "2l5RSzdQdT0m8qrYIM6GJo",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7b2ff5bcea40efe146d4523f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f7b2ff5bcea40efe146d4523f",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d7b2ff5bcea40efe146d4523f",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+            "en"
+        ],
+        "name": "Bonus: Hamas angriper Israel",
+        "release_date": "2023-10-10",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2l5RSzdQdT0m8qrYIM6GJo"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/5d12aaae753f92bd5f0adfefb7261bd62e5526b7",
         "description": "Denne uken snur vi skuta i retning av Vaianas bakg\u00e5rd, n\u00e6rmere bestemt Marshall\u00f8yene. Hvis du har lurt p\u00e5 hvorfor alle disse atollene har et britisk navn, hvordan wi-fi forholdene er, hvor heftig bombet de faktisk ble av amerikanere i etterkrigstiden, om det finnes privatliv der og hvorfor folk - i hvert fall de to i studio - kaller Marshall\u00f8yene for 'Stillehavets Rjukan'. Einar har med seg en liten, snerten rumpetaske med mer eller mindre kvalitetssikrede fakta og ukens gjest er postdoktor ved universitetet i Bergen som bl.a har jobbet med misjonshistorie og moderne kristendom p\u00e5 Marshall\u00f8yene: Ola Gunhildrud Berta.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3899062,
