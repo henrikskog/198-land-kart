@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/f8396285fca8270e13709025195cf33bb2907e0f",
+        "description": "Denne uken starter vi p\u00e5 f\u00f8rste del av en triologi om et av de mest omtalte landene det siste \u00e5ret, nemlig Ukraina. Her skal vi vie mye tid til \u00e5 finne ut hvordan outsideren av alle outsidere klarte \u00e5 hente hjem den gjeveste utmerkelsen i mediaverden: Kalush Orchestas storseier i Eurovision. Neida. Vi skal selvsagt g\u00e5 vesentlig grundigere til verks og vier hele del 1 til den grundigste faktaboksen hittil i 198 Lands spede historie. Einar har med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta som gis en streng tommel opp eller ned av ukens gjest: Doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3472039,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/59tVuM04tEF1CIqLSJq2aX"
+        },
+        "href": "https://api.spotify.com/v1/episodes/59tVuM04tEF1CIqLSJq2aX",
+        "html_description": "<p>Denne uken starter vi p\u00e5 f\u00f8rste del av en triologi om et av de mest omtalte landene det siste \u00e5ret, nemlig Ukraina. Her skal vi vie mye tid til \u00e5 finne ut hvordan outsideren av alle outsidere klarte \u00e5 hente hjem den gjeveste utmerkelsen i mediaverden: Kalush Orchestas storseier i Eurovision. Neida. Vi skal selvsagt g\u00e5 vesentlig grundigere til verks og vier hele del 1 til den grundigste faktaboksen hittil i 198 Lands spede historie. Einar har med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta som gis en streng tommel opp eller ned av ukens gjest: Doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "59tVuM04tEF1CIqLSJq2aX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Ukraina del 1 med J\u00f8rn Holm-Hansen",
+        "release_date": "2023-10-16",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:59tVuM04tEF1CIqLSJq2aX"
+    },
+    {
         "audio_preview_url": "https://p.scdn.co/mp3-preview/fde942a327b9ff94c70edda36770b1549ebeeca9",
         "description": "Hamas har invadert deler av Israel. Hva har skjedd? Og hva kan vi forvente fremover? Blir det en storkrig i regionen? Jeg ringer Dag Henrik Tuastad, f\u00f8rstelektor for Midt\u00f8stenstudier, ved Universitetet i Oslo. Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2161711,
@@ -29,9 +69,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonus: Hamas angriper Israel",
         "release_date": "2023-10-10",
@@ -69,9 +109,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Marshall\u00f8yene med Ola Gunhildrud Berta",
         "release_date": "2023-10-09",
@@ -109,9 +149,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonus: Reisetips i h\u00f8stferien med Gunnar Garfors",
         "release_date": "2023-10-04",
@@ -149,9 +189,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Den demokratiske republikken Kongo del 2 med Mushaga Bakenga",
         "release_date": "2023-10-02",
@@ -189,9 +229,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonus: Livet p\u00e5 Jan Mayen",
         "release_date": "2023-09-27",
@@ -229,9 +269,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Den demokratiske republikken Kongo del 1 med Mushaga Bakenga",
         "release_date": "2023-09-25",
@@ -269,9 +309,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonus: Aserbajdsjans angrep p\u00e5 Nagorno-Karabakh",
         "release_date": "2023-09-20",
@@ -309,9 +349,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Israel del 2 med Hanne Eggen R\u00f8islien",
         "release_date": "2023-09-18",
@@ -349,9 +389,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonus: M\u00f8te mellom Vladimir Putin og Kim Jong-un med Henrik St\u00e5lhane Hiim",
         "release_date": "2023-09-13",
@@ -389,9 +429,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Israel del 1 med Hanne Eggen R\u00f8islien",
         "release_date": "2023-09-11",
@@ -429,9 +469,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonus: Oppt\u00f8yer mellom eritreere i Bergen med Kjetil Tronvoll",
         "release_date": "2023-09-06",
@@ -469,9 +509,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Eritrea med Raymond Johansen",
         "release_date": "2023-09-04",
@@ -509,9 +549,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Viktig melding om ny sesong",
         "release_date": "2023-08-11",
@@ -549,9 +589,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bonusepisode: Thor Gotaas velger destinasjon",
         "release_date": "2023-06-19",
@@ -589,9 +629,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Vatikanstaten",
         "release_date": "2023-06-12",
@@ -629,9 +669,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nigeria del 2 med Camilla Houeland",
         "release_date": "2023-06-05",
@@ -669,9 +709,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nigeria del 1 med Camilla Houeland",
         "release_date": "2023-05-29",
@@ -709,9 +749,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Saudi-Arabia del 2 med Charlotte Lysa",
         "release_date": "2023-05-08",
@@ -749,9 +789,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Saudi-Arabia del 1 med Charlotte Lysa",
         "release_date": "2023-05-01",
@@ -789,9 +829,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "VanuaTO del 2 med Thorgeir Kolshus",
         "release_date": "2023-04-24",
@@ -829,9 +869,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "VanuaTO del 1 med Thorgeir Kolshus",
         "release_date": "2023-04-17",
@@ -869,9 +909,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Uruguay med Carl-Erik Torp",
         "release_date": "2023-04-10",
@@ -909,9 +949,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "den dominikanske republikk del 2 med J\u00f8rgen S\u00f8rlie Yri",
         "release_date": "2023-03-27",
@@ -949,9 +989,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Den dominikanske republikk del 1 med J\u00f8rgen S\u00f8rlie Yri",
         "release_date": "2023-03-20",
@@ -989,9 +1029,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Mongolia del 2 med Benedikte Victoria Lindskog",
         "release_date": "2023-03-13",
@@ -1029,9 +1069,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Mongolia del 1 med Benedikte Victoria Lindskog",
         "release_date": "2023-03-06",
@@ -1069,9 +1109,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nauru med Nikolai Astrup",
         "release_date": "2023-02-27",
@@ -1109,9 +1149,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Frankrike del 3 med Kjerstin Aukrust",
         "release_date": "2023-02-20",
@@ -1149,9 +1189,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Frankrike del 2 med Kjerstin Aukrust",
         "release_date": "2023-02-13",
@@ -1189,9 +1229,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Frankrike del 1 med Kjerstin Aukrust",
         "release_date": "2023-02-06",
@@ -1229,9 +1269,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "New Zealand med Thor Gotaas",
         "release_date": "2022-12-19",
@@ -1269,9 +1309,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Laos med Magnus Devold",
         "release_date": "2022-12-12",
@@ -1309,9 +1349,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Vietnam med Lan Marie Berg",
         "release_date": "2022-12-05",
@@ -1349,9 +1389,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Mali med Vegard Tj\u00f8rhom",
         "release_date": "2022-11-28",
@@ -1389,9 +1429,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Qatar med Charlotte Lysa",
         "release_date": "2022-11-21",
@@ -1429,9 +1469,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Brasil del 2 med Torkjell Leira",
         "release_date": "2022-11-14",
@@ -1469,9 +1509,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Brasil del 1 med Torkjell Leira",
         "release_date": "2022-11-07",
@@ -1509,9 +1549,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Russland del 3 med Atle Gr\u00f8nn",
         "release_date": "2022-10-31",
@@ -1549,9 +1589,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Russland del 2 med Atle Gr\u00f8nn",
         "release_date": "2022-10-24",
@@ -1589,9 +1629,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Georgia med Erika Fatland",
         "release_date": "2022-10-17",
@@ -1629,9 +1669,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Russland del 1 med Atle Gr\u00f8nn",
         "release_date": "2022-10-10",
@@ -1669,9 +1709,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Den sentralafrikanske republikk med Lindis Hurum (I samarbeid med Leger Uten Grenser)",
         "release_date": "2022-10-03",
@@ -1709,9 +1749,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Marokko med Sarah Natasha Melbye",
         "release_date": "2022-09-26",
@@ -1749,9 +1789,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Sri Lanka med Dennis Siva",
         "release_date": "2022-09-19",
@@ -1789,9 +1829,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Canada med Kim S\u00f8rensen",
         "release_date": "2022-09-12",
@@ -1829,9 +1869,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bolivia med Heidi Lundeberg",
         "release_date": "2022-09-05",
@@ -1869,9 +1909,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Kasakhstan del 2 med Erika Fatland",
         "release_date": "2022-06-13",
@@ -1909,9 +1949,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Kasakhstan del 1 med Erika Fatland",
         "release_date": "2022-06-06",
@@ -1949,9 +1989,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Tuvalu med Lan Marie Berg",
         "release_date": "2022-05-30",
@@ -1989,9 +2029,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Lake District med Thor Gotaas",
         "release_date": "2022-05-23",
@@ -2029,9 +2069,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "S\u00e3o Tom\u00e9 og Pr\u00edncipe med Erika Fatland",
         "release_date": "2022-05-16",
@@ -2069,9 +2109,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Irak med Galvan Mehidi",
         "release_date": "2022-05-09",
@@ -2109,9 +2149,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Maldivene med Aishath Afeef",
         "release_date": "2022-05-02",
@@ -2149,9 +2189,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Polen med Kyrre Holm Johannessen",
         "release_date": "2022-04-25",
@@ -2189,9 +2229,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Mauritius med Live Nelvik",
         "release_date": "2022-04-18",
@@ -2229,9 +2269,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bulgaria del 2 med Stian Carstensen",
         "release_date": "2022-04-04",
@@ -2269,9 +2309,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bulgaria del 1 med Stian Carstensen",
         "release_date": "2022-03-28",
@@ -2309,9 +2349,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Myanmar med Marte Nilsen",
         "release_date": "2022-03-21",
@@ -2349,9 +2389,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Montenegro med Peter Bubresko",
         "release_date": "2022-03-14",
@@ -2389,9 +2429,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Paraguay med Magnus Devold",
         "release_date": "2022-03-07",
@@ -2429,9 +2469,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Australia med Thor Gotaas",
         "release_date": "2022-02-28",
@@ -2469,9 +2509,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Haiti med Lindis Hurum (I samarbeid med Leger Uten Grenser)",
         "release_date": "2021-11-15",
@@ -2509,9 +2549,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bosnia-Hercegovina (Live) med Lars Berrum",
         "release_date": "2021-11-08",
@@ -2549,9 +2589,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Turkmenistan del 2 med Erika Fatland",
         "release_date": "2021-11-01",
@@ -2589,9 +2629,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Turkmenistan del 1 med Erika Fatland",
         "release_date": "2021-10-25",
@@ -2629,9 +2669,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Ghana med Tete Lidbom",
         "release_date": "2021-10-18",
@@ -2669,9 +2709,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Iran del 2 med Kaveh Rashidi",
         "release_date": "2021-10-11",
@@ -2709,9 +2749,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Iran del 1 med Kaveh Rashidi",
         "release_date": "2021-10-04",
@@ -2749,9 +2789,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Rwanda del 2 med Kash King",
         "release_date": "2021-09-27",
@@ -2789,9 +2829,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Rwanda del 1 med Kash King",
         "release_date": "2021-09-20",
@@ -2829,9 +2869,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Slovenia med Bj\u00f8rn Einar Rom\u00f8ren",
         "release_date": "2021-09-13",
@@ -2869,9 +2909,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nederland del 2 med Bernt Hulsker",
         "release_date": "2021-09-06",
@@ -2909,9 +2949,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nederland del 1 med Bernt Hulsker",
         "release_date": "2021-08-30",
@@ -2949,9 +2989,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Etiopia med Desta Marie Beeder",
         "release_date": "2021-08-23",
@@ -2989,9 +3029,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Vanuatu med Magnus Devold",
         "release_date": "2021-08-16",
@@ -3029,9 +3069,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nepal del 2 med Erika Fatland",
         "release_date": "2020-11-02",
@@ -3069,9 +3109,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nepal del 1 med Erika Fatland",
         "release_date": "2020-10-26",
@@ -3109,9 +3149,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Tyskland del 2 med Asbj\u00f8rn Slettemark",
         "release_date": "2020-10-19",
@@ -3149,9 +3189,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Tyskland del 1 med Asbj\u00f8rn Slettemark",
         "release_date": "2020-10-12",
@@ -3189,9 +3229,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Italia med J\u00f8rgine Massa Vasstrand",
         "release_date": "2020-10-05",
@@ -3229,9 +3269,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Island med Mimir Kristjansson",
         "release_date": "2020-09-21",
@@ -3269,9 +3309,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Sveits med Solveig Kloppen",
         "release_date": "2020-09-14",
@@ -3309,9 +3349,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Kapp Verde med Freddy dos Santos",
         "release_date": "2020-09-07",
@@ -3349,9 +3389,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Kroatia med Bjarte Tj\u00f8stheim",
         "release_date": "2020-08-31",
@@ -3389,9 +3429,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Japan med Jon Almaas",
         "release_date": "2020-08-24",
@@ -3429,9 +3469,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Informasjon om sesong 3",
         "release_date": "2020-08-21",
@@ -3469,9 +3509,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nord Korea del 2 med Erika Fatland",
         "release_date": "2019-12-09",
@@ -3509,9 +3549,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Nord Korea del 1 med Erika Fatland",
         "release_date": "2019-12-02",
@@ -3549,9 +3589,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Bhutan med Ole Martin Ihle",
         "release_date": "2019-11-25",
@@ -3589,9 +3629,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Somalia med Jonis Josef",
         "release_date": "2019-11-18",
@@ -3629,9 +3669,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Danmark med Ingrid Gjessing Linhave",
         "release_date": "2019-11-11",
@@ -3669,9 +3709,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Libya med Magnus Carlsen",
         "release_date": "2019-11-04",
@@ -3709,9 +3749,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Einar forteller om ny sesong",
         "release_date": "2019-09-24",
@@ -3749,9 +3789,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Informasjon om neste sesong",
         "release_date": "2019-06-04",
@@ -3789,9 +3829,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Aserbajdsjan med Marte Stokstad",
         "release_date": "2019-04-01",
@@ -3829,9 +3869,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Pakistan med Morten Ramm",
         "release_date": "2019-03-25",
@@ -3869,9 +3909,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Finland med Else K\u00e5ss Furuseth",
         "release_date": "2019-03-18",
@@ -3909,9 +3949,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "USA del 2 med Tore Sagen",
         "release_date": "2019-03-11",
@@ -3949,9 +3989,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Usbekistan med Magnus Devold",
         "release_date": "2019-03-04",
@@ -3989,9 +4029,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Argentina med Silje Nordnes",
         "release_date": "2019-02-25",
@@ -4029,9 +4069,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Gambia med Marte Stokstad",
         "release_date": "2019-02-18",
@@ -4069,9 +4109,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Libanon med John Brungot",
         "release_date": "2019-02-11",
@@ -4109,9 +4149,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "USA del 1 med Tore Sagen",
         "release_date": "2019-02-04",
@@ -4149,9 +4189,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "Norge med Solveig Kloppen",
         "release_date": "2019-01-28",
@@ -4189,9 +4229,9 @@
         ],
         "is_externally_hosted": false,
         "is_playable": true,
-        "language": "en",
+        "language": "no",
         "languages": [
-            "en"
+            "no"
         ],
         "name": "198 Land med Einar T\u00f8rnquist - Kommer MANDAG 28.JANUAR!",
         "release_date": "2018-11-15",
