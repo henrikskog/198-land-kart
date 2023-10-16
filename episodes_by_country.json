@@ -4440,5 +4440,50 @@
                 "uri": "spotify:episode:4mrCbRvWWRIhcfWegjUTJu"
             }
         }
+    ],
+    "UKR": [
+        {
+            "country": "Ukraine",
+            "ep": {
+                "audio_preview_url": "https://p.scdn.co/mp3-preview/f8396285fca8270e13709025195cf33bb2907e0f",
+                "description": "Denne uken starter vi p\u00e5 f\u00f8rste del av en triologi om et av de mest omtalte landene det siste \u00e5ret, nemlig Ukraina. Her skal vi vie mye tid til \u00e5 finne ut hvordan outsideren av alle outsidere klarte \u00e5 hente hjem den gjeveste utmerkelsen i mediaverden: Kalush Orchestas storseier i Eurovision. Neida. Vi skal selvsagt g\u00e5 vesentlig grundigere til verks og vier hele del 1 til den grundigste faktaboksen hittil i 198 Lands spede historie. Einar har med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta som gis en streng tommel opp eller ned av ukens gjest: Doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3472039,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/59tVuM04tEF1CIqLSJq2aX"
+                },
+                "href": "https://api.spotify.com/v1/episodes/59tVuM04tEF1CIqLSJq2aX",
+                "html_description": "<p>Denne uken starter vi p\u00e5 f\u00f8rste del av en triologi om et av de mest omtalte landene det siste \u00e5ret, nemlig Ukraina. Her skal vi vie mye tid til \u00e5 finne ut hvordan outsideren av alle outsidere klarte \u00e5 hente hjem den gjeveste utmerkelsen i mediaverden: Kalush Orchestas storseier i Eurovision. Neida. Vi skal selvsagt g\u00e5 vesentlig grundigere til verks og vier hele del 1 til den grundigste faktaboksen hittil i 198 Lands spede historie. Einar har med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta som gis en streng tommel opp eller ned av ukens gjest: Doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "59tVuM04tEF1CIqLSJq2aX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Ukraina del 1 med J\u00f8rn Holm-Hansen",
+                "release_date": "2023-10-16",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:59tVuM04tEF1CIqLSJq2aX"
+            }
+        }
     ]
 }
