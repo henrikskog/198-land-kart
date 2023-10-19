@@ -1593,6 +1593,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:078j3z5qA7a8Poqh9R3Tic"
             }
+        },
+        {
+            "country": "Poland",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2e1xpeoYcZzSgolL5Jxd4R/clip_0_60000.mp3",
+                "description": "Valget i Polen har blitt kalt for et av de viktigste valgene for demokratiet i europa. Hva betyr utfallet og hvorfor var akkurat dette valget s\u00e5 viktig? Einar ringer til politisk kommentator og eks-kollega Eirik Bergensen for \u00e5 f\u00e5 mer oversikt over situasjonen.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1473880,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6lQ3VZe6WNqf1yFod0h3dG"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6lQ3VZe6WNqf1yFod0h3dG",
+                "html_description": "<p>Valget i Polen har blitt kalt for et av de viktigste valgene for demokratiet i europa. Hva betyr utfallet og hvorfor var akkurat dette valget s\u00e5 viktig? Einar ringer til politisk kommentator og eks-kollega Eirik Bergensen for \u00e5 f\u00e5 mer oversikt over situasjonen.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "6lQ3VZe6WNqf1yFod0h3dG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aa1b1e6c65f7254e82b74eb61",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fa1b1e6c65f7254e82b74eb61",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68da1b1e6c65f7254e82b74eb61",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Bonus: Valget i Polen",
+                "release_date": "2023-10-18",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6lQ3VZe6WNqf1yFod0h3dG"
+            }
         }
     ],
     "MUS": [
