@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7f6fQT58VF0FDLR4SLFNkj/clip_0_60000.mp3",
+        "description": "Denne uken fortsetter vi reisen gjennom Ukraina, og denne gangen sett i lys av historien. Her blir kjent med gamle Lithauen, Polens relasjon til Ukraina, slaviske stater i \u00f8st, vest, nord og s\u00f8r, hvordan den ukrainske nasjonalfortellingen tolkes annerledes enn den russiske og mye, mye mer. Einar har fremdeles med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta og gjest er fremdeles doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3785586,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/6Bnwg5iGQyeaiuX2JDOzJy"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6Bnwg5iGQyeaiuX2JDOzJy",
+        "html_description": "<p>Denne uken fortsetter vi reisen gjennom Ukraina, og denne gangen sett i lys av historien. Her blir kjent med gamle Lithauen, Polens relasjon til Ukraina, slaviske stater i \u00f8st, vest, nord og s\u00f8r, hvordan den ukrainske nasjonalfortellingen tolkes annerledes enn den russiske og mye, mye mer. Einar har fremdeles med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta og gjest er fremdeles doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.</p><br /><p>Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: <a href=\"https://www.bookbeat.no/198land\" rel=\"nofollow\">bookbeat.no/198land</a></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "6Bnwg5iGQyeaiuX2JDOzJy",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Ukraina del 2 med J\u00f8rn Holm-Hansen",
+        "release_date": "2023-10-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6Bnwg5iGQyeaiuX2JDOzJy"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2e1xpeoYcZzSgolL5Jxd4R/clip_0_60000.mp3",
         "description": "Valget i Polen har blitt kalt for et av de viktigste valgene for demokratiet i europa. Hva betyr utfallet og hvorfor var akkurat dette valget s\u00e5 viktig? Einar ringer til politisk kommentator og eks-kollega Eirik Bergensen for \u00e5 f\u00e5 mer oversikt over situasjonen.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1473880,
