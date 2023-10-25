@@ -1,14 +1,54 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/21wtmArv7D1p01P4uaOfZX/clip_0_60000.mp3",
+        "description": "Marshall\u00f8yene og USA har signert ny Compact of Free Association (eller COFA , som kidsa kaller det.) For \u00e5 finne ut hva dette inneb\u00e6rer ringer Einar til en av verdens fremste ekspert p\u00e5 Marshall\u00f8yene - og, ikke minst, tidligere 198 Land-gjest - Ola Gunhildsrud Berta.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1054171,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/60RgjCMDAEfB9hgACKzA9l"
+        },
+        "href": "https://api.spotify.com/v1/episodes/60RgjCMDAEfB9hgACKzA9l",
+        "html_description": "<p>Marshall\u00f8yene og USA har signert ny Compact of Free Association (eller COFA , som kidsa kaller det.) For \u00e5 finne ut hva dette inneb\u00e6rer ringer Einar til en av verdens fremste ekspert p\u00e5 Marshall\u00f8yene - og, ikke minst, tidligere 198 Land-gjest - Ola Gunhildsrud Berta.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "60RgjCMDAEfB9hgACKzA9l",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa31c4832471521f82ee53d33",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fa31c4832471521f82ee53d33",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68da31c4832471521f82ee53d33",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Bonus: Ny avtale mellom Marshall\u00f8yene og USA",
+        "release_date": "2023-10-25",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:60RgjCMDAEfB9hgACKzA9l"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7f6fQT58VF0FDLR4SLFNkj/clip_0_60000.mp3",
-        "description": "Denne uken fortsetter vi reisen gjennom Ukraina, og denne gangen sett i lys av historien. Her blir kjent med gamle Lithauen, Polens relasjon til Ukraina, slaviske stater i \u00f8st, vest, nord og s\u00f8r, hvordan den ukrainske nasjonalfortellingen tolkes annerledes enn den russiske og mye, mye mer. Einar har fremdeles med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta og gjest er fremdeles doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "description": "Denne uken fortsetter vi reisen gjennom Ukraina, og denne gangen sett i lys av historien. Her blir kjent med gamle Litauen, Polens relasjon til Ukraina, slaviske stater i \u00f8st, vest, nord og s\u00f8r, hvordan den ukrainske nasjonalfortellingen tolkes annerledes enn den russiske og mye, mye mer. Einar har fremdeles med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta og gjest er fremdeles doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3785586,
         "explicit": false,
         "external_urls": {
             "spotify": "https://open.spotify.com/episode/6Bnwg5iGQyeaiuX2JDOzJy"
         },
         "href": "https://api.spotify.com/v1/episodes/6Bnwg5iGQyeaiuX2JDOzJy",
-        "html_description": "<p>Denne uken fortsetter vi reisen gjennom Ukraina, og denne gangen sett i lys av historien. Her blir kjent med gamle Lithauen, Polens relasjon til Ukraina, slaviske stater i \u00f8st, vest, nord og s\u00f8r, hvordan den ukrainske nasjonalfortellingen tolkes annerledes enn den russiske og mye, mye mer. Einar har fremdeles med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta og gjest er fremdeles doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.</p><br /><p>Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: <a href=\"https://www.bookbeat.no/198land\" rel=\"nofollow\">bookbeat.no/198land</a></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "html_description": "<p>Denne uken fortsetter vi reisen gjennom Ukraina, og denne gangen sett i lys av historien. Her blir kjent med gamle Litauen, Polens relasjon til Ukraina, slaviske stater i \u00f8st, vest, nord og s\u00f8r, hvordan den ukrainske nasjonalfortellingen tolkes annerledes enn den russiske og mye, mye mer. Einar har fremdeles med seg en br\u00e5te mer eller mindre kvalitetssikrede fakta og gjest er fremdeles doktor i samfunnsvitenskap, forsker og Ukrainaekspert J\u00f8rn Holm-Hansen.</p><br /><p>Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: <a href=\"https://www.bookbeat.no/198land\" rel=\"nofollow\">bookbeat.no/198land</a></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
         "id": "6Bnwg5iGQyeaiuX2JDOzJy",
         "images": [
             {
