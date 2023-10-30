@@ -4613,6 +4613,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:6Bnwg5iGQyeaiuX2JDOzJy"
             }
+        },
+        {
+            "country": "Ukraine",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3HTryiCywanvjPM83IPNYL/clip_0_60000.mp3",
+                "description": "Denne uken avslutter vi omsider turen mot Ukraina og vender blikket mot n\u00e5tiden. Hvordan er det n\u00e5? Hva er fremtidsutsiktene? Hvordan er det \u00e5 leve i et krigsherjet land? I tillegg svipper vi innom minst like viktig informasjon i form av \"j\u00f8ss!\" og lyttersp\u00f8rsm\u00e5l.  Einar er i bunnen av bunken p\u00e5 sine mer eller mindre kvalitetssikrede fakta som besvares med glede av en viss doktor i samfunnsvitenskap, forsker og Ukrainaekspert:  J\u00f8rn Holm-Hansen.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 2930755,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0PDBWjQcTN0s0ptrEaGWSv"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0PDBWjQcTN0s0ptrEaGWSv",
+                "html_description": "<p>Denne uken avslutter vi omsider turen mot Ukraina og vender blikket mot n\u00e5tiden. Hvordan er det n\u00e5? Hva er fremtidsutsiktene? Hvordan er det \u00e5 leve i et krigsherjet land? I tillegg svipper vi innom minst like viktig informasjon i form av &#34;j\u00f8ss!&#34; og lyttersp\u00f8rsm\u00e5l.  Einar er i bunnen av bunken p\u00e5 sine mer eller mindre kvalitetssikrede fakta som besvares med glede av en viss doktor i samfunnsvitenskap, forsker og Ukrainaekspert:  J\u00f8rn Holm-Hansen.</p><br /><p>Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: <a href=\"https://www.bookbeat.no/198land\" rel=\"nofollow\">bookbeat.no/198land</a></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "0PDBWjQcTN0s0ptrEaGWSv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Ukraina del 3 med J\u00f8rn Holm-Hansen",
+                "release_date": "2023-10-30",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0PDBWjQcTN0s0ptrEaGWSv"
+            }
         }
     ]
 }
