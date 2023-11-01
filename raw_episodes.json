@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3hGjOa7bmaMVONl1yVKKmO/clip_0_60000.mp3",
+        "description": "Situasjonen i Gaza blir m\u00f8rkere, blodigere og mer komplisert for hver dag som g\u00e5r. Hva er egentlig status per i dag? Hva er sannsynlige scenarioer fremover? Og er det noen lys i enden av tunnelen? For \u00e5 f\u00e5 en oppdatering ringer vi tilbake til Dag Henrik Tuastad, f\u00f8rstelektor for Midt\u00f8stenstudier, ved Universitetet i Oslo.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1062478,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/2YBi5z14ZZFDVJllodwxje"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2YBi5z14ZZFDVJllodwxje",
+        "html_description": "<p>Situasjonen i Gaza blir m\u00f8rkere, blodigere og mer komplisert for hver dag som g\u00e5r. Hva er egentlig status per i dag? Hva er sannsynlige scenarioer fremover? Og er det noen lys i enden av tunnelen? For \u00e5 f\u00e5 en oppdatering ringer vi tilbake til Dag Henrik Tuastad, f\u00f8rstelektor for Midt\u00f8stenstudier, ved Universitetet i Oslo.</p><br /><p>Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: <a href=\"https://www.bookbeat.no/198land\" rel=\"nofollow\">bookbeat.no/198land</a></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "2YBi5z14ZZFDVJllodwxje",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a4e40e6b4b56138d0f6afdb05",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f4e40e6b4b56138d0f6afdb05",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d4e40e6b4b56138d0f6afdb05",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Bonus: Oppdatering p\u00e5 situasjonen i Gaza",
+        "release_date": "2023-11-01",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2YBi5z14ZZFDVJllodwxje"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3HTryiCywanvjPM83IPNYL/clip_0_60000.mp3",
         "description": "Denne uken avslutter vi omsider turen mot Ukraina og vender blikket mot n\u00e5tiden. Hvordan er det n\u00e5? Hva er fremtidsutsiktene? Hvordan er det \u00e5 leve i et krigsherjet land? I tillegg svipper vi innom minst like viktig informasjon i form av \"j\u00f8ss!\" og lyttersp\u00f8rsm\u00e5l.  Einar er i bunnen av bunken p\u00e5 sine mer eller mindre kvalitetssikrede fakta som besvares med glede av en viss doktor i samfunnsvitenskap, forsker og Ukrainaekspert:  J\u00f8rn Holm-Hansen.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2930755,
