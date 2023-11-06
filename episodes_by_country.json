@@ -4657,5 +4657,50 @@
                 "uri": "spotify:episode:0PDBWjQcTN0s0ptrEaGWSv"
             }
         }
+    ],
+    "GNB": [
+        {
+            "country": "Guinea-Bissau",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Rc6103ei9GogvuHJwHhEV/clip_0_60000.mp3",
+                "description": "Denne uken tar vi reisen til et lite land p\u00e5 kysten av Vest-Afrika, nemlig Guinea-Bissau. Landet m\u00e5 ikke forveksles med nabolandet Guinea, og hvis du n\u00e5 sp\u00f8r \"hvem i alle dager gj\u00f8r det?\" s\u00e5 kan jeg henvise til ukens gjest. Her er det en asfaltert vei, kun et par millioner innbyggere, lite turistvennlighet, mindre gunstig kollektivtransport, merkverdig drikkekultur p\u00e5 s\u00f8ndager, en gryende kokainbusiness og alle komplikasjoner som kommer etter \u00e5 ha v\u00e6rt portugisisk eiendom. Einar med seg et lite utvalg av mer eller mindre kvalitetssikrede fakta som han brodelig deler med ukens gjest: Myten, legenden, forfatteren, glodetrotteren og, ikke minst, 198 Land-fanfavoritten Erika Fatland.Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: bookbeat.no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3720646,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7u3JcSOYa9CfgxWNrxfHWQ"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7u3JcSOYa9CfgxWNrxfHWQ",
+                "html_description": "<p>Denne uken tar vi reisen til et lite land p\u00e5 kysten av Vest-Afrika, nemlig Guinea-Bissau. Landet m\u00e5 ikke forveksles med nabolandet Guinea, og hvis du n\u00e5 sp\u00f8r &#34;hvem i alle dager gj\u00f8r det?&#34; s\u00e5 kan jeg henvise til ukens gjest. Her er det en asfaltert vei, kun et par millioner innbyggere, lite turistvennlighet, mindre gunstig kollektivtransport, merkverdig drikkekultur p\u00e5 s\u00f8ndager, en gryende kokainbusiness og alle komplikasjoner som kommer etter \u00e5 ha v\u00e6rt portugisisk eiendom. Einar med seg et lite utvalg av mer eller mindre kvalitetssikrede fakta som han brodelig deler med ukens gjest: Myten, legenden, forfatteren, glodetrotteren og, ikke minst, 198 Land-fanfavoritten Erika Fatland.</p><br /><p><br /></p><p>Pr\u00f8v BookBeat gratis i 45 dager via denne lenken: <a href=\"https://www.bookbeat.no/198land\" rel=\"nofollow\">bookbeat.no/198land</a></p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p><br /></p><p><br /></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "7u3JcSOYa9CfgxWNrxfHWQ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Guinea-Bissau med Erika Fatland",
+                "release_date": "2023-11-06",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7u3JcSOYa9CfgxWNrxfHWQ"
+            }
+        }
     ]
 }
