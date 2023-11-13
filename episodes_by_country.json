@@ -4745,5 +4745,50 @@
                 "uri": "spotify:episode:1epmbV8wVJfnL1djc85zt7"
             }
         }
+    ],
+    "CHL": [
+        {
+            "country": "Chile",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2VPI1qn35lPXKQD4bisiPs/clip_0_60000.mp3",
+                "description": "Denne uken skal vi til et ganske lang og ekstremt tynt land i S\u00f8r-Amerika, og da tenker vi selvf\u00f8lgelig p\u00e5 Chile. Her er det s\u00e5 mye \u00e5 ta tak i at vi m\u00e5 ta det i to deler, men i f\u00f8rste omgang skal vi bli bedre kjent med landet gjennom faktaboks og historie. Her er det en kulturell smeltedigel uten like som gir utslag i spr\u00e5k, v\u00e6rem\u00e5te, holdinger og politiske overbevisninger. Einar har med seg en br\u00e5te med mer eller mindre kvalitetssikrede fakta som blir n\u00f8ye gjennomg\u00e5tt av en professor, samfunnsviter og tidligere Chilebeboer, Benedicte Bull.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3438027,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/3fXuQj7Exsbg29b7FIl8oM"
+                },
+                "href": "https://api.spotify.com/v1/episodes/3fXuQj7Exsbg29b7FIl8oM",
+                "html_description": "<p>Denne uken skal vi til et ganske lang og ekstremt tynt land i S\u00f8r-Amerika, og da tenker vi selvf\u00f8lgelig p\u00e5 Chile. Her er det s\u00e5 mye \u00e5 ta tak i at vi m\u00e5 ta det i to deler, men i f\u00f8rste omgang skal vi bli bedre kjent med landet gjennom faktaboks og historie. Her er det en kulturell smeltedigel uten like som gir utslag i spr\u00e5k, v\u00e6rem\u00e5te, holdinger og politiske overbevisninger. Einar har med seg en br\u00e5te med mer eller mindre kvalitetssikrede fakta som blir n\u00f8ye gjennomg\u00e5tt av en professor, samfunnsviter og tidligere Chilebeboer, Benedicte Bull.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "3fXuQj7Exsbg29b7FIl8oM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Chile del 1 med Benedicte Bull",
+                "release_date": "2023-11-13",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:3fXuQj7Exsbg29b7FIl8oM"
+            }
+        }
     ]
 }
