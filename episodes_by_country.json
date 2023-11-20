@@ -4789,6 +4789,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:3fXuQj7Exsbg29b7FIl8oM"
             }
+        },
+        {
+            "country": "Chile",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7udfMPRo2ddzqHTRYlDPQi/clip_0_60000.mp3",
+                "description": "Denne uken blir vi mer kjent med Chile og \u00e5ssen det er der, a? Vi blir kjent med gjennomsnittschileneren og deres rike matkultur, sportshistorikk og litteraturvirksomhet. Og tror du jaggumeg ikke at vi rekker \u00e5 pl\u00f8ye gjennom noen j\u00f8ss og lyttersp\u00f8rsm\u00e5l? Einar fyller den allerede tettpakkede episoden med sine mer eller mindre kvalitetssikrede fakta i tospann med professor, samfunnsviter og tidligere Chilebeboer, Benedicte Bull.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 3745044,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/26wKPMb06oWFYLg1uTIntr"
+                },
+                "href": "https://api.spotify.com/v1/episodes/26wKPMb06oWFYLg1uTIntr",
+                "html_description": "<p>Denne uken blir vi mer kjent med Chile og \u00e5ssen det er der, a? Vi blir kjent med gjennomsnittschileneren og deres rike matkultur, sportshistorikk og litteraturvirksomhet. Og tror du jaggumeg ikke at vi rekker \u00e5 pl\u00f8ye gjennom noen j\u00f8ss og lyttersp\u00f8rsm\u00e5l? Einar fyller den allerede tettpakkede episoden med sine mer eller mindre kvalitetssikrede fakta i tospann med professor, samfunnsviter og tidligere Chilebeboer, Benedicte Bull.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "26wKPMb06oWFYLg1uTIntr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Chile del 2 med Benedicte Bull",
+                "release_date": "2023-11-20",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:26wKPMb06oWFYLg1uTIntr"
+            }
         }
     ]
 }
