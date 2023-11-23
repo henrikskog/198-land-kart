@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Ckq23JIGVz5yNIK7H769n/clip_0_60000.mp3",
+        "description": "I dag kom den sjokkerende nyheten om at hele 500 kvadratmeter av Norge har havnet i svenske hender etter at grensebekken i Aremark skiftet retning. Einar ringer til Tor Erik Bakke i Kartverket for \u00e5 finne ut hva det har \u00e5 si for Ola og Kari Nordmann.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 878262,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5EOgXwzUZjZFtLcRiQEFsG"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5EOgXwzUZjZFtLcRiQEFsG",
+        "html_description": "<p>I dag kom den sjokkerende nyheten om at hele 500 kvadratmeter av Norge har havnet i svenske hender etter at grensebekken i Aremark skiftet retning. Einar ringer til Tor Erik Bakke i Kartverket for \u00e5 finne ut hva det har \u00e5 si for Ola og Kari Nordmann.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5EOgXwzUZjZFtLcRiQEFsG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab55766dc5c626c2f078fdb71",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb55766dc5c626c2f078fdb71",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db55766dc5c626c2f078fdb71",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "BREAKING NEWS: Sverige tar over deler av Norge",
+        "release_date": "2023-11-22",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5EOgXwzUZjZFtLcRiQEFsG"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/561CJmrtiutKeTbhlttAUK/clip_0_60000.mp3",
         "description": "I lang tid har Einar blitt kontaktet p\u00e5 X/Twitter av en fyr med en endel\u00f8s rekke \"j\u00f8ss!\" om Chile, og i dag skal ha endelig f\u00e5 skinne: Johannes Dvorak Lagos fyrer l\u00f8s en rekke artige fakta om Chile mens Einar lener seg tilbake, slenger beina p\u00e5 bordet og velger selv om han vil respondere med \"j\u00f8ss\" eller ikke.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1105057,
