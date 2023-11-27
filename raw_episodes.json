@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/737rcabDGCnlwlV0Rhiayt/clip_0_60000.mp3",
+        "description": "I august gikk liveshowet 198 Land: Norge spesial av stabelen p\u00e5 Akershus festning i Oslo. Her kan du enten oppleve eller gjenoppleve noen h\u00f8ydepunkter fra kvelden. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3056875,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3nZWIGYbtV8Z27PD5Pq9Lx"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3nZWIGYbtV8Z27PD5Pq9Lx",
+        "html_description": "<p>I august gikk liveshowet 198 Land: Norge spesial av stabelen p\u00e5 Akershus festning i Oslo. Her kan du enten oppleve eller gjenoppleve noen h\u00f8ydepunkter fra kvelden. </p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p><br /></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3nZWIGYbtV8Z27PD5Pq9Lx",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Ekstramateriale: LIVE fra Akershus festning",
+        "release_date": "2023-11-27",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3nZWIGYbtV8Z27PD5Pq9Lx"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Ckq23JIGVz5yNIK7H769n/clip_0_60000.mp3",
         "description": "I dag kom den sjokkerende nyheten om at hele 500 kvadratmeter av Norge har havnet i svenske hender etter at grensebekken i Aremark skiftet retning. Einar ringer til Tor Erik Bakke i Kartverket for \u00e5 finne ut hva det har \u00e5 si for Ola og Kari Nordmann.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 878262,
