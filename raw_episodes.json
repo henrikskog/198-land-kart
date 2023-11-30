@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5curU1dIK3BDfpoBZyFDrG/clip_0_60000.mp3",
+        "description": "Er det en ting alle landene i 198 land har til felles, s\u00e5 er det flagg. De kommer i mange fasonger og fargekombinasjoner, og veksler mellom vakre kunstverk til horrible makkverk. Hva kjennetegner et godt flagg, og hva er det beste/verste verden har \u00e5 by p\u00e5? Dette er bare noen av sp\u00f8rsm\u00e5lene vi stiller Flaggmannen, bedre kjent designeren bak det skogfinske flagget, Frederic Lindboe.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1446269,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/21uBDrcRDL4PnkeqMp08ah"
+        },
+        "href": "https://api.spotify.com/v1/episodes/21uBDrcRDL4PnkeqMp08ah",
+        "html_description": "<p>Er det en ting alle landene i 198 land har til felles, s\u00e5 er det flagg. De kommer i mange fasonger og fargekombinasjoner, og veksler mellom vakre kunstverk til horrible makkverk. Hva kjennetegner et godt flagg, og hva er det beste/verste verden har \u00e5 by p\u00e5? Dette er bare noen av sp\u00f8rsm\u00e5lene vi stiller Flaggmannen, bedre kjent designeren bak det skogfinske flagget, Frederic Lindboe.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "21uBDrcRDL4PnkeqMp08ah",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a9d16fe9416c4eca3069873cf",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f9d16fe9416c4eca3069873cf",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d9d16fe9416c4eca3069873cf",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Bonus: Flaggprat med Flaggmannen",
+        "release_date": "2023-11-29",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:21uBDrcRDL4PnkeqMp08ah"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/737rcabDGCnlwlV0Rhiayt/clip_0_60000.mp3",
         "description": "I august gikk liveshowet 198 Land: Norge spesial av stabelen p\u00e5 Akershus festning i Oslo. Her kan du enten oppleve eller gjenoppleve noen h\u00f8ydepunkter fra kvelden. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3056875,
