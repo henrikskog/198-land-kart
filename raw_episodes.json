@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/49JKTYI3i93a5ds7dGcu7Q/clip_0_60000.mp3",
+        "description": "Siden oppstarten i 2019 har 198 Land hatt et brennende \u00f8nske om \u00e5 presentere passelig interessante fakta som f\u00e5r deg til \u00e5 utbryte \"J\u00d8SS\". (Ikke \"WOW!\", \"H\u00c6H?!\" eller \"SERR?!\") Einar har gravd i arkivet og b\u00f8rstet st\u00f8v av et knippe \"J\u00d8SS\" i h\u00e5p om at du, ja, nettopp du, skal bryte ut i et lavm\u00e6lt \"J\u00d8SS\". Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 2862706,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/05w6iAMfvQaXpBKojDttyd"
+        },
+        "href": "https://api.spotify.com/v1/episodes/05w6iAMfvQaXpBKojDttyd",
+        "html_description": "<p>Siden oppstarten i 2019 har 198 Land hatt et brennende \u00f8nske om \u00e5 presentere passelig interessante fakta som f\u00e5r deg til \u00e5 utbryte &#34;J\u00d8SS&#34;. (Ikke &#34;WOW!&#34;, &#34;H\u00c6H?!&#34; eller &#34;SERR?!&#34;) </p><p>Einar har gravd i arkivet og b\u00f8rstet st\u00f8v av et knippe &#34;J\u00d8SS&#34; i h\u00e5p om at du, ja, nettopp du, skal bryte ut i et lavm\u00e6lt &#34;J\u00d8SS&#34;. </p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "05w6iAMfvQaXpBKojDttyd",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Ekstramateriale: J\u00d8SS-bonanza",
+        "release_date": "2023-12-04",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:05w6iAMfvQaXpBKojDttyd"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5curU1dIK3BDfpoBZyFDrG/clip_0_60000.mp3",
         "description": "Er det en ting alle landene i 198 land har til felles, s\u00e5 er det flagg. De kommer i mange fasonger og fargekombinasjoner, og veksler mellom vakre kunstverk til horrible makkverk. Hva kjennetegner et godt flagg, og hva er det beste/verste verden har \u00e5 by p\u00e5? Dette er bare noen av sp\u00f8rsm\u00e5lene vi stiller Flaggmannen, bedre kjent designeren bak det skogfinske flagget, Frederic Lindboe.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1446269,
