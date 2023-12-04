@@ -1,34 +1,38 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>198 Land-kart</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"
+    />
 
-<head>
-  <title>198 Land-kart</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <!-- Load Leaflet code library: see https://leafletjs.com/download.html -->
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <script src="leaflet/leaflet.js"></script>
 
+    <!-- Load the CSS styling -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
 
-  <!-- Load Leaflet code library: see https://leafletjs.com/download.html -->
-  <link rel="stylesheet" href="leaflet/leaflet.css">
-  <script src="leaflet/leaflet.js"></script>
+  <body>
+    <div class="progress-bar-container">
+      <progress id="loader" value="0" max="100"></progress>
+      <p>Laster litt 😇</p>
+    </div>
 
-  <!-- Load the CSS styling -->
-  <link rel="stylesheet" href="styles.css">
-</head>
+    <div id="mapContainer">
+      <div id="map"></div>
+      <div class="modalButtons">
+        <button id="listBtn1" class="modalButton">🏖️</button>
+        <button id="listBtn2" class="modalButton">📋</button>
+      </div>
+      <div id="countryList" class="modal"></div>
+      <div id="episodeList" class="modal"></div>
+    </div>
 
-<body>
-  <div class="progress-bar-container">
-    <progress id="loader" value="0" max="100"></progress>
-    <p>Laster litt 😇</p>
-  </div>
-
-  <div id="mapContainer">
-    <div id="map"></div>
-    <button id="listBtn">📜</button>
-    <div id="countryList"></div>
-  </div>
-
-  <!-- Load the JavaScript -->
-  <script src="./script.js"></script>
-</body>
-
+    <!-- Load the JavaScript -->
+    <script src="./script.js"></script>
+  </body>
 </html>

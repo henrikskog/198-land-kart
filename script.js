@@ -25,6 +25,12 @@ async function getEpisodes() {
   return data;
 }
 
+async function getEpisodesSortedByDate() {
+  const response = await fetch("episodes_by_date.json");
+  const data = await response.json();
+  return data;
+}
+
 function createCountryPopupText(countryName, ISO_A3, episodeData) {
   let text = `<b>${countryName}</b>\n`;
   const episodes = episodeData[ISO_A3];
@@ -127,7 +133,28 @@ const main = async () => {
     zoom: 3,
   });
 
-  fillCountryList(countryData, episodeData, map);
+  fillCountryList(
+    countryData,
+    episodeData,
+    map,
+    document.getElementById("countryList")
+  );
+
+  const episodesByDate = () => {
+    const episodes = [];
+    Object.values(episodeData).forEach((value) => {
+      value.forEach((entry) => {
+        episodes.push(entry);
+      });
+    });
+
+    episodes.sort((a, b) => {
+      return new Date(b.ep.release_date) - new Date(a.ep.release_date);
+    });
+    return episodes.reverse();
+  };
+
+  fillEpisodeList(episodesByDate(), document.getElementById("episodeList"));
 
   // Attaching a tile layer to the map from OpenStreetMap, which provides the base map tiles.
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -169,6 +196,16 @@ const main = async () => {
   runOnFirstVisit(async () => {
     openRandomCountryOnLoad(map, episodeData, countryData);
   });
+
+  bindButtonToElementDisplay(
+    document.getElementById("listBtn1"),
+    document.getElementById("countryList")
+  );
+
+  bindButtonToElementDisplay(
+    document.getElementById("listBtn2"),
+    document.getElementById("episodeList")
+  );
 };
 
 // Error handling function
@@ -225,27 +262,20 @@ function updateProgress(number) {
   }
 }
 
-// on click on     <button id="listBtn">📜</button>
-const listBtn = document.getElementById("listBtn");
-listBtn.addEventListener("click", () => {
-  const countryList = document.getElementById("countryList");
-  const disp = window.getComputedStyle(countryList).display;
-  console.log(disp);
-  if (disp == "none") {
-    countryList.style.display = "flex";
-    // add blur to map
-    const map = document.getElementById("map");
-    // map.classList.add("blur");
-  } else {
-    countryList.style.display = "none";
-    // map.classList.remove("blur");
-  }
-});
+const bindButtonToElementDisplay = (buttonEl, containerEl) => {
+  console.log(containerEl);
+  buttonEl.addEventListener("click", () => {
+    const disp = window.getComputedStyle(containerEl).display;
+    if (disp == "none") {
+      containerEl.style.display = "flex";
+    } else {
+      containerEl.style.display = "none";
+    }
+  });
+};
 
-const fillCountryList = (countryData, episodeData, map) => {
+const fillCountryList = (countryData, episodeData, map, containerElement) => {
   // Create a list of countries with norwegian names
-  const countryList = document.getElementById("countryList");
-
   const c = [
     "Europa",
     "Asia",
@@ -287,12 +317,11 @@ const fillCountryList = (countryData, episodeData, map) => {
 
     const subHeader = document.createElement("p");
     subHeader.classList.add("continentListSubHeader");
-    subHeader.innerHTML =
-      continent["covered"] + "/" + continent["total"];
+    subHeader.innerHTML = continent["covered"] + "/" + continent["total"];
 
-    countryList.appendChild(header);
-    countryList.appendChild(subHeader);
-    countryList.appendChild(ul);
+    containerElement.appendChild(header);
+    containerElement.appendChild(subHeader);
+    containerElement.appendChild(ul);
   });
 
   const orderedOnCovered = Object.keys(countryData).sort((a, b) => {
@@ -346,6 +375,29 @@ const fillCountryList = (countryData, episodeData, map) => {
       }
     }
   });
+};
+
+const fillEpisodeList = (episodeData, containerElement) => {
+  const div = document.createElement("div");
+  containerElement.appendChild(div);
+
+  Object.values(episodeData)
+    .reverse()
+    .forEach((value) => {
+      const div = document.createElement("div");
+      containerElement.appendChild(div);
+
+      const date = new Date(value.ep.release_date);
+      const title = value.ep.name;
+      const country = value.country;
+      const episodeString = `<h3>${title}</h3>
+<p>${title}</p>
+<p>${date.getDate()}.${date.getMonth()}.${date.getFullYear()}</p>
+<p>${country}</p>`;
+
+      // const trimmed = value.ep.name.trim();
+      div.innerHTML = episodeString;
+    });
 };
 
 const onListItemClick = (countryName, map, episodeData) => {
