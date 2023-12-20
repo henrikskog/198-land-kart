@@ -4921,5 +4921,50 @@
                 "uri": "spotify:episode:5EOgXwzUZjZFtLcRiQEFsG"
             }
         }
+    ],
+    "VEN": [
+        {
+            "country": "Venezuela",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7MSowtcJiVcJ4yHvDRPbgW/clip_0_60000.mp3",
+                "description": "Einar hadde egentlig tatt ferie, men sett i lys av de siste utviklingene i geoverden m\u00e5tte han kaste seg inn i studio atter en gang. Venezuela har nemlig avholdt en folkeavstemning med et sterkt flertall for \u00e5 annektere Guyana etter deres oljefunn. Her er det et rikt bakteppe med mye historie, samfunn, geopolitikk og kultur som preger situasjonen, s\u00e5 for \u00e5 forklare konteksten og hvor kritisk denne situasjonen er sl\u00e5r Einar p\u00e5 tr\u00e5den til statsviter og professor Leiv Marsteinredet, som har jobbet med Latin-Amerika i over 20 \u00e5r og satt seg godt inn i politiske kriser p\u00e5 den siden av globusen.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1486158,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6tqlcKXR6RgtCRoVq9uM5M"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6tqlcKXR6RgtCRoVq9uM5M",
+                "html_description": "<p>Einar hadde egentlig tatt ferie, men sett i lys av de siste utviklingene i geoverden m\u00e5tte han kaste seg inn i studio atter en gang. Venezuela har nemlig avholdt en folkeavstemning med et sterkt flertall for \u00e5 annektere Guyana etter deres oljefunn. Her er det et rikt bakteppe med mye historie, samfunn, geopolitikk og kultur som preger situasjonen, s\u00e5 for \u00e5 forklare konteksten og hvor kritisk denne situasjonen er sl\u00e5r Einar p\u00e5 tr\u00e5den til statsviter og professor Leiv Marsteinredet, som har jobbet med Latin-Amerika i over 20 \u00e5r og satt seg godt inn i politiske kriser p\u00e5 den siden av globusen.</p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "6tqlcKXR6RgtCRoVq9uM5M",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a175e1254857c30afc54f5d1e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f175e1254857c30afc54f5d1e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d175e1254857c30afc54f5d1e",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Bonus: Folkeavstemning i Venezuela om annektering av Guyana",
+                "release_date": "2023-12-20",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6tqlcKXR6RgtCRoVq9uM5M"
+            }
+        }
     ]
 }
