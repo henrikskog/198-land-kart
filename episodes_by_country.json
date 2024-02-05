@@ -218,6 +218,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:4Uz3NhGkVBUUu6EX2KJh0X"
             }
+        },
+        {
+            "country": "Nauru",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3YUJgTUp4sMGiOVSVmuRe7/clip_0_60000.mp3",
+                "description": "Nauru er med sine ca. 130 bes\u00f8kende i \u00e5ret et av verdens minst bes\u00f8kte land. Vi vet ikke s\u00e5 mye om de 129 andre, men \u00e9n av dem har tatt turen b\u00e5de dit og i studio, nemlig norges nestbeste sjakkspiller Johan-Sebastian Christiansen. Han forteller Einar om hvordan i alle dager han havnet der, hvor h\u00f8yt sjakkniv\u00e5et p\u00e5 Nauru er og litt korrigering av Nikolai Astrups opplevelse av Nauru i hovedepisoden av 198 Land.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 2626324,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7IyhAa9eOaykyuCrZd2dVf"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7IyhAa9eOaykyuCrZd2dVf",
+                "html_description": "<p>Nauru er med sine ca. 130 bes\u00f8kende i \u00e5ret et av verdens minst bes\u00f8kte land. Vi vet ikke s\u00e5 mye om de 129 andre, men \u00e9n av dem har tatt turen b\u00e5de dit og i studio, nemlig norges nestbeste sjakkspiller Johan-Sebastian Christiansen. Han forteller Einar om hvordan i alle dager han havnet der, hvor h\u00f8yt sjakkniv\u00e5et p\u00e5 Nauru er og litt korrigering av Nikolai Astrups opplevelse av Nauru i hovedepisoden av 198 Land.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "7IyhAa9eOaykyuCrZd2dVf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: Sjakk p\u00e5 Nauru med Johan-Sebastian Christiansen",
+                "release_date": "2024-02-05",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7IyhAa9eOaykyuCrZd2dVf"
+            }
         }
     ],
     "FRA": [
