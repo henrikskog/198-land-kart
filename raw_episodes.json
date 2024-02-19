@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4WACqh26Z8op0nTonmWvia/clip_0_60000.mp3",
+        "description": "Der det er landeareal, s\u00e5 er det konflikt. Utallige kriger og konflikter har funnet sted p\u00e5 bakgrunn av at to land vil ha eierskap over samme omr\u00e5de. Men det finnes et par steder i verden hvor konflikten g\u00e5r ut p\u00e5 at INGEN vil ha eierskap, og \u00f8rkenen Bir Tawil mellom Egypt og Sudan er per i dag terra nullius (ingenmannsland). Hvorfor i alle dager er Bir Tawil s\u00e5 utrolig upopul\u00e6rt? Einar sl\u00e5r p\u00e5 tr\u00e5den til NRKs Afrika-korrenspondent (og 198 Lands Maligjest) Vegard Tj\u00f8rhom.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1295516,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/21cbmE7eyQcFRlnoGn7qUT"
+        },
+        "href": "https://api.spotify.com/v1/episodes/21cbmE7eyQcFRlnoGn7qUT",
+        "html_description": "<p>Der det er landeareal, s\u00e5 er det konflikt. Utallige kriger og konflikter har funnet sted p\u00e5 bakgrunn av at to land vil ha eierskap over samme omr\u00e5de. Men det finnes et par steder i verden hvor konflikten g\u00e5r ut p\u00e5 at INGEN vil ha eierskap, og \u00f8rkenen Bir Tawil mellom Egypt og Sudan er per i dag terra nullius (ingenmannsland). Hvorfor i alle dager er Bir Tawil s\u00e5 utrolig upopul\u00e6rt? Einar sl\u00e5r p\u00e5 tr\u00e5den til NRKs Afrika-korrenspondent (og 198 Lands Maligjest) Vegard Tj\u00f8rhom.</p><br /><p><br /></p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "21cbmE7eyQcFRlnoGn7qUT",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Bir Tawil med Vegard Tj\u00f8rhom",
+        "release_date": "2024-02-19",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:21cbmE7eyQcFRlnoGn7qUT"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/72EyMYz9y3M8bLBIAsGuHt/clip_0_60000.mp3",
         "description": "Vinterferien er like rundt hj\u00f8rnet, men hvor skal man dra? Einar sl\u00e5r p\u00e5 tr\u00e5den til Gunnar Garfors for \u00e5 f\u00e5 noen reisetips litt utenom det vanlige. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1196355,
