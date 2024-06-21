@@ -199,12 +199,14 @@ const main = async () => {
 
   bindButtonToElementDisplay(
     document.getElementById("listBtn1"),
-    document.getElementById("countryList")
+    document.getElementById("countryList"),
+    document.getElementById("episodeList")
   );
 
   bindButtonToElementDisplay(
     document.getElementById("listBtn2"),
-    document.getElementById("episodeList")
+    document.getElementById("episodeList"),
+    document.getElementById("countryList")
   );
 };
 
@@ -262,12 +264,13 @@ function updateProgress(number) {
   }
 }
 
-const bindButtonToElementDisplay = (buttonEl, containerEl) => {
+const bindButtonToElementDisplay = (buttonEl, containerEl, otherContainerEl) => {
   console.log(containerEl);
   buttonEl.addEventListener("click", () => {
     const disp = window.getComputedStyle(containerEl).display;
     if (disp == "none") {
       containerEl.style.display = "flex";
+      otherContainerEl.style.display = "none";
     } else {
       containerEl.style.display = "none";
     }
