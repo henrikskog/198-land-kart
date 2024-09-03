@@ -9,7 +9,7 @@ on:
 env:
   AWS_REGION: 'eu-north-1'  # Change this to your desired AWS region
   LAMBDA_FUNCTION_NAME: '198-land-episode-poller'
-  LAMBDA_FUNCTION_PATH: 'episode_poller/src'
+  LAMBDA_FUNCTION_PATH: 'episode_poller'
 
 jobs:
   deploy:
@@ -36,4 +36,4 @@ jobs:
     - name: Deploy to AWS Lambda
       run: |
         cd ${{ env.LAMBDA_FUNCTION_PATH }}
-        just deploy
+        just update-lambda
