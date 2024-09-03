@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7nlMZry5ESKctNDwg4mqaR/clip_0_60000.mp3",
+        "description": "Denne uken g\u00e5r turen til Tanzania hos Podimo, men siden ukens gjest - Eirik Mofoss, daglig leder for tankesmien Langsikt og effektiv alturist - hadde s\u00e5 mye \u00e5 si om norsk bistand og hans opplevelser i Tanzania at vi tenkte, d\u00e6gger'n heller, dette lager vi en temaepisode.Hvis du vil h\u00f8re landepisodene om Tanzania, eller alt annet fra 198 lands digge geounivers, s\u00e5 finner du det eksklusivt hos Podimo: podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 979539,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/2c6IlGXUsDWfFH2oFQOds3"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2c6IlGXUsDWfFH2oFQOds3",
+        "html_description": "<p>Denne uken g\u00e5r turen til Tanzania hos Podimo, men siden ukens gjest - Eirik Mofoss, daglig leder for tankesmien Langsikt og effektiv alturist - hadde s\u00e5 mye \u00e5 si om norsk bistand og hans opplevelser i Tanzania at vi tenkte, d\u00e6gger&#39;n heller, dette lager vi en temaepisode.</p><br /><p>Hvis du vil h\u00f8re landepisodene om Tanzania, eller alt annet fra 198 lands digge geounivers, s\u00e5 finner du det eksklusivt hos Podimo: podimo.com/198land</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "2c6IlGXUsDWfFH2oFQOds3",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Norsk bistand i Tanzania med Eirik Mofoss",
+        "release_date": "2024-09-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2c6IlGXUsDWfFH2oFQOds3"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6IoofOZ5eFnhqOscZb92gv/clip_0_60000.mp3",
         "description": "Denne uken g\u00e5r turen til Tanzania, et av landene Norge gir mest bistand til og som har mye mer \u00e5 by p\u00e5 enn hva Ola og Kari Nordmann er klar over. Hvis du vil h\u00f8re landepisodene om Tanzania i sin helhet, eller alt annet fra 198 lands rikholdige univers, s\u00e5 finner du det eksklusivt hos Podimo: podimo.com/198land  Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 564950,
