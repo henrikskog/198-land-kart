@@ -1,92 +1,16 @@
 import azure.functions as func
-from helpers.spotify import get_198_land_episodes
-from helpers.github import overwrite_github_file, get_github_file
-from helpers.gpt import extract_country
-from helpers.config import Config
+from core.podcast198land import Podcast198LandService
 
 import json
 import logging
 
-RAW_EPISODES_PATH = "raw_episodes.json"
-BY_COUNTRY_PATH = "episodes_by_country.json"
+import sentry_sdk
 
-app = func.FunctionApp()
-
-logging.basicConfig(level=logging.INFO)
-
-def get_old_raw():
-    github_str = get_github_file(RAW_EPISODES_PATH)
-    return json.loads(github_str)
-
-def get_old_by_country():
-    github_str = get_github_file(BY_COUNTRY_PATH)
-    return json.loads(github_str)
-
-def check_new_episodes():
-    episodes = get_198_land_episodes()
-
-    stored_episodes = get_old_raw()
-
-    if len(episodes) == len(stored_episodes):
-        return episodes, []
-
-    new_episodes = episodes[:len(episodes) - len(stored_episodes)]
-
-    return episodes, new_episodes
-
-
-def update_episodes_by_country(new_episodes: list) -> None:
-    by_country = get_old_by_country()
-
-    for episode in new_episodes:
-        country, cc = extract_country(episode["name"], episode["description"])
-
-        if country == None or cc == None:
-            logging.info("Could not extract country from episode" + episode["name"])
-            continue
-
-        new = {
-            "country": country,
-            "ep": episode
-        }
-
-        logging.info("New episode from " + country + " (" + cc + "): " + episode["name"])
-
-        if cc in by_country:
-            for e in by_country[cc]:
-                if e["ep"]["name"] == new["ep"]["name"]:
-                    logging.info("Episode already exists in list. Exiting.")
-                    return None
-
-            by_country[cc].append(new)
-        else:
-            by_country[cc] = [new] 
-
-    return by_country
-
-def update_github_workflow():
-    logging.info("Checking for new episodes...")
-    episodes, new_episodes = check_new_episodes()
-
-    if len(new_episodes) == 0:
-        logging.info("No new episodes found.")
-        return
-
-    logging.info("Found " + str(len(new_episodes)) + " new episodes.")
-
-    by_country = update_episodes_by_country(new_episodes)
-
-    if by_country == None: # Meaning we found a duplicate
-        logging.info("Duplicate found. Exiting and not writing to github.")
-        return
-
-    logging.info("Updating episodes.json...")
-    overwrite_github_file(RAW_EPISODES_PATH, episodes, "Automatic update of json file with new podcast episode!")
-
-    logging.info("Updating episodes_by_country.json...")
-    overwrite_github_file(BY_COUNTRY_PATH, by_country, "Automatic update of json file with new podcast episode!")
-
-    logging.info("Done.")
+sentry_sdk.init(
+    dsn="https://424343626b96c91760787d2139b9d0c6@o4504113989287936.ingest.us.sentry.io/4507889685037056",
+    traces_sample_rate=1.0,
+    profiles_sample_rate=1.0,
+)
 
 @app.function_name(name="HttpTrigger1")
 @app.route(route="req")
@@ -99,4 +23,5 @@ def main(req):
               arg_name="mytimer",
               run_on_startup=False) 
 def test_function(mytimer: func.TimerRequest) -> None:
-    update_github_workflow()
+    service = Podcast198LandService()
+    service.update_github_workflow()
