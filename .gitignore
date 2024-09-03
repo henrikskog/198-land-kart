@@ -1,9 +1,10 @@
 leaflet
 kaos
 .DS_STORE
+terraform.auto.tfvars
+.terraform
 
 .azure/
-.vscode/
 
 bin
 obj

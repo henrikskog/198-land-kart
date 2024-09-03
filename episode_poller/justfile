@@ -1,0 +1,17 @@
+update-lambda:
+    cp -r src src-tmp && \
+    just install-deps && \
+    cd src-tmp && \
+    zip -r episode-poller.zip . && \
+    aws lambda update-function-code --function-name "198-land-episode-poller" --zip-file fileb://episode-poller.zip && \
+    cd .. && \
+    rm -rf src-tmp
+
+install-deps:
+    cd src-tmp && \
+    pip install --platform manylinux2014_x86_64 \
+          --target=. \
+          --implementation cp \
+          --python-version 3.9 \
+          --only-binary=:all: --upgrade \
+      -r requirements.txt

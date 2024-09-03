@@ -1,9 +1,9 @@
 import json
 import logging
-from config import Config
-from gpt import GptClient
-from spotify import SpotifyClient
-from github import GithubClient
+from core.config import Config
+from core.gpt import GptClient
+from core.spotify import SpotifyClient
+from core.github import GithubClient
 
 class Podcast198LandService:
     def __init__(self):
