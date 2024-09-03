@@ -1,5 +1,125 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1nDBxrQjBtCqFVks2mtVvO/clip_0_60000.mp3",
+        "description": "I disse dager holder Einar p\u00e5 med den lengste f\u00f8ljetongen i 198 Lands lange historie med fire episoder om Midtens rike, bedre kjent som Kina. Her f\u00e5r du en liten smakebit fra del 3 som tar for seg Mao Zedongs vei til makten, livet etter revolusjonen, Norges forhandlinger med Kina i nyere tid og mye, mye mer.Alle episodene om Kina med Torbj\u00f8rn F\u00e6r\u00f8vik og de nye landepisodene finner du eksklusivt hos Podimo: https://go.podimo.com/no/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 435905,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/0cXpMVzXamuJW4svwq85NZ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0cXpMVzXamuJW4svwq85NZ",
+        "html_description": "<p>I disse dager holder Einar p\u00e5 med den lengste f\u00f8ljetongen i 198 Lands lange historie med fire episoder om Midtens rike, bedre kjent som Kina. Her f\u00e5r du en liten smakebit fra del 3 som tar for seg Mao Zedongs vei til makten, livet etter revolusjonen, Norges forhandlinger med Kina i nyere tid og mye, mye mer.</p><br /><p>Alle episodene om Kina med Torbj\u00f8rn F\u00e6r\u00f8vik og de nye landepisodene finner du eksklusivt hos Podimo: <a href=\"https://go.podimo.com/no/198land\" rel=\"nofollow\">https://go.podimo.com/no/198land</a></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "0cXpMVzXamuJW4svwq85NZ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a717e3a2115cedeef5d7bf42d",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f717e3a2115cedeef5d7bf42d",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d717e3a2115cedeef5d7bf42d",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Kina (smakebit)",
+        "release_date": "2024-04-08",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0cXpMVzXamuJW4svwq85NZ"
+    },
+    {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5VtTkR7i3zh1XUjHWBNjhd/clip_0_60000.mp3",
+        "description": "Situasjonen i Sudan er den st\u00f8rste p\u00e5g\u00e5ende humanit\u00e6re krisen i verden, men allikevel f\u00e5r den lite oppmerksomhet i media. Einar sl\u00e5r p\u00e5 tr\u00e5den til NRKs Afrika-korrespondent Vegard Tj\u00f8rhom for \u00e5 finne ut av hva som foreg\u00e5r, hvordan det ble s\u00e5 ille og hvorfor vi h\u00f8rer s\u00e5 lite om det i norske (og vestlige) medier.Landepisodene av 198 Land finner du eksklusivt hos Podimo: https://go.podimo.com/no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1971226,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/6hlpCSdtYdj0xWC3P9XLXp"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6hlpCSdtYdj0xWC3P9XLXp",
+        "html_description": "<p>Situasjonen i Sudan er den st\u00f8rste p\u00e5g\u00e5ende humanit\u00e6re krisen i verden, men allikevel f\u00e5r den lite oppmerksomhet i media. Einar sl\u00e5r p\u00e5 tr\u00e5den til NRKs Afrika-korrespondent Vegard Tj\u00f8rhom for \u00e5 finne ut av hva som foreg\u00e5r, hvordan det ble s\u00e5 ille og hvorfor vi h\u00f8rer s\u00e5 lite om det i norske (og vestlige) medier.</p><br /><p><br /></p><p>Landepisodene av 198 Land finner du eksklusivt hos Podimo: <a href=\"https://go.podimo.com/no/198land\" rel=\"nofollow\">https://go.podimo.com/no/198land</a></p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "6hlpCSdtYdj0xWC3P9XLXp",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Situasjonen i Sudan med Vegard Tj\u00f8rhom",
+        "release_date": "2024-04-01",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6hlpCSdtYdj0xWC3P9XLXp"
+    },
+    {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/42FpDkOd5IySRDDpfm48Nt/clip_0_60000.mp3",
+        "description": "Her er en liten smakebit av ukens landepisode: Montserrat med Team Bachstad. Episoden i sin helhet finner du hos Podimo: https://go.podimo.com/no/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 411533,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/0vGQktp18hWBZHfZOH40wk"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0vGQktp18hWBZHfZOH40wk",
+        "html_description": "<p>Her er en liten smakebit av ukens landepisode: Montserrat med Team Bachstad. </p><br /><p>Episoden i sin helhet finner du hos Podimo: <a href=\"https://go.podimo.com/no/198land\" rel=\"nofollow\">https://go.podimo.com/no/198land</a></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "0vGQktp18hWBZHfZOH40wk",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa61af8a35bf34a947fe732ae",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fa61af8a35bf34a947fe732ae",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68da61af8a35bf34a947fe732ae",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Montserrat (smakebit)",
+        "release_date": "2024-03-18",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0vGQktp18hWBZHfZOH40wk"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7036m9rOIRqGhZSL2IY4bn/clip_0_60000.mp3",
         "description": "En ny vakker, fabelaktig, pirrende og potensielt sjokkerende sesong er i gang, og startskuddet g\u00e5r med historiens f\u00f8rste dobbeltgjest i 198 Land! For n\u00e5r man skal snakke om Saint Vincent og Grenadinene kan man ikke snakke med hvem som helst: Den lille staten best\u00e5ende av 32 forskjellige \u00f8yer er nemlig ikke f\u00f8rst p\u00e5 reiselisten til Ola og Kari Nordmann, men hvis du er nysgjerrig p\u00e5 et frodig landskap som er sterkt preget av vulkanske utbrudd, interessant engelsk uttale og unike flagg, ja, da er dette episoden for deg. Einar har som vanlig med seg en br\u00e5te mer eller mindre kvalitetsikrede fakta som han dobbeltsjekker med sin dobbeltgjest: Quizmakerne og dynamittduoen Team Bachstad.Fra og med neste uke flytter 198 Land eksklusivt inn hos Podimo. I den anledning f\u00e5r du et kjempegodt tilbud: Hvis du skaffer deg Podimoabonnement via linken under innen 3. mars kan du f\u00e5 50% avslag p\u00e5 et helt \u00e5r!\u00a0F\u00e5 50% avslag p\u00e5 ett \u00e5r med Podimo og tilgang til alt av 198 Land\u00a0+ et enormt utvalg av spennende podkaster og lydb\u00f8ker her:https://go.podimo.com/no/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3872914,
@@ -201,14 +321,14 @@
     },
     {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/49JKTYI3i93a5ds7dGcu7Q/clip_0_60000.mp3",
-        "description": "Siden oppstarten i 2019 har 198 Land hatt et brennende \u00f8nske om \u00e5 presentere passelig interessante fakta som f\u00e5r deg til \u00e5 utbryte \"J\u00d8SS\". (Ikke \"WOW!\", \"H\u00c6H?!\" eller \"SERR?!\") Einar har gravd i arkivet og b\u00f8rstet st\u00f8v av et knippe \"J\u00d8SS\" i h\u00e5p om at du, ja, nettopp du, skal bryte ut i et lavm\u00e6lt \"J\u00d8SS\". Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "description": "Siden oppstarten i 2019 har 198 Land hatt et brennende \u00f8nske om \u00e5 presentere passelig interessante fakta som f\u00e5r deg til \u00e5 utbryte \"J\u00d8SS\". (Ikke \"WOW!\", \"H\u00c6H?!\" eller \"SERR?!\")Einar har gravd i arkivet og b\u00f8rstet st\u00f8v av et knippe \"J\u00d8SS\" i h\u00e5p om at du, ja, nettopp du, skal bryte ut i et lavm\u00e6lt \"J\u00d8SS\" n\u00e5r vi tar for oss Ghana, Nord-Korea, Bhutan, Somalia, Danmark, Irak og Vatikanstaten.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2862706,
         "explicit": false,
         "external_urls": {
             "spotify": "https://open.spotify.com/episode/05w6iAMfvQaXpBKojDttyd"
         },
         "href": "https://api.spotify.com/v1/episodes/05w6iAMfvQaXpBKojDttyd",
-        "html_description": "<p>Siden oppstarten i 2019 har 198 Land hatt et brennende \u00f8nske om \u00e5 presentere passelig interessante fakta som f\u00e5r deg til \u00e5 utbryte &#34;J\u00d8SS&#34;. (Ikke &#34;WOW!&#34;, &#34;H\u00c6H?!&#34; eller &#34;SERR?!&#34;) </p><p>Einar har gravd i arkivet og b\u00f8rstet st\u00f8v av et knippe &#34;J\u00d8SS&#34; i h\u00e5p om at du, ja, nettopp du, skal bryte ut i et lavm\u00e6lt &#34;J\u00d8SS&#34;. </p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "html_description": "<p>Siden oppstarten i 2019 har 198 Land hatt et brennende \u00f8nske om \u00e5 presentere passelig interessante fakta som f\u00e5r deg til \u00e5 utbryte &#34;J\u00d8SS&#34;. (Ikke &#34;WOW!&#34;, &#34;H\u00c6H?!&#34; eller &#34;SERR?!&#34;)</p><p>Einar har gravd i arkivet og b\u00f8rstet st\u00f8v av et knippe &#34;J\u00d8SS&#34; i h\u00e5p om at du, ja, nettopp du, skal bryte ut i et lavm\u00e6lt &#34;J\u00d8SS&#34; n\u00e5r vi tar for oss Ghana, Nord-Korea, Bhutan, Somalia, Danmark, Irak og Vatikanstaten.</p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
         "id": "05w6iAMfvQaXpBKojDttyd",
         "images": [
             {
@@ -393,7 +513,7 @@
         "languages": [
             "no"
         ],
-        "name": "Bonus: J\u00f8ss, enda flere j\u00f8ss fra Chile?",
+        "name": "Bonus: J\u00d8SS, enda flere j\u00f8ss fra Chile?",
         "release_date": "2023-11-22",
         "release_date_precision": "day",
         "type": "episode",
