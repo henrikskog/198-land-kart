@@ -29,7 +29,7 @@ def main(event, context):
         logger.info(f'Received event: {json.dumps(event)}')
 
         service = Podcast198LandService()
-        service.update_github_workflow()
+        service.update_episode_data()
 
         # TODO: Add your lambda function logic here
         response = {

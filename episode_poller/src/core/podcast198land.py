@@ -112,17 +112,10 @@ class Podcast198LandService:
 
         return by_country
 
-    def process_new_episodes(self, all_episodes: list):
+    def process_new_episodes(self, new_episodes: list):
         logging.info("Checking for new episodes...")
 
-        # ordered by date, newest first
-        stored_episodes = self.get_raw_episodes_file()
 
-        if len(all_episodes) == len(stored_episodes):
-            logging.info("No new episodes found.")
-            return
-
-        new_episodes = all_episodes[0: len(all_episodes) - len(stored_episodes)]
 
         logging.info(f"Found {len(new_episodes)} new episodes.\n" + "\n".join([f"- {e['name']}" for e in new_episodes]))
 
@@ -134,12 +127,20 @@ class Podcast198LandService:
 
         return by_country
 
-    def update_github_workflow(self):
+    def update_episode_data(self):
+        # all are ordered by date, newest first
         all_episodes = self.get_198_land_episodes()
-        episodes_by_country = self.process_new_episodes(all_episodes)
+        stored_episodes = self.get_raw_episodes_file()
+        new_episodes = all_episodes[0: len(all_episodes) - len(stored_episodes)]
+
+        if len(new_episodes) == 0:
+            logging.info("No new episodes found. Exiting.")
+            return
+
+        episodes_by_country = self.process_new_episodes(new_episodes)
         self.github_client.write_file(self.RAW_EPISODES_PATH, json.dumps(all_episodes, indent=4), "Automatic update of json file with new podcast episode!")
         self.github_client.write_file(self.BY_COUNTRY_PATH, json.dumps(episodes_by_country, indent=4), "Automatic update of json file with new podcast episode!")
 
 if __name__ == "__main__":
     service = Podcast198LandService()
-    service.update_github_workflow()
+    service.update_episode_data()
