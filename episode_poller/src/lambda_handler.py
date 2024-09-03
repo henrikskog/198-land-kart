@@ -5,13 +5,16 @@ import logging
 import traceback, sys
 
 import sentry_sdk
+from sentry_sdk.integrations.aws_lambda import AwsLambdaIntegration
 
 sentry_sdk.init(
     dsn="https://424343626b96c91760787d2139b9d0c6@o4504113989287936.ingest.us.sentry.io/4507889685037056",
     traces_sample_rate=1.0,
     profiles_sample_rate=1.0,
+    integrations=[
+        AwsLambdaIntegration(timeout_warning=True),
+    ],
 )
-
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -36,9 +39,9 @@ def main(event, context):
 
         return response
     except Exception as error:
+        sentry_sdk.capture_exception(error)
         log_exception()
         return {
             'statusCode': 500,
             'body': json.dumps({'message': 'Internal Server Error'})
         }
-
