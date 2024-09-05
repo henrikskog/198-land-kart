@@ -1,9 +1,11 @@
 import os
 import abc
 
+
 def is_running_on_azure():
     # Check if the WEBSITE_SITE_NAME environment variable is set
-    return 'AzureWebJobsStorage' in os.environ
+    return "AzureWebJobsStorage" in os.environ
+
 
 class Singleton(abc.ABCMeta, type):
     """
@@ -14,9 +16,7 @@ class Singleton(abc.ABCMeta, type):
 
     def __call__(cls, *args, **kwargs):
         if cls not in cls._instances:
-            cls._instances[cls] = super(
-                Singleton, cls).__call__(
-                *args, **kwargs)
+            cls._instances[cls] = super(Singleton, cls).__call__(*args, **kwargs)
         return cls._instances[cls]
 
 
@@ -28,6 +28,7 @@ class Config(metaclass=Singleton):
     def __init__(self):
         if not is_running_on_azure():
             from dotenv import load_dotenv
+
             # Load environment variables from .env file
             load_dotenv()
 

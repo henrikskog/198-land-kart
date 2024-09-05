@@ -2,7 +2,8 @@ from core.podcast198land import Podcast198LandService
 
 import json
 import logging
-import traceback, sys
+import traceback
+import sys
 
 import sentry_sdk
 from sentry_sdk.integrations.aws_lambda import AwsLambdaIntegration
@@ -19,22 +20,26 @@ sentry_sdk.init(
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
+
 def log_exception():
     exc_type, exc_value, exc_traceback = sys.exc_info()
-    logging.error(''.join(traceback.format_exception(exc_type, exc_value, exc_traceback)))
+    logging.error(
+        "".join(traceback.format_exception(exc_type, exc_value, exc_traceback))
+    )
+
 
 def main(event, context):
     try:
         # Log the incoming event for debugging purposes
-        logger.info(f'Received event: {json.dumps(event)}')
+        logger.info(f"Received event: {json.dumps(event)}")
 
         service = Podcast198LandService()
         service.update_episode_data()
 
         # TODO: Add your lambda function logic here
         response = {
-            'statusCode': 200,
-            'body': json.dumps({'message': 'Hello from Lambda!'})
+            "statusCode": 200,
+            "body": json.dumps({"message": "Hello from Lambda!"}),
         }
 
         return response
@@ -42,6 +47,6 @@ def main(event, context):
         sentry_sdk.capture_exception(error)
         log_exception()
         return {
-            'statusCode': 500,
-            'body': json.dumps({'message': 'Internal Server Error'})
+            "statusCode": 500,
+            "body": json.dumps({"message": "Internal Server Error"}),
         }

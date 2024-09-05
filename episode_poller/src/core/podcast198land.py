@@ -5,21 +5,25 @@ from core.gpt import GptClient
 from core.spotify import SpotifyClient
 from core.github import GithubClient
 
+
 class Podcast198LandService:
     def __init__(self):
         config = Config()
-        GITHUB_OWNER = 'henrikskog'
-        GITHUB_REPO = '198-land-kart'
+        GITHUB_OWNER = "henrikskog"
+        GITHUB_REPO = "198-land-kart"
         logging.basicConfig(level=logging.INFO)
 
-
         self.BY_COUNTRY_PATH = "episodes_by_country.json"
-        self.file_path = 'episodes_by_country.json'
+        self.file_path = "episodes_by_country.json"
         self.RAW_EPISODES_PATH = "raw_episodes.json"
-        self.SPOTIFY_SHOW_ID = '7gVC1AP7O35An9TK6l2XpJ'
-        self.github_client = GithubClient(config.github_api_key, GITHUB_OWNER, GITHUB_REPO)
+        self.SPOTIFY_SHOW_ID = "7gVC1AP7O35An9TK6l2XpJ"
+        self.github_client = GithubClient(
+            config.github_api_key, GITHUB_OWNER, GITHUB_REPO
+        )
         self.gpt_client = GptClient(config.openai_api_key)
-        self.spotify_client = SpotifyClient(config.spotify_client_id, config.spotify_client_secret)
+        self.spotify_client = SpotifyClient(
+            config.spotify_client_id, config.spotify_client_secret
+        )
 
     @staticmethod
     def GPT_PROMPT(episode_name, episode_description):
@@ -61,7 +65,12 @@ class Podcast198LandService:
         return self.spotify_client.get_episodes(self.SPOTIFY_SHOW_ID)
 
     def extract_country(self, episode_name: str, episode_description: str):
-        messages = [{"role": "user", "content": self.GPT_PROMPT(episode_name, episode_description)}]
+        messages = [
+            {
+                "role": "user",
+                "content": self.GPT_PROMPT(episode_name, episode_description),
+            }
+        ]
 
         gpt_response = self.gpt_client.chat_completion(messages)
 
@@ -71,8 +80,10 @@ class Podcast198LandService:
         try:
             country, cc = gpt_response.split(", ")
             return country, cc
-        except:
-            logging.error(f"Got unexpected answer from gpt: {gpt_response} given the prompt: {self.GPT_PROMPT(episode_name, episode_description)}")
+        except Exception as _:
+            logging.error(
+                f"Got unexpected answer from gpt: {gpt_response} given the prompt: {self.GPT_PROMPT(episode_name, episode_description)}"
+            )
             return None, None
 
     def get_raw_episodes_file(self):
@@ -89,39 +100,43 @@ class Podcast198LandService:
         for episode in new_episodes:
             country, cc = self.extract_country(episode["name"], episode["description"])
 
-            if country == None or cc == None:
-                logging.info(f"Could not extract country from episode {episode['name']}")
+            if country is None or cc is None:
+                logging.info(
+                    f"Could not extract country from episode {episode['name']}"
+                )
                 continue
 
-            new = {
-                "country": country,
-                "ep": episode
-            }
+            new = {"country": country, "ep": episode}
 
-            logging.info(f"Episode {episode['name']} got classified as {country} ({cc})")
+            logging.info(
+                f"Episode {episode['name']} got classified as {country} ({cc})"
+            )
 
             if cc in by_country:
                 for e in by_country[cc]:
                     if e["ep"]["name"] == new["ep"]["name"]:
-                        logging.warn(f"Episode {episode['name']} already exists in list. Exiting.")
+                        logging.warn(
+                            f"Episode {episode['name']} already exists in list. Exiting."
+                        )
                         return None
 
                 by_country[cc].append(new)
             else:
-                by_country[cc] = [new] 
+                by_country[cc] = [new]
 
         return by_country
 
     def process_new_episodes(self, new_episodes: list):
         logging.info("Checking for new episodes...")
 
-
-
-        logging.info(f"Found {len(new_episodes)} new episodes.\n" + "\n".join([f"- {e['name']}" for e in new_episodes]))
+        logging.info(
+            f"Found {len(new_episodes)} new episodes.\n"
+            + "\n".join([f"- {e['name']}" for e in new_episodes])
+        )
 
         by_country = self.raw_episodes_to_by_country(new_episodes)
 
-        if by_country == None:  # Meaning we found a duplicate
+        if by_country is None:  # Meaning we found a duplicate
             logging.info("Duplicate found. Exiting and not writing to github.")
             return
 
@@ -131,15 +146,24 @@ class Podcast198LandService:
         # all are ordered by date, newest first
         all_episodes = self.get_198_land_episodes()
         stored_episodes = self.get_raw_episodes_file()
-        new_episodes = all_episodes[0: len(all_episodes) - len(stored_episodes)]
+        new_episodes = all_episodes[0 : len(all_episodes) - len(stored_episodes)]
 
         if len(new_episodes) == 0:
             logging.info("No new episodes found. Exiting.")
             return
 
         episodes_by_country = self.process_new_episodes(new_episodes)
-        self.github_client.write_file(self.RAW_EPISODES_PATH, json.dumps(all_episodes, indent=4), "Automatic update of json file with new podcast episode!")
-        self.github_client.write_file(self.BY_COUNTRY_PATH, json.dumps(episodes_by_country, indent=4), "Automatic update of json file with new podcast episode!")
+        self.github_client.write_file(
+            self.RAW_EPISODES_PATH,
+            json.dumps(all_episodes, indent=4),
+            "Automatic update of json file with new podcast episode!",
+        )
+        self.github_client.write_file(
+            self.BY_COUNTRY_PATH,
+            json.dumps(episodes_by_country, indent=4),
+            "Automatic update of json file with new podcast episode!",
+        )
+
 
 if __name__ == "__main__":
     service = Podcast198LandService()
