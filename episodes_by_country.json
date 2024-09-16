@@ -5309,6 +5309,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:0xh8pVVScyeDRPggFGkvQp"
             }
+        },
+        {
+            "country": "Venezuela",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5IumMYECDqOjnLx6wc1jm1/clip_0_60000.mp3",
+                "description": "Du leste riktig; Venzeulas president Nicol\u00e1s Maduro er i gang med nye fantestreker, og denne gangen har han flyttet jula til oktober - som kan tolkes i lys av en noe suspekt oppf\u00f8rsel under valget. Vi sl\u00e5r p\u00e5 tr\u00e5den til Benedicte Bull og finner ut hva i alle dager som har skjedd siden sist i den nye sesongen av The Maduro Show.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1420120,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/32MXVOyelb7MmNnsO8EYHf"
+                },
+                "href": "https://api.spotify.com/v1/episodes/32MXVOyelb7MmNnsO8EYHf",
+                "html_description": "<p>Du leste riktig; Venzeulas president Nicol\u00e1s Maduro er i gang med nye fantestreker, og denne gangen har han flyttet jula til oktober - som kan tolkes i lys av en noe suspekt oppf\u00f8rsel under valget. Vi sl\u00e5r p\u00e5 tr\u00e5den til Benedicte Bull og finner ut hva i alle dager som har skjedd siden sist i den nye sesongen av The Maduro Show.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "32MXVOyelb7MmNnsO8EYHf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: Venezuela flytter jul til oktober?! med Benedicte Bull",
+                "release_date": "2024-09-16",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:32MXVOyelb7MmNnsO8EYHf"
+            }
         }
     ],
     "EGY": [
@@ -6198,6 +6241,51 @@
                 "release_date_precision": "day",
                 "type": "episode",
                 "uri": "spotify:episode:2DC8zUirqJmqkw7pkuZQXk"
+            }
+        }
+    ],
+    "NER": [
+        {
+            "country": "Niger",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0rFrIeOgMBgI0zey0aSivk/clip_0_60000.mp3",
+                "description": "Niger er kanskje det st\u00f8rste landet folk flest ikke vet noen ting om, men 198 Land tar p\u00e5 seg jobben og g\u00e5r gjennom hele landet etter s\u00f8mmene med NUPI-forsker Morten B\u00f8\u00e5s.Hvis du vil h\u00f8re episodene om Niger, eller alle de andre landepisodene fra 198 lands stadig ekspanderende univers, s\u00e5 finner du eksklusivt hos podimo: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 598752,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1X9waoFvtwAuscps9WHtiS"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1X9waoFvtwAuscps9WHtiS",
+                "html_description": "<p>Niger er kanskje det st\u00f8rste landet folk flest ikke vet noen ting om, men 198 Land tar p\u00e5 seg jobben og g\u00e5r gjennom hele landet etter s\u00f8mmene med NUPI-forsker Morten B\u00f8\u00e5s.</p><br /><p>Hvis du vil h\u00f8re episodene om Niger, eller alle de andre landepisodene fra 198 lands stadig ekspanderende univers, s\u00e5 finner du eksklusivt hos podimo: podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "1X9waoFvtwAuscps9WHtiS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a7f6267897abe997239c35c3b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f7f6267897abe997239c35c3b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d7f6267897abe997239c35c3b",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Niger (smakebit)",
+                "release_date": "2024-09-16",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1X9waoFvtwAuscps9WHtiS"
             }
         }
     ]
