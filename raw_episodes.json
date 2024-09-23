@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2P2qzQhE4N3fMERD7Uj0lM/clip_0_60000.mp3",
+        "description": "Den 1. oktober er det duket for vexillologiens dag (#VexiDay), eller som vi tabloid kaller her, flaggenes flaggdag. Vi sl\u00e5r p\u00e5 tr\u00e5den til Fr\u00e9d\u00e9ric Lindboe, aka. Flaggmannen, og h\u00f8rer om hva som foreg\u00e5r p\u00e5 denne merkedagen, hva som skjer i flaggosf\u00e6ren, dramaet om Minnesotas nye flagg og mye mer.Vil du se hele flaggsamlingen til Flaggmannen?Da b\u00f8r du ta turen til Vitenparken i \u00c5s den 28-29. september.God flagging!Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1480411,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/69HFel3lqkBxfyEMLpvjN1"
+        },
+        "href": "https://api.spotify.com/v1/episodes/69HFel3lqkBxfyEMLpvjN1",
+        "html_description": "<p>Den 1. oktober er det duket for vexillologiens dag (#VexiDay), eller som vi tabloid kaller her, flaggenes flaggdag. Vi sl\u00e5r p\u00e5 tr\u00e5den til Fr\u00e9d\u00e9ric Lindboe, aka. Flaggmannen, og h\u00f8rer om hva som foreg\u00e5r p\u00e5 denne merkedagen, hva som skjer i flaggosf\u00e6ren, dramaet om Minnesotas nye flagg og mye mer.</p><br /><p>Vil du se hele flaggsamlingen til Flaggmannen?</p><p>Da b\u00f8r du ta turen til Vitenparken i \u00c5s den 28-29. september.</p><p>God flagging!</p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p><br /></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "69HFel3lqkBxfyEMLpvjN1",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Flaggenes flaggdag med Flaggmannen",
+        "release_date": "2024-09-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:69HFel3lqkBxfyEMLpvjN1"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5IumMYECDqOjnLx6wc1jm1/clip_0_60000.mp3",
         "description": "Du leste riktig; Venzeulas president Nicol\u00e1s Maduro er i gang med nye fantestreker, og denne gangen har han flyttet jula til oktober - som kan tolkes i lys av en noe suspekt oppf\u00f8rsel under valget. Vi sl\u00e5r p\u00e5 tr\u00e5den til Benedicte Bull og finner ut hva i alle dager som har skjedd siden sist i den nye sesongen av The Maduro Show.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1420120,
