@@ -6288,5 +6288,50 @@
                 "uri": "spotify:episode:1X9waoFvtwAuscps9WHtiS"
             }
         }
+    ],
+    "ARE": [
+        {
+            "country": "United Arab Emirates",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0F78Qi9B8Nh2mqoXbRSjdk/clip_0_60000.mp3",
+                "description": "Denne uken g\u00e5r turen De forente arabiske emirater med leder i Unge Venstre, Ane Breivik, som tilbrakte et par \u00e5r av barndommen i landet med sand, olje, rikdom og mall walking.Er du gira p\u00e5 \u00e5 sjekke ut alle landepisodene fra 198 Land? Pell deg inn p\u00e5 Podimo, da vel! De befinner seg nemlig eksklusivt der: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 601887,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6N4PiZtcmPdQSzKLo0BOKG"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6N4PiZtcmPdQSzKLo0BOKG",
+                "html_description": "<p>Denne uken g\u00e5r turen De forente arabiske emirater med leder i Unge Venstre, Ane Breivik, som tilbrakte et par \u00e5r av barndommen i landet med sand, olje, rikdom og mall walking.</p><br /><p><br /></p><p>Er du gira p\u00e5 \u00e5 sjekke ut alle landepisodene fra 198 Land? Pell deg inn p\u00e5 Podimo, da vel! De befinner seg nemlig eksklusivt der: podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "6N4PiZtcmPdQSzKLo0BOKG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "De forente arabiske emirater (smakebit)",
+                "release_date": "2024-09-30",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6N4PiZtcmPdQSzKLo0BOKG"
+            }
+        }
     ]
 }
