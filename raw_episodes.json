@@ -1,5 +1,85 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3f47qA5sKezDMte6nVpD3H/clip_0_60000.mp3",
+        "description": "Hele 198 land-konsernet tar seg det noen vil kalle en velfortjent, og andre en h\u00f8yst ufortjent, h\u00f8stferie. Dermed blir ukens temaepisode et gjensyn med fjor\u00e5rets episode, da Gunnar Garfors ga reisetips i h\u00f8stferien, som vi fortsatt h\u00e5per er relevante. Tenk p\u00e5 det, du, mens Einar nipper til paraplydrinken sin i sydligere str\u00f8k.Produsert av Martin Oftedal, PLAN-B  Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1143144,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/1cJVrS91XoZAUBlKZPDyb4"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1cJVrS91XoZAUBlKZPDyb4",
+        "html_description": "<p>Hele 198 land-konsernet tar seg det noen vil kalle en velfortjent, og andre en h\u00f8yst ufortjent, h\u00f8stferie. Dermed blir ukens temaepisode et gjensyn med fjor\u00e5rets episode, da Gunnar Garfors ga reisetips i h\u00f8stferien, som vi fortsatt h\u00e5per er relevante. Tenk p\u00e5 det, du, mens Einar nipper til paraplydrinken sin i sydligere str\u00f8k.</p><br /><p>Produsert av Martin Oftedal, PLAN-B </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "1cJVrS91XoZAUBlKZPDyb4",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Gjensyn med Gunnar Garfors' reisetips i h\u00f8stferien",
+        "release_date": "2024-09-30",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1cJVrS91XoZAUBlKZPDyb4"
+    },
+    {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0F78Qi9B8Nh2mqoXbRSjdk/clip_0_60000.mp3",
+        "description": "Denne uken g\u00e5r turen De forente arabiske emirater med leder i Unge Venstre, Ane Breivik, som tilbrakte et par \u00e5r av barndommen i landet med sand, olje, rikdom og mall walking.Er du gira p\u00e5 \u00e5 sjekke ut alle landepisodene fra 198 Land? Pell deg inn p\u00e5 Podimo, da vel! De befinner seg nemlig eksklusivt der: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 601887,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/6N4PiZtcmPdQSzKLo0BOKG"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6N4PiZtcmPdQSzKLo0BOKG",
+        "html_description": "<p>Denne uken g\u00e5r turen De forente arabiske emirater med leder i Unge Venstre, Ane Breivik, som tilbrakte et par \u00e5r av barndommen i landet med sand, olje, rikdom og mall walking.</p><br /><p><br /></p><p>Er du gira p\u00e5 \u00e5 sjekke ut alle landepisodene fra 198 Land? Pell deg inn p\u00e5 Podimo, da vel! De befinner seg nemlig eksklusivt der: podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "6N4PiZtcmPdQSzKLo0BOKG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "De forente arabiske emirater (smakebit)",
+        "release_date": "2024-09-30",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6N4PiZtcmPdQSzKLo0BOKG"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2P2qzQhE4N3fMERD7Uj0lM/clip_0_60000.mp3",
         "description": "Den 1. oktober er det duket for vexillologiens dag (#VexiDay), eller som vi tabloid kaller her, flaggenes flaggdag. Vi sl\u00e5r p\u00e5 tr\u00e5den til Fr\u00e9d\u00e9ric Lindboe, aka. Flaggmannen, og h\u00f8rer om hva som foreg\u00e5r p\u00e5 denne merkedagen, hva som skjer i flaggosf\u00e6ren, dramaet om Minnesotas nye flagg og mye mer.Vil du se hele flaggsamlingen til Flaggmannen?Da b\u00f8r du ta turen til Vitenparken i \u00c5s den 28-29. september.God flagging!Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1480411,
