@@ -6333,5 +6333,50 @@
                 "uri": "spotify:episode:6N4PiZtcmPdQSzKLo0BOKG"
             }
         }
+    ],
+    "SJM": [
+        {
+            "country": "Svalbard",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2ohF0Qac4RO96l4SiV6CbB/clip_0_60000.mp3",
+                "description": "Helt siden Einar h\u00f8rte sin fars skr\u00f8ner om Svalbard, har den nordliggende \u00f8ya fascinert han. Hva gj\u00f8r de der oppe? Hvordan er kulturen? V\u00e6ret? Dyrelivet? Det sosiale klasseskillet? Russerne? Isbj\u00f8rn? Til slutt tenkte han at nok fikk v\u00e6re nok og slo p\u00e5 tr\u00e5den til Anja Charlotte Markussen, journalist i Svalbardposten, for \u00e5 f\u00e5 noen fakta p\u00e5 bordet.Vil du h\u00f8re nye landepisoder av 198 land? Da m\u00e5 du pelle deg over til podimo.com/198land Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1896463,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5Uv0TtLINKIeRIhfs5q3le"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5Uv0TtLINKIeRIhfs5q3le",
+                "html_description": "<p>Helt siden Einar h\u00f8rte sin fars skr\u00f8ner om Svalbard, har den nordliggende \u00f8ya fascinert han. Hva gj\u00f8r de der oppe? Hvordan er kulturen? V\u00e6ret? Dyrelivet? Det sosiale klasseskillet? Russerne? Isbj\u00f8rn? Til slutt tenkte han at nok fikk v\u00e6re nok og slo p\u00e5 tr\u00e5den til Anja Charlotte Markussen, journalist i Svalbardposten, for \u00e5 f\u00e5 noen fakta p\u00e5 bordet.</p><br /><p>Vil du h\u00f8re nye landepisoder av 198 land? Da m\u00e5 du pelle deg over til podimo.com/198land </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "5Uv0TtLINKIeRIhfs5q3le",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: Livet p\u00e5 Svalbard med Anja Charlotte Markussen",
+                "release_date": "2024-10-07",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5Uv0TtLINKIeRIhfs5q3le"
+            }
+        }
     ]
 }
