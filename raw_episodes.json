@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6x7Is9wo3p5Sj2CD69HXHJ/clip_0_60000.mp3",
+        "description": "Vinteren 1975 dukket en liten baby opp p\u00e5 Fornebu fra Bangladesh, og vokste opp til \u00e5 bli Elisabeth Fjallsett. Da hun selv ble mor, ble hun interessert i \u00e5 finne igjen sin egen mor og historie. Einar inviterer henne inn i studio for \u00e5 fortelle sin historie, samt gi litt reiseskildringer fra Dhaka og landsbyen som moren bor i.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1958086,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5Mm4N7P7b2Nn8AdocithIW"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5Mm4N7P7b2Nn8AdocithIW",
+        "html_description": "<p>Vinteren 1975 dukket en liten baby opp p\u00e5 Fornebu fra Bangladesh, og vokste opp til \u00e5 bli Elisabeth Fjallsett. Da hun selv ble mor, ble hun interessert i \u00e5 finne igjen sin egen mor og historie. Einar inviterer henne inn i studio for \u00e5 fortelle sin historie, samt gi litt reiseskildringer fra Dhaka og landsbyen som moren bor i.</p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5Mm4N7P7b2Nn8AdocithIW",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Adoptert fra Bangladesh med Elisabeth Fjallsett",
+        "release_date": "2024-10-21",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5Mm4N7P7b2Nn8AdocithIW"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2gc14SslgMerXTlzAyMR6b/clip_0_60000.mp3",
         "description": "En mail ramlet inn i innboksen fra en (kremt) bergenser, som ville komme til bunns i hvorfor Oslo er norges hovedstad og hvis den tilfeldigvis kan bli flyttet. Einar bruker dette som en inngang til \u00e5 ta en prat om byutvikling, selvgrodde byer, bydeler og definisjonen av en hovedstad med professor ved institutt for sosiologi og samfunnsgeografi ved UiO, Per Gunnar R\u00f8e.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1909577,
