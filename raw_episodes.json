@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0JaJZSc2J9RyJnBqtRDA21/clip_0_60000.mp3",
+        "description": "Vi tar turen til landet med enhj\u00f8rninger, haggis, sekkepiper og undersj\u00f8iske monstre: Skottland!Hypp p\u00e5 \u00e5 v\u00e6re en fet person som har h\u00f8rt alle episodene om Skottland, i tillegg til alle de nyeste landepisodene av 198 land? Da m\u00e5 du pelle deg over til Podimo: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 369423,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5PLhqG08R2vZU7aK30uaC4"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5PLhqG08R2vZU7aK30uaC4",
+        "html_description": "<p>Vi tar turen til landet med enhj\u00f8rninger, haggis, sekkepiper og undersj\u00f8iske monstre: Skottland!</p><br /><p>Hypp p\u00e5 \u00e5 v\u00e6re en fet person som har h\u00f8rt alle episodene om Skottland, i tillegg til alle de nyeste landepisodene av 198 land? Da m\u00e5 du pelle deg over til Podimo: podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5PLhqG08R2vZU7aK30uaC4",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2fa6c19fe1d99fd952b5f2e8",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f2fa6c19fe1d99fd952b5f2e8",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d2fa6c19fe1d99fd952b5f2e8",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Skottland (smakebit)",
+        "release_date": "2024-10-28",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5PLhqG08R2vZU7aK30uaC4"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6x7Is9wo3p5Sj2CD69HXHJ/clip_0_60000.mp3",
         "description": "Vinteren 1975 dukket en liten baby opp p\u00e5 Fornebu fra Bangladesh, og vokste opp til \u00e5 bli Elisabeth Fjallsett. Da hun selv ble mor, ble hun interessert i \u00e5 finne igjen sin egen mor og historie. Einar inviterer henne inn i studio for \u00e5 fortelle sin historie, samt gi litt reiseskildringer fra Dhaka og landsbyen som moren bor i.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1958086,
