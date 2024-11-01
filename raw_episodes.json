@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6oGF6InRJ2frOXjN7Qy2x3/clip_0_60000.mp3",
+        "description": "Pitcairn, den eneste bebodde \u00f8ya av de fire Pitcairn\u00f8yene, blir av mange omtalt som verdens isolerte sted \u00e5 bo - og der har det jaggu meg bodd en Kari Nordmann, n\u00e6rmere bestemt navnvenninna Kari Boye Young. Einar sl\u00e5r p\u00e5 tr\u00e5den for \u00e5 h\u00f8re om hvordan det var \u00e5 tilbringe 25 \u00e5r, finne kj\u00e6rligheten og stifte familie p\u00e5 \u00f8ya som ble kjent for verden gjennom Mytteriet p\u00e5 Bounty.Keen p\u00e5 de gode, gamle landepisodene av 198 land? Da m\u00e5 du pelle deg over til Podimo: podimo.com/198land Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1368946,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3bwg1zppOfIdM73inD8ozY"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3bwg1zppOfIdM73inD8ozY",
+        "html_description": "<p>Pitcairn, den eneste bebodde \u00f8ya av de fire Pitcairn\u00f8yene, blir av mange omtalt som verdens isolerte sted \u00e5 bo - og der har det jaggu meg bodd en Kari Nordmann, n\u00e6rmere bestemt navnvenninna Kari Boye Young. Einar sl\u00e5r p\u00e5 tr\u00e5den for \u00e5 h\u00f8re om hvordan det var \u00e5 tilbringe 25 \u00e5r, finne kj\u00e6rligheten og stifte familie p\u00e5 \u00f8ya som ble kjent for verden gjennom Mytteriet p\u00e5 Bounty.</p><br /><p>Keen p\u00e5 de gode, gamle landepisodene av 198 land? Da m\u00e5 du pelle deg over til Podimo: podimo.com/198land </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3bwg1zppOfIdM73inD8ozY",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Livet p\u00e5 Pitcairn, verdens mest isolerte \u00f8y med Kari Boye Young",
+        "release_date": "2024-10-31",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3bwg1zppOfIdM73inD8ozY"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0JaJZSc2J9RyJnBqtRDA21/clip_0_60000.mp3",
         "description": "Vi tar turen til landet med enhj\u00f8rninger, haggis, sekkepiper og undersj\u00f8iske monstre: Skottland!Hypp p\u00e5 \u00e5 v\u00e6re en fet person som har h\u00f8rt alle episodene om Skottland, i tillegg til alle de nyeste landepisodene av 198 land? Da m\u00e5 du pelle deg over til Podimo: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 369423,
