@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5qYYKAgJkfAW2an2cj2Gmg/clip_0_60000.mp3",
+        "description": "Seri\u00f8st? Er du helt seri\u00f8st s\u00e5 g\u00e6ren etter geografinnhold at du skal trykke p\u00e5 en hel temaepisode om Rockall, en \u00f8y, nei, en KLIPPE i Nord-Atlanteren? Et skj\u00e6r som var s\u00e5 snevert at det nektet \u00e5 bli dekket i en episode om Shetland, Hebridene og Orkn\u00f8yene? ER DU SERI\u00d8S?Vel, hvis du er s\u00e5 geogal, s\u00e5 har vi en godbit til deg her. Denne lille klippen har nemlig gjort mye ut av seg, og har b\u00e5de spilt en rolle i den kalde krigen, v\u00e6rt \u00e5rsaken til gnisning med omliggende land, en omdiskutert annektering og en norsk tragedie, som krevde mange menneskeliv og involverte en kjent forfatter i 1904, som endret sikkerhetshensyn p\u00e5 skipsfart\u00f8y den dag i dag. Kos deg! Hvis du vil h\u00f8re begge episodene om Skottland med den \u00f8ygale Kirsti MacDonald Jareg, i tillegg til alle nye landepisoder, s\u00e5 finner du de eksklusivt hos podimo: podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1185201,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3SYEEWrbZnjJqMrdL8vmM1"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3SYEEWrbZnjJqMrdL8vmM1",
+        "html_description": "<p>Seri\u00f8st? Er du helt seri\u00f8st s\u00e5 g\u00e6ren etter geografinnhold at du skal trykke p\u00e5 en hel temaepisode om Rockall, en \u00f8y, nei, en KLIPPE i Nord-Atlanteren? Et skj\u00e6r som var s\u00e5 snevert at det nektet \u00e5 bli dekket i en episode om Shetland, Hebridene og Orkn\u00f8yene? ER DU SERI\u00d8S?</p><br /><p>Vel, hvis du er s\u00e5 geogal, s\u00e5 har vi en godbit til deg her. Denne lille klippen har nemlig gjort mye ut av seg, og har b\u00e5de spilt en rolle i den kalde krigen, v\u00e6rt \u00e5rsaken til gnisning med omliggende land, en omdiskutert annektering og en norsk tragedie, som krevde mange menneskeliv og involverte en kjent forfatter i 1904, som endret sikkerhetshensyn p\u00e5 skipsfart\u00f8y den dag i dag. Kos deg! </p><br /><p><br /></p><p>Hvis du vil h\u00f8re begge episodene om Skottland med den \u00f8ygale Kirsti MacDonald Jareg, i tillegg til alle nye landepisoder, s\u00e5 finner du de eksklusivt hos podimo: podimo.com/198land</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3SYEEWrbZnjJqMrdL8vmM1",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Rockall med Kirsti MacDonald Jareg",
+        "release_date": "2024-11-14",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3SYEEWrbZnjJqMrdL8vmM1"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0eDHKDDoufKKJihFZOua3E/clip_0_60000.mp3",
         "description": "Nei, d\u00e6ven d\u00f8tte, s\u00e5 var det jaggumeg p\u00e5 h\u00f8y tid med ny kavalkade med et assortert utvalg \"J\u00d8SS!\". S\u00e5 len deg tilbake, spiss \u00f8rene mens Einar og venner iherdig pr\u00f8ver \u00e5 f\u00e5 deg til \u00e5 bryte ut i \"J\u00d8SS\", ikke \"WOW\", \"OH SHIT\", \"WHADDAFAAAACK?\" eller, gud forby, \"H\u00c6LLE M\u00c5NE!\". Landene vi tar turen innom er Frankrike, Pakistan, Bulgaria, S\u00e3o Tom\u00e9 og Pr\u00edncipe, Mauritius og Australia.Er du p\u00e5 utkikk etter splitter nye j\u00f8ss, eller landepisoder i sin helhet? Da finner du det eksklusivt hos Podimo: podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1712666,
