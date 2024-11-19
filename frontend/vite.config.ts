@@ -2,6 +2,7 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   // Add the root directory where index.html is located
+  base: './',
   root: 'src',
   publicDir: '../public',
   build: {
