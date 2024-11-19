@@ -1,4 +1,4 @@
-variable "lambda_function_name" {
-  type = string
-  description = "The name of the lambda function"
+variable "prefix" {
+  description = "Prefix to be used for resource names"
+  type        = string
 }

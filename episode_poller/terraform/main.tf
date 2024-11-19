@@ -12,7 +12,7 @@ data "aws_iam_policy_document" "assume_role" {
 }
 
 resource "aws_iam_role" "iam_for_lambda" {
-  name               = "iam_for_lambda"
+  name               = "${var.prefix}-episode-poller-role"
   assume_role_policy = data.aws_iam_policy_document.assume_role.json
 }
 
@@ -24,7 +24,7 @@ data "archive_file" "lambda" {
 
 resource "aws_lambda_function" "lambda" {
   filename      = "lambda_function_payload.zip"
-  function_name = var.lambda_function_name
+  function_name = "${var.prefix}-episode-poller"
   role          = aws_iam_role.iam_for_lambda.arn
   handler       = "lambda_handler.main"
 
@@ -39,7 +39,7 @@ resource "aws_lambda_function" "lambda" {
 }
 
 resource "aws_cloudwatch_event_rule" "trigger_episode_poller" {
-    name = "episode-poller-trigger"
+    name = "${var.prefix}-event-rule"
     description = "Fires every day at 4am"
     schedule_expression = "cron(0 4 * * ? *)"
 }
