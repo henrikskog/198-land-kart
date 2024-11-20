@@ -3,7 +3,7 @@ update-lambda:
     just install-deps && \
     cd src-tmp && \
     zip -r episode-poller.zip . && \
-    aws lambda update-function-code --function-name "198-land-episode-poller" --zip-file fileb://episode-poller.zip && \
+    aws lambda update-function-code --function-name "podcast-198-land-episode-poller" --zip-file fileb://episode-poller.zip && \
     cd .. && \
     rm -rf src-tmp
 

@@ -13,9 +13,8 @@ class Podcast198LandService:
         GITHUB_REPO = "198-land-kart"
         logging.basicConfig(level=logging.INFO)
 
-        self.BY_COUNTRY_PATH = "episodes_by_country.json"
-        self.file_path = "episodes_by_country.json"
-        self.RAW_EPISODES_PATH = "raw_episodes.json"
+        self.BY_COUNTRY_PATH = "frontend/public/data/episodes_by_country.json"
+        self.RAW_EPISODES_PATH = "frontend/public/data/raw_episodes.json"
         self.SPOTIFY_SHOW_ID = "7gVC1AP7O35An9TK6l2XpJ"
         self.github_client = GithubClient(
             config.github_api_key, GITHUB_OWNER, GITHUB_REPO
