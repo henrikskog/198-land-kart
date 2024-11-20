@@ -2,6 +2,7 @@ name: Deploy Python project to AWS Lambda
 
 on:
   push:
+    branches: ["main"]
     paths:
       - 'episode_poller/src/**'
   workflow_dispatch:
