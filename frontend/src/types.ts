@@ -46,10 +46,10 @@ export const geoJSONFeatureSchema = z.object({
   geometry: z.any() 
 });
 
-export const geoJSONResponseSchema = z.object({
-  features: z.array(geoJSONFeatureSchema),
-  type: z.string()
-});
+// export const geoJSONResponseSchema = z.object({
+//   features: z.array(geoJSONFeatureSchema),
+//   type: z.string()
+// });
 
 // Type inference
 export type SpotifyEpisode = z.infer<typeof spotifyEpisodeSchema>;
@@ -58,5 +58,8 @@ export type EpisodeData = z.infer<typeof episodeDataSchema>;
 export type CountryTranslations = z.infer<typeof countryTranslationsSchema>;
 export type ContinentStats = z.infer<typeof continentStatsSchema>;
 export type GeoJSONFeature = z.infer<typeof geoJSONFeatureSchema>;
-export type GeoJSONResponse = z.infer<typeof geoJSONResponseSchema>;
+export type GeoJSONResponse = {
+  features: GeoJSONFeature[];
+  type: string;
+};
 export type Episode = z.infer<typeof episodeSchema>;

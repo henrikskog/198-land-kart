@@ -62,7 +62,8 @@
     "ISO_A3": "ATA",
     "ISO_A2": "AQ",
     "numeric": "010",
-    "continent": null
+    "continent": "Antarktis",
+    "continent_no": "Antarktis"
   },
   "AG": {
     "name": "Antigua and Barbuda",
@@ -105,7 +106,8 @@
     "ISO_A3": "ABW",
     "ISO_A2": "AW",
     "numeric": "533",
-    "continent": null
+    "continent": "North America",
+    "continent_no": "Nord-Amerika"
   },
   "AU": {
     "name": "Australia",

@@ -37,6 +37,7 @@ const fillCountryList = (
     "Oseania",
     "Sør-Amerika",
     "Nord-Amerika",
+    "Antarktis"
   ];
 
   // Calculate number of countries covered in each continent
@@ -214,9 +215,12 @@ const bindButtonToElementDisplay = (
 const main = async (): Promise<void> => {
   try {
     const countryData = await api.getCountryCoords();
-    const geoJSONData = await api.fetchGeoJSONData(updateProgress);
+    const geoJSONData = await api.fetchGeoJSONData();
     const episodeData = await api.getEpisodes();
     const countryTranslations = await api.getCountryTranslations();
+
+    const mapContainer = document.getElementById("mapContainer") as HTMLElement;
+    mapContainer.style.display = "block";
 
     const map = L.map("map", {
       center: [62, 15],

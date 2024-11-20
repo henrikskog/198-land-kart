@@ -8,22 +8,19 @@ import {
   episodeSchema,
 } from "./types";
 
+
 export const TOTAL_COUNTRY_GEOJSON_SIZE = 12430424;
 
-export const getCountryTranslations =
-  async (): Promise<CountryTranslations> => {
-    const response = await fetch("/data/country_translations.json");
-    return response.json();
-  };
+export const getCountryTranslations = async (): Promise<CountryTranslations> => {
+  return fetch("/data/country_translations.json").then((res) => res.json());
+};
 
 export const getCountryCoords = async (): Promise<CountryData> => {
-  const response = await fetch("/data/country_general_data.json");
-  return response.json();
+  return fetch("/data/country_general_data.json").then((res) => res.json());
 };
 
 export const getEpisodes = async (): Promise<EpisodeData> => {
-  const response = await fetch("/data/episodes_by_country.json");
-  return response.json();
+  return fetch("/data/episodes_by_country.json").then((res) => res.json());
 };
 
 export async function fetchWithProgress<T>(
@@ -65,15 +62,9 @@ export async function fetchWithProgress<T>(
   return new Response(chunksAll, { headers: response.headers }).json();
 }
 
-export async function fetchGeoJSONData(
-  onProgress: (percent: number) => void
-): Promise<GeoJSONResponse> {
-  return fetchWithProgress<GeoJSONResponse>(
-    "/data/country-geojson-data-compressed.json",
-    TOTAL_COUNTRY_GEOJSON_SIZE,
-    onProgress
-  );
-}
+export const fetchGeoJSONData = async (): Promise<GeoJSONResponse> => {
+  return fetch("/data/country-geojson-data-compressed.json").then((res) => res.json());
+};
 
 export const mapSpotifyEpisode = (ISO_A3: string, episode: SpotifyEpisode) => {
   const mapped: Episode = {
