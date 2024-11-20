@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import {
   CountryData,
   EpisodeData,
@@ -12,15 +13,15 @@ import {
 export const TOTAL_COUNTRY_GEOJSON_SIZE = 12430424;
 
 export const getCountryTranslations = async (): Promise<CountryTranslations> => {
-  return fetch("/data/country_translations.json").then((res) => res.json());
+  return fetch("data/country_translations.json").then((res) => res.json());
 };
 
 export const getCountryCoords = async (): Promise<CountryData> => {
-  return fetch("/data/country_general_data.json").then((res) => res.json());
+  return fetch("data/country_general_data.json").then((res) => res.json());
 };
 
 export const getEpisodes = async (): Promise<EpisodeData> => {
-  return fetch("/data/episodes_by_country.json").then((res) => res.json());
+  return fetch("data/episodes_by_country.json").then((res) => res.json());
 };
 
 export async function fetchWithProgress<T>(
@@ -63,7 +64,7 @@ export async function fetchWithProgress<T>(
 }
 
 export const fetchGeoJSONData = async (): Promise<GeoJSONResponse> => {
-  return fetch("/data/country-geojson-data-compressed.json").then((res) => res.json());
+  return fetch("data/country-geojson-data-compressed.json").then((res) => res.json());
 };
 
 export const mapSpotifyEpisode = (ISO_A3: string, episode: SpotifyEpisode) => {
