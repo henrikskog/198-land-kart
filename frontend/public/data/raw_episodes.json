@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Ov2Y47GNAIB8yfLjmir2F/clip_0_60000.mp3",
+        "description": "Denne uken g\u00e5r turen til Madagaskar, og vi starter episoden med en grundig, GRUNDIG gjennomgang av historien, f\u00f8r vi g\u00e5r dypere inn i et land med rikt dyreliv, norsk misjonshistorie,likvending og mye, mye mer.Hvis du vil h\u00f8re alt fra 198 land-universet, s\u00e5 finner du landepisoder og alt annet p\u00e5 podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 340192,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/75WjBEPmFOBHLqzdIij3j4"
+        },
+        "href": "https://api.spotify.com/v1/episodes/75WjBEPmFOBHLqzdIij3j4",
+        "html_description": "<p>Denne uken g\u00e5r turen til Madagaskar, og vi starter episoden med en grundig, GRUNDIG gjennomgang av historien, f\u00f8r vi g\u00e5r dypere inn i et land med rikt dyreliv, norsk misjonshistorie,likvending og mye, mye mer.</p><br /><p><br /></p><p>Hvis du vil h\u00f8re alt fra 198 land-universet, s\u00e5 finner du landepisoder og alt annet p\u00e5 podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "75WjBEPmFOBHLqzdIij3j4",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abe1d02330673f6268ae10d12",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbe1d02330673f6268ae10d12",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbe1d02330673f6268ae10d12",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Madagaskar (smakebit)",
+        "release_date": "2024-11-18",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:75WjBEPmFOBHLqzdIij3j4"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5qYYKAgJkfAW2an2cj2Gmg/clip_0_60000.mp3",
         "description": "Seri\u00f8st? Er du helt seri\u00f8st s\u00e5 g\u00e6ren etter geografinnhold at du skal trykke p\u00e5 en hel temaepisode om Rockall, en \u00f8y, nei, en KLIPPE i Nord-Atlanteren? Et skj\u00e6r som var s\u00e5 snevert at det nektet \u00e5 bli dekket i en episode om Shetland, Hebridene og Orkn\u00f8yene? ER DU SERI\u00d8S?Vel, hvis du er s\u00e5 geogal, s\u00e5 har vi en godbit til deg her. Denne lille klippen har nemlig gjort mye ut av seg, og har b\u00e5de spilt en rolle i den kalde krigen, v\u00e6rt \u00e5rsaken til gnisning med omliggende land, en omdiskutert annektering og en norsk tragedie, som krevde mange menneskeliv og involverte en kjent forfatter i 1904, som endret sikkerhetshensyn p\u00e5 skipsfart\u00f8y den dag i dag. Kos deg! Hvis du vil h\u00f8re begge episodene om Skottland med den \u00f8ygale Kirsti MacDonald Jareg, i tillegg til alle nye landepisoder, s\u00e5 finner du de eksklusivt hos podimo: podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1185201,
