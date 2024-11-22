@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/51B0I8ARoyILbutDTL2opf/clip_0_60000.mp3",
+        "description": "Yellowstone er ikke bare en heidundrandes TV-serie som du finner utelukkende p\u00e5 SkyShowtime (som er denne episodens sponsor), men ogs\u00e5 et yndet reisem\u00e5l, ogs\u00e5 for nordmenn. I den anledning sl\u00e5r Einar p\u00e5 tr\u00e5den til Kjetil Sveistrup, en av to drivere bak Hopalong Travel, som skreddersyr pakketurer til USA, deriblant til Yellowstone. Hvorfor burde nordmenn dra dit? Hva venter oss der? Hvor mange geysirer er det der? Hvilken status har det i lokalsamfunnet? Hvordan er dyrelivet? Det er bare noen av sp\u00f8rsm\u00e5lene som blir besvart i denne h\u00f8yst gravende episoden av 198 land.Hvis du skaffer SkyShowtime premium n\u00e5, s\u00e5 f\u00e5r du det for halv pris, for alltid (69 kr i mnd.) Tilbudet gjelder tom. 9. desember.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1640855,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/2QYHQFPfoQ5rSQD1lfJSFd"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2QYHQFPfoQ5rSQD1lfJSFd",
+        "html_description": "<p>Yellowstone er ikke bare en heidundrandes TV-serie som du finner utelukkende p\u00e5 SkyShowtime (som er denne episodens sponsor), men ogs\u00e5 et yndet reisem\u00e5l, ogs\u00e5 for nordmenn. I den anledning sl\u00e5r Einar p\u00e5 tr\u00e5den til Kjetil Sveistrup, en av to drivere bak Hopalong Travel, som skreddersyr pakketurer til USA, deriblant til Yellowstone. Hvorfor burde nordmenn dra dit? Hva venter oss der? Hvor mange geysirer er det der? Hvilken status har det i lokalsamfunnet? Hvordan er dyrelivet? Det er bare noen av sp\u00f8rsm\u00e5lene som blir besvart i denne h\u00f8yst gravende episoden av 198 land.</p><br /><p><br /></p><p>Hvis du skaffer SkyShowtime premium n\u00e5, s\u00e5 f\u00e5r du det for halv pris, for alltid (69 kr i mnd.) Tilbudet gjelder tom. 9. desember.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "2QYHQFPfoQ5rSQD1lfJSFd",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab22b6068fb5e92725aece059",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb22b6068fb5e92725aece059",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db22b6068fb5e92725aece059",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Yellowstone med Kjetil Sveistrup (I samarbeid med SkyShowtime)",
+        "release_date": "2024-11-21",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2QYHQFPfoQ5rSQD1lfJSFd"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Ov2Y47GNAIB8yfLjmir2F/clip_0_60000.mp3",
         "description": "Denne uken g\u00e5r turen til Madagaskar, og vi starter episoden med en grundig, GRUNDIG gjennomgang av historien, f\u00f8r vi g\u00e5r dypere inn i et land med rikt dyreliv, norsk misjonshistorie,likvending og mye, mye mer.Hvis du vil h\u00f8re alt fra 198 land-universet, s\u00e5 finner du landepisoder og alt annet p\u00e5 podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 340192,
