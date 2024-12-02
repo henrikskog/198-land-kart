@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1LIrPUr1eaDyuqP5ihh75G/clip_0_60000.mp3",
+        "description": "Sj\u00f8fareren bestselgende forfatter og stamgjest Erika Fatland tar turen for \u00e5 snakke om sitt bes\u00f8k til Macao, en tidligere portugisisk \u00f8y som har utviklet seg til \u00e5 bli Kinas Las Vegas.Vil du h\u00f8re denne episoden og alle nye landepisoder? Tar turen til podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 545332,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/665XlG6Af8Vb108lCd97bF"
+        },
+        "href": "https://api.spotify.com/v1/episodes/665XlG6Af8Vb108lCd97bF",
+        "html_description": "<p>Sj\u00f8fareren bestselgende forfatter og stamgjest Erika Fatland tar turen for \u00e5 snakke om sitt bes\u00f8k til Macao, en tidligere portugisisk \u00f8y som har utviklet seg til \u00e5 bli Kinas Las Vegas.</p><br /><p>Vil du h\u00f8re denne episoden og alle nye landepisoder? Tar turen til podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "665XlG6Af8Vb108lCd97bF",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7fd8b34040a7d4e85872c4d6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f7fd8b34040a7d4e85872c4d6",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d7fd8b34040a7d4e85872c4d6",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Macao (smakebit)",
+        "release_date": "2024-12-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:665XlG6Af8Vb108lCd97bF"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5tAjbxNRw7MX0w2sCmwySQ/clip_0_60000.mp3",
         "description": "2024 n\u00e6rmer seg slutten, og vi runder snart av 365 konfliktfylte dager. Men hvordan st\u00e5r det egentlig til i verden? Hva skjer i Sudan i dag? Er det fortsatt krise i Jemen? Og er det noe nytt \u00e5 melde mellom Ukraina og Russland? Dette er noen av sp\u00f8rsm\u00e5lene Einar vil f\u00e5 svar p\u00e5, s\u00e5 han sl\u00e5r p\u00e5 tr\u00e5den til fredsforsker Siri Aas Rustad ved PRIO (Peach Research Institute Oslo), som - logisk nok - forsker langt mer p\u00e5 konflikter enn fred. Vil du unng\u00e5 en konfliktfylt jul? Gi bort (eller unn deg) et Podimoabonnent og nyt ALLE landepisodene av 198 land: podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1636806,
