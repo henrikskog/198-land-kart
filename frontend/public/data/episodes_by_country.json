@@ -6599,5 +6599,50 @@
                 "uri": "spotify:episode:5PLhqG08R2vZU7aK30uaC4"
             }
         }
+    ],
+    "MAC": [
+        {
+            "country": "Macao",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1LIrPUr1eaDyuqP5ihh75G/clip_0_60000.mp3",
+                "description": "Sj\u00f8fareren bestselgende forfatter og stamgjest Erika Fatland tar turen for \u00e5 snakke om sitt bes\u00f8k til Macao, en tidligere portugisisk \u00f8y som har utviklet seg til \u00e5 bli Kinas Las Vegas.Vil du h\u00f8re denne episoden og alle nye landepisoder? Tar turen til podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 545332,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/665XlG6Af8Vb108lCd97bF"
+                },
+                "href": "https://api.spotify.com/v1/episodes/665XlG6Af8Vb108lCd97bF",
+                "html_description": "<p>Sj\u00f8fareren bestselgende forfatter og stamgjest Erika Fatland tar turen for \u00e5 snakke om sitt bes\u00f8k til Macao, en tidligere portugisisk \u00f8y som har utviklet seg til \u00e5 bli Kinas Las Vegas.</p><br /><p>Vil du h\u00f8re denne episoden og alle nye landepisoder? Tar turen til podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "665XlG6Af8Vb108lCd97bF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a7fd8b34040a7d4e85872c4d6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f7fd8b34040a7d4e85872c4d6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d7fd8b34040a7d4e85872c4d6",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Macao (smakebit)",
+                "release_date": "2024-12-02",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:665XlG6Af8Vb108lCd97bF"
+            }
+        }
     ]
 }
