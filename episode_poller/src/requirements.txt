@@ -12,5 +12,5 @@ python-dotenv==1.0.1
 requests==2.32.3
 sentry-sdk==2.18.0
 tqdm==4.67.0
-urllib3==2.2.2
+urllib3==2.3.0
 yarl==1.8.2
