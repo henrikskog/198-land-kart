@@ -6689,5 +6689,50 @@
                 "uri": "spotify:episode:4GqIuOhtQJScU66EApKCiN"
             }
         }
+    ],
+    "CUB": [
+        {
+            "country": "Cuba",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7jvEr03S8t6qGXTVeIDB6I/clip_0_60000.mp3",
+                "description": "En ny, deilig, vakker, innholdsrik og sm\u00e5tt pirrende sesong av 198 er i gang, og vi kliner til med sjarmtrollet Cuba!Vil du h\u00f8re alt om Cuba, samt alle de andre eksklusive landepisodene? Da m\u00e5 du pelle deg over til podimo.com/198land s\u00e5 fort som fy!  Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 424672,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1KBqiWb8cxsBlRramV6vcF"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1KBqiWb8cxsBlRramV6vcF",
+                "html_description": "<p>En ny, deilig, vakker, innholdsrik og sm\u00e5tt pirrende sesong av 198 er i gang, og vi kliner til med sjarmtrollet Cuba!</p><br /><p>Vil du h\u00f8re alt om Cuba, samt alle de andre eksklusive landepisodene? Da m\u00e5 du pelle deg over til podimo.com/198land s\u00e5 fort som fy! </p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "1KBqiWb8cxsBlRramV6vcF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aaf5b5a09124c9d3da1006c56",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1faf5b5a09124c9d3da1006c56",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68daf5b5a09124c9d3da1006c56",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Cuba (smakebit)",
+                "release_date": "2025-02-03",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1KBqiWb8cxsBlRramV6vcF"
+            }
+        }
     ]
 }
