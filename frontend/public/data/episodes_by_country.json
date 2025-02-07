@@ -4695,6 +4695,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:6wTFMHT7NG1zhWwgE3sszX"
             }
+        },
+        {
+            "country": "Democratic Republic of the Congo",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4eU2bc4wbHkLmAkZicJSLi/clip_0_60000.mp3",
+                "description": "De siste to ukene har v\u00e6rt forferdelige for befolkningen Goma, en by p\u00e5 \u00f8stsiden av Kongo, p\u00e5 grensen til Rwanda. Over 900 mennesker blitt drept, langt flere s\u00e5ret, bygninger har blitt \u00f8delagt, flyplasser har blitt kapret, og det er rett og slett fryktelige bilder. Midt oppi dette kaoset er NRKs afrikaskorrespondent Vegard Tj\u00f8rhom, som har tilbrakt de siste fem dagene i Goma. Vi sl\u00e5r p\u00e5 tr\u00e5den til det vi i en halvtimes tid anser som 198 lands Afrikakorrespondent og l\u00e6rer mer om oppr\u00f8rsgruppen M23, historien mellom Kongo og Rwanda og den omdiskuterte Rwanda-avtalen som FRP trakk frem i media.Hvis du er p\u00e5 utkikk etter nye landepisoder, s\u00e5 finner du de eksklusivt hos podimo.com/198land.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 2371526,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6u9M5za7jZLricTSB4bBco"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6u9M5za7jZLricTSB4bBco",
+                "html_description": "<p>De siste to ukene har v\u00e6rt forferdelige for befolkningen Goma, en by p\u00e5 \u00f8stsiden av Kongo, p\u00e5 grensen til Rwanda. Over 900 mennesker blitt drept, langt flere s\u00e5ret, bygninger har blitt \u00f8delagt, flyplasser har blitt kapret, og det er rett og slett fryktelige bilder. Midt oppi dette kaoset er NRKs afrikaskorrespondent Vegard Tj\u00f8rhom, som har tilbrakt de siste fem dagene i Goma. Vi sl\u00e5r p\u00e5 tr\u00e5den til det vi i en halvtimes tid anser som 198 lands Afrikakorrespondent og l\u00e6rer mer om oppr\u00f8rsgruppen M23, historien mellom Kongo og Rwanda og den omdiskuterte Rwanda-avtalen som FRP trakk frem i media.</p><br /><p><br /></p><p>Hvis du er p\u00e5 utkikk etter nye landepisoder, s\u00e5 finner du de eksklusivt hos podimo.com/198land.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "6u9M5za7jZLricTSB4bBco",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: DIREKTE fra slagmarken i Goma med Vegard Tj\u00f8rhom",
+                "release_date": "2025-02-06",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6u9M5za7jZLricTSB4bBco"
+            }
         }
     ],
     "MHL": [
