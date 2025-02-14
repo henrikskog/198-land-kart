@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/50Lmun5kYatjondMTlfNqp/clip_0_60000.mp3",
+        "description": "FN er en organisasjon de flest av oss har h\u00f8rt om, men som f\u00e5 vet veldig mye om. Hva er FNs betydning i dagens samfunn, som blir stadig mer aggressiv og splittet i kommunikasjonen med hverandre? Hvorfor er det kun 193 land med? Har FN behov for modernisering, eller har det utspilt sin rolle? Eller FN viktigere enn noen gang? Og, ikke minst: \u00c5ssen \u00e6rre p\u00e5 et vanlig FN-m\u00f8te, a? Dette, og mye mer, blir gledelig besvart av generalsekret\u00e6r i FN-sambandet Catharina Bu, en norsk uavhengig interesseorganiasjon som jobber med \u00e5 \u00f8ke kunnskap og bevissthet om disse temaene til skoler og medier generelt.Er du gira p\u00e5 nye landepisoder av 198 land? Da m\u00e5 du pelle deg rett over til podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 3110060,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/581zlxos69IWpawActtO7H"
+        },
+        "href": "https://api.spotify.com/v1/episodes/581zlxos69IWpawActtO7H",
+        "html_description": "<p>FN er en organisasjon de flest av oss har h\u00f8rt om, men som f\u00e5 vet veldig mye om. Hva er FNs betydning i dagens samfunn, som blir stadig mer aggressiv og splittet i kommunikasjonen med hverandre? Hvorfor er det kun 193 land med? Har FN behov for modernisering, eller har det utspilt sin rolle? Eller FN viktigere enn noen gang? Og, ikke minst: \u00c5ssen \u00e6rre p\u00e5 et vanlig FN-m\u00f8te, a? Dette, og mye mer, blir gledelig besvart av generalsekret\u00e6r i FN-sambandet Catharina Bu, en norsk uavhengig interesseorganiasjon som jobber med \u00e5 \u00f8ke kunnskap og bevissthet om disse temaene til skoler og medier generelt.</p><br /><p><br /></p><p>Er du gira p\u00e5 nye landepisoder av 198 land? Da m\u00e5 du pelle deg rett over til podimo.com/198land</p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "581zlxos69IWpawActtO7H",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Hva er FN og FN-sambandet? med generalsekret\u00e6r Catharina Bu",
+        "release_date": "2025-02-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:581zlxos69IWpawActtO7H"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4eU2bc4wbHkLmAkZicJSLi/clip_0_60000.mp3",
         "description": "De siste to ukene har v\u00e6rt forferdelige for befolkningen Goma, en by p\u00e5 \u00f8stsiden av Kongo, p\u00e5 grensen til Rwanda. Over 900 mennesker blitt drept, langt flere s\u00e5ret, bygninger har blitt \u00f8delagt, flyplasser har blitt kapret, og det er rett og slett fryktelige bilder. Midt oppi dette kaoset er NRKs afrikaskorrespondent Vegard Tj\u00f8rhom, som har tilbrakt de siste fem dagene i Goma. Vi sl\u00e5r p\u00e5 tr\u00e5den til det vi i en halvtimes tid anser som 198 lands Afrikakorrespondent og l\u00e6rer mer om oppr\u00f8rsgruppen M23, historien mellom Kongo og Rwanda og den omdiskuterte Rwanda-avtalen som FRP trakk frem i media.Hvis du er p\u00e5 utkikk etter nye landepisoder, s\u00e5 finner du de eksklusivt hos podimo.com/198land.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2371526,
