@@ -5264,6 +5264,49 @@
                 "type": "episode",
                 "uri": "spotify:episode:5EOgXwzUZjZFtLcRiQEFsG"
             }
+        },
+        {
+            "country": "Sweden",
+            "ep": {
+                "audio_preview_url": null,
+                "description": "Denne uken g\u00e5r turen til Sverige, v\u00e5r s\u00f6ta bror som vi deler det meste av v\u00e5r eldre historie med!Hvis du vil h\u00f8re episodene om Sverige, samt alle de nye landepisodene, s\u00e5 finner du de eksklusivt hos Podimo: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 593371,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0t7WvCTR7unIESc6Mwtxas"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0t7WvCTR7unIESc6Mwtxas",
+                "html_description": "<p>Denne uken g\u00e5r turen til Sverige, v\u00e5r s\u00f6ta bror som vi deler det meste av v\u00e5r eldre historie med!</p><br /><p>Hvis du vil h\u00f8re episodene om Sverige, samt alle de nye landepisodene, s\u00e5 finner du de eksklusivt hos Podimo: podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "0t7WvCTR7unIESc6Mwtxas",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a073272af154365b331cc103a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f073272af154365b331cc103a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d073272af154365b331cc103a",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Sverige (smakebit)",
+                "release_date": "2025-02-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0t7WvCTR7unIESc6Mwtxas"
+            }
         }
     ],
     "VEN": [
