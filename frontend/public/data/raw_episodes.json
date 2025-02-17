@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": null,
+        "description": "Denne uken g\u00e5r turen til Sverige, v\u00e5r s\u00f6ta bror som vi deler det meste av v\u00e5r eldre historie med!Hvis du vil h\u00f8re episodene om Sverige, samt alle de nye landepisodene, s\u00e5 finner du de eksklusivt hos Podimo: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 593371,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/0t7WvCTR7unIESc6Mwtxas"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0t7WvCTR7unIESc6Mwtxas",
+        "html_description": "<p>Denne uken g\u00e5r turen til Sverige, v\u00e5r s\u00f6ta bror som vi deler det meste av v\u00e5r eldre historie med!</p><br /><p>Hvis du vil h\u00f8re episodene om Sverige, samt alle de nye landepisodene, s\u00e5 finner du de eksklusivt hos Podimo: podimo.com/198land</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "0t7WvCTR7unIESc6Mwtxas",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a073272af154365b331cc103a",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f073272af154365b331cc103a",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d073272af154365b331cc103a",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Sverige (smakebit)",
+        "release_date": "2025-02-17",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0t7WvCTR7unIESc6Mwtxas"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/50Lmun5kYatjondMTlfNqp/clip_0_60000.mp3",
         "description": "FN er en organisasjon de flest av oss har h\u00f8rt om, men som f\u00e5 vet veldig mye om. Hva er FNs betydning i dagens samfunn, som blir stadig mer aggressiv og splittet i kommunikasjonen med hverandre? Hvorfor er det kun 193 land med? Har FN behov for modernisering, eller har det utspilt sin rolle? Eller FN viktigere enn noen gang? Og, ikke minst: \u00c5ssen \u00e6rre p\u00e5 et vanlig FN-m\u00f8te, a? Dette, og mye mer, blir gledelig besvart av generalsekret\u00e6r i FN-sambandet Catharina Bu, en norsk uavhengig interesseorganiasjon som jobber med \u00e5 \u00f8ke kunnskap og bevissthet om disse temaene til skoler og medier generelt.Er du gira p\u00e5 nye landepisoder av 198 land? Da m\u00e5 du pelle deg rett over til podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 3110060,
