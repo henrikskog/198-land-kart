@@ -1,6 +1,46 @@
 [
     {
         "audio_preview_url": null,
+        "description": "Vinterferien er i anmarsj, i gang, har v\u00e6rt eller har aldri eksistert, avhengig av din geografiske plassering og livsstuasjon. Nuvel: Vi tillater oss et lite gjenh\u00f8r med reisetipsene til Gunnar Garfors fra i fjor, som b\u00f8r v\u00e6re relevante i \u00e5r og. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1374693,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/27X52E5YZqf2kQw6Le2iEb"
+        },
+        "href": "https://api.spotify.com/v1/episodes/27X52E5YZqf2kQw6Le2iEb",
+        "html_description": "<p>Vinterferien er i anmarsj, i gang, har v\u00e6rt eller har aldri eksistert, avhengig av din geografiske plassering og livsstuasjon. Nuvel: Vi tillater oss et lite gjenh\u00f8r med reisetipsene til Gunnar Garfors fra i fjor, som b\u00f8r v\u00e6re relevante i \u00e5r og. </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "27X52E5YZqf2kQw6Le2iEb",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Reisetips i vinterferien med Gunnar Garfors (gjenh\u00f8r 2024)",
+        "release_date": "2025-02-20",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:27X52E5YZqf2kQw6Le2iEb"
+    },
+    {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5w19msNturcH7tYKa3trOV/clip_0_60000.mp3",
         "description": "Denne uken g\u00e5r turen til Sverige, v\u00e5r s\u00f6ta bror som vi deler det meste av v\u00e5r eldre historie med!Hvis du vil h\u00f8re episodene om Sverige, samt alle de nye landepisodene, s\u00e5 finner du de eksklusivt hos Podimo: podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 593371,
         "explicit": false,
