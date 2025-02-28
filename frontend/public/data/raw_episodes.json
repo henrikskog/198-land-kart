@@ -1,6 +1,46 @@
 [
     {
-        "audio_preview_url": null,
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2lGUSUZoG6oYMHuhE02LOT/clip_0_60000.mp3",
+        "description": "Et lite strekk fra dobbeltepisodene om Cuba falt p\u00e5 klippegulvet, men viste overlevelsesinstinkt av de sjeldne, og gjenoppstod som en temaepisode. Her g\u00e5r vi dypere inn i hvordan det oppleves \u00e5 leve i en kommuniststat, som overv\u00e5ker alle trekk du gj\u00f8r.Hvis du vil h\u00f8re de to episodene om Cuba med postdoktor, forfatter og tidligere cubansk taxisj\u00e5f\u00f8r St\u00e5le Wig,s\u00e5 finner du de eksklusivt hos podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1276708,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5cUPl5oKEPbARJ3AQly0U5"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5cUPl5oKEPbARJ3AQly0U5",
+        "html_description": "<p>Et lite strekk fra dobbeltepisodene om Cuba falt p\u00e5 klippegulvet, men viste overlevelsesinstinkt av de sjeldne, og gjenoppstod som en temaepisode. Her g\u00e5r vi dypere inn i hvordan det oppleves \u00e5 leve i en kommuniststat, som overv\u00e5ker alle trekk du gj\u00f8r.</p><br /><p>Hvis du vil h\u00f8re de to episodene om Cuba med postdoktor, forfatter og tidligere cubansk taxisj\u00e5f\u00f8r St\u00e5le Wig,s\u00e5 finner du de eksklusivt hos podimo.com/198land</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p><br /></p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5cUPl5oKEPbARJ3AQly0U5",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Overv\u00e5kningssamfunnet i Cuba med St\u00e5le Wig",
+        "release_date": "2025-02-27",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5cUPl5oKEPbARJ3AQly0U5"
+    },
+    {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0D2ZLPSUMAn0JGjS57jX8E/clip_0_60000.mp3",
         "description": "Vinterferien er i anmarsj, i gang, har v\u00e6rt eller har aldri eksistert, avhengig av din geografiske plassering og livsstuasjon. Nuvel: Vi tillater oss et lite gjenh\u00f8r med reisetipsene til Gunnar Garfors fra i fjor, som b\u00f8r v\u00e6re relevante i \u00e5r og. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1374693,
         "explicit": false,
