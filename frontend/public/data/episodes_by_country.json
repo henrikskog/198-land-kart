@@ -6863,5 +6863,50 @@
                 "uri": "spotify:episode:5cUPl5oKEPbARJ3AQly0U5"
             }
         }
+    ],
+    "AFG": [
+        {
+            "country": "Afghanistan",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/61dNi0b6impuA3C2pUOB9x/clip_0_60000.mp3",
+                "description": "I desember 2014 (basically 2015) dro det norske rockebandet Honningbarna ned og spilte inn musikkvideo i Kabul, rett etter at den omdiskuterte Istanbulprosessen fant sted. Hvis du ikke har bodd under en stein, s\u00e5 har det skjedd litt og hvert i Afghanistan siden da, s\u00e5 vokalist Edvard Valberg kommer inn i studio for \u00e5 fortelle om hvordan det var for en gjeng med nordmenn \u00e5 spille inn musikkvideo i Kabul, hvordan det var der, stemningen, og forskjellen mellom opplevelsen da og Kabul anno 2025. Det blir ogs\u00e5 litt preik om en tur til Kirgisistan, \u00f8konomien i norsk rock og andre digresjoner. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 2191177,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2Pwj47bfCVDikw1YKKut1L"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2Pwj47bfCVDikw1YKKut1L",
+                "html_description": "<p>I desember 2014 (basically 2015) dro det norske rockebandet Honningbarna ned og spilte inn musikkvideo i Kabul, rett etter at den omdiskuterte Istanbulprosessen fant sted. Hvis du ikke har bodd under en stein, s\u00e5 har det skjedd litt og hvert i Afghanistan siden da, s\u00e5 vokalist Edvard Valberg kommer inn i studio for \u00e5 fortelle om hvordan det var for en gjeng med nordmenn \u00e5 spille inn musikkvideo i Kabul, hvordan det var der, stemningen, og forskjellen mellom opplevelsen da og Kabul anno 2025. Det blir ogs\u00e5 litt preik om en tur til Kirgisistan, \u00f8konomien i norsk rock og andre digresjoner. </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "2Pwj47bfCVDikw1YKKut1L",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: Honningbarna i Afghanistan med Edvard Valberg",
+                "release_date": "2025-03-06",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2Pwj47bfCVDikw1YKKut1L"
+            }
+        }
     ]
 }
