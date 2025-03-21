@@ -6953,5 +6953,50 @@
                 "uri": "spotify:episode:4UQtLMKF3XQt6nag6bxanK"
             }
         }
+    ],
+    "GRC": [
+        {
+            "country": "Greece",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/721ZgMVsWzP8LcL59Nz2Dm/clip_0_60000.mp3",
+                "description": "Fedon Lindberg b\u00f8r v\u00e6re et navn nordmenn flest kjenner til, i likhet med hans greske opphav. Det de derimot ikke vet, er at han faktisk bor store deler av \u00e5ret nede i Athen, som er i Hellas (noe du virkelig B\u00d8R vite hvis du er interessert i denne podkasten, no offense), et land vi enda ikke har bes\u00f8kt i 198 land. Dermed utnytter Einar denne muligheten til \u00e5 pr\u00f8vesmake en \"\u00e5ssen \u00e6rre der a?\" med Fedon i Athen. Bon app\u00e9tit! Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 2057742,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/32lSVTQPRLpYQ6wryop1ze"
+                },
+                "href": "https://api.spotify.com/v1/episodes/32lSVTQPRLpYQ6wryop1ze",
+                "html_description": "<p>Fedon Lindberg b\u00f8r v\u00e6re et navn nordmenn flest kjenner til, i likhet med hans greske opphav. Det de derimot ikke vet, er at han faktisk bor store deler av \u00e5ret nede i Athen, som er i Hellas (noe du virkelig B\u00d8R vite hvis du er interessert i denne podkasten, no offense), et land vi enda ikke har bes\u00f8kt i 198 land. Dermed utnytter Einar denne muligheten til \u00e5 pr\u00f8vesmake en &#34;\u00e5ssen \u00e6rre der a?&#34; med Fedon i Athen. Bon app\u00e9tit! </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><br /><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "32lSVTQPRLpYQ6wryop1ze",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: \u00c5ssen \u00e6rre i Athen, a? med Fedon Lindberg",
+                "release_date": "2025-03-20",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:32lSVTQPRLpYQ6wryop1ze"
+            }
+        }
     ]
 }
