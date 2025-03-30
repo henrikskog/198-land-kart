@@ -19,7 +19,7 @@ importers:
         version: 5.6.3
       zod:
         specifier: ^3.23.8
-        version: 3.23.8
+        version: 3.24.2
     devDependencies:
       '@types/leaflet':
         specifier: ^1.9.14
@@ -808,8 +808,8 @@ packages:
       yaml:
         optional: true
 
-  zod@3.23.8:
-    resolution: {integrity: sha512-XBx9AXhXktjUqnepgTiE5flcKIYWi/rme0Eaj+5Y0lftuGBq+jyRu/md4WnuxqgP1ubdpNCsYEYPxrzVHD8d6g==}
+  zod@3.24.2:
+    resolution: {integrity: sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==}
 
 snapshots:
 
@@ -1997,4 +1997,4 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  zod@3.23.8: {}
+  zod@3.24.2: {}
