@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3fNDN9rYJ2bSM4709jQTHQ/clip_0_60000.mp3",
+        "description": "Trump struper det meste av bistanden til USAID, men hva er USAID, og hvor viktig er det? Vil det p\u00e5virke bistanden ellers i verden, og hvordan ser det ut? For \u00e5 besvare alle de vanskelige sp\u00f8rsm\u00e5lene har Einar tilkalt Hans Jacob Huun Thomsen, som jobber med bistand og utvikling i tankesmien Civita, til \u00e5 se litt n\u00e6rmere p\u00e5 hva disse endringene vil ha \u00e5 si for oss alle - inkl. oss her til lands.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1588897,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/48sUuyngKYtXIZsDsY182i"
+        },
+        "href": "https://api.spotify.com/v1/episodes/48sUuyngKYtXIZsDsY182i",
+        "html_description": "<p>Trump struper det meste av bistanden til USAID, men hva er USAID, og hvor viktig er det? Vil det p\u00e5virke bistanden ellers i verden, og hvordan ser det ut? For \u00e5 besvare alle de vanskelige sp\u00f8rsm\u00e5lene har Einar tilkalt Hans Jacob Huun Thomsen, som jobber med bistand og utvikling i tankesmien Civita, til \u00e5 se litt n\u00e6rmere p\u00e5 hva disse endringene vil ha \u00e5 si for oss alle - inkl. oss her til lands.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p><br /></p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "48sUuyngKYtXIZsDsY182i",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: USAID og bistandskutt med Hans Jacob Huun Thomsen",
+        "release_date": "2025-04-10",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:48sUuyngKYtXIZsDsY182i"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3aa4qx1j6GHv2hEG8vOZ88/clip_0_60000.mp3",
         "description": "198 land har lagd ikke en, ikke to, men hele tre episoder om Sverige. I den siste kommer Bettan inn og forteller om \u00e5ssen det er der, og det ble s\u00e5 tettpakket med info at noe ble klippet vekk, og har dermed f\u00e5tt nytt liv her. Her diskuterer hun forskjellen mellom friluftsliv i Norge og Sverige, samt litt snakk om flotte bygninger. Vil du h\u00f8re om mat, midsommar, surstr\u00f6mming, kultur, musikk, mote, dialekter og mye, mye, MYE mer, s\u00e5 m\u00e5 du stikke til podimo.com/198land nu. KJ\u00d6R!Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1087033,
