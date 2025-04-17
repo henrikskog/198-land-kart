@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6bwypLWOr5ctu5rrT7pgl6/clip_0_60000.mp3",
+        "description": "Einar har tatt p\u00e5skeferie, men ikke uten \u00e5 gi et lite p\u00e5skeegg av en godbit til dere. Og med det mener man selvsagt at man tar alt det gamle, t\u00f8rre, lengst forbi \"best f\u00f8r\"-dato godteriet man har i skapet p\u00e5 hytta og t\u00f8mmer det i egget, og vipps, s\u00e5 har man et splitter nytt p\u00e5skeegg i \u00e5r og. Nyt kavalkaden med J\u00d8SS fra Nederland, Montenegro, Kasakhstan, Brasil og Qatar. Sjekk gjerne ut noen nye landepisoder p\u00e5 podimo.com/198land mens du er i gang, s\u00e5 sees vi p\u00e5 andre siden av h\u00f8ytiden. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 2183653,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3eOskIZYRAhjPgHT08LwaP"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3eOskIZYRAhjPgHT08LwaP",
+        "html_description": "<p>Einar har tatt p\u00e5skeferie, men ikke uten \u00e5 gi et lite p\u00e5skeegg av en godbit til dere. Og med det mener man selvsagt at man tar alt det gamle, t\u00f8rre, lengst forbi &#34;best f\u00f8r&#34;-dato godteriet man har i skapet p\u00e5 hytta og t\u00f8mmer det i egget, og vipps, s\u00e5 har man et splitter nytt p\u00e5skeegg i \u00e5r og. Nyt kavalkaden med J\u00d8SS fra Nederland, Montenegro, Kasakhstan, Brasil og Qatar. Sjekk gjerne ut noen nye landepisoder p\u00e5 podimo.com/198land mens du er i gang, s\u00e5 sees vi p\u00e5 andre siden av h\u00f8ytiden. </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3eOskIZYRAhjPgHT08LwaP",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: J\u00d8SS-bonanza IV",
+        "release_date": "2025-04-17",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3eOskIZYRAhjPgHT08LwaP"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3fNDN9rYJ2bSM4709jQTHQ/clip_0_60000.mp3",
         "description": "Trump struper det meste av bistanden til USAID, men hva er USAID, og hvor viktig er det? Vil det p\u00e5virke bistanden ellers i verden, og hvordan ser det ut? For \u00e5 besvare alle de vanskelige sp\u00f8rsm\u00e5lene har Einar tilkalt Hans Jacob Huun Thomsen, som jobber med bistand og utvikling i tankesmien Civita, til \u00e5 se litt n\u00e6rmere p\u00e5 hva disse endringene vil ha \u00e5 si for oss alle - inkl. oss her til lands.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1588897,
