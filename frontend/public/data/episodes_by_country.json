@@ -7084,5 +7084,50 @@
                 "uri": "spotify:episode:32lSVTQPRLpYQ6wryop1ze"
             }
         }
+    ],
+    "TUR": [
+        {
+            "country": "Turkey",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2LY6EvCqe3ybsxg8RXKWaz/clip_0_60000.mp3",
+                "description": "Ekrem \u0130mamo\u011flu er borgermesteren i Istanbul, og en popul\u00e6r kandidat til \u00e5 kunne utfordre Tyrkias president slash enehersker Recep Tayyip Erdo\u011fan. Forrige m\u00e5ned ble f\u00f8rstnevnte fengslet (sannsynligvis takket v\u00e6re sistnevnte) og fratatt universitetsgraden sin, som han avla for 31 \u00e5r siden. Hva i alle dager er det som skjer? Hvordan dekkes dette i tyrkisk presse? Hva synes folk flest om dette? Hvordan kommer dette til \u00e5 utvikle seg? Hm, hadde vi bare hatt en egen Istanbulreporter her i 198 land-konsernet... HVILKET VI HAR! N\u00e5v\u00e6rende Venstrepolitiker (og tidligere 198 land-gjest) Ane Breivik befinner seg midt i stormens \u00f8ye i Istanbul, og forteller oss hva, hvordan, hvorfor, hvem og hvilke. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1549635,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/3oAA2SvwvlAdQBHpbZOtIo"
+                },
+                "href": "https://api.spotify.com/v1/episodes/3oAA2SvwvlAdQBHpbZOtIo",
+                "html_description": "<p>Ekrem \u0130mamo\u011flu er borgermesteren i Istanbul, og en popul\u00e6r kandidat til \u00e5 kunne utfordre Tyrkias president slash enehersker Recep Tayyip Erdo\u011fan. Forrige m\u00e5ned ble f\u00f8rstnevnte fengslet (sannsynligvis takket v\u00e6re sistnevnte) og fratatt universitetsgraden sin, som han avla for 31 \u00e5r siden. Hva i alle dager er det som skjer? Hvordan dekkes dette i tyrkisk presse? Hva synes folk flest om dette? Hvordan kommer dette til \u00e5 utvikle seg? Hm, hadde vi bare hatt en egen Istanbulreporter her i 198 land-konsernet... HVILKET VI HAR! N\u00e5v\u00e6rende Venstrepolitiker (og tidligere 198 land-gjest) Ane Breivik befinner seg midt i stormens \u00f8ye i Istanbul, og forteller oss hva, hvordan, hvorfor, hvem og hvilke. </p><br /><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "3oAA2SvwvlAdQBHpbZOtIo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: Borgermesterkaos i Istanbul med Ane Breivik",
+                "release_date": "2025-04-24",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:3oAA2SvwvlAdQBHpbZOtIo"
+            }
+        }
     ]
 }
