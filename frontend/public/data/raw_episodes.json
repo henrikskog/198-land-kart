@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7F13x2PVz9Wo4vWqvyNw3K/clip_0_60000.mp3",
+        "description": "Med hjertet utenp\u00e5 drakta\u00a0gir deg historier fra kjente gjester om deres forhold til drakta og laget sitt.I f\u00f8rste episode snakker Einar T\u00f8rnquist med Erik Solbakken om hans kj\u00e6re Aston Villa.Podkasten er laget i samarbeid med Barnekreftforeningen i anledning Fotballtr\u00f8yeFredag 9.mai.Denne dagen viser vi st\u00f8tte til barn og unge med kreft og samler inn midler til livsviktig forskning.Vipps til 4422 og bli med p\u00e5 laget, tusen takk for st\u00f8tten!Flere episoder av Med hjertet utenp\u00e5 drakta finner alle steder der du h\u00f8rer podkast. Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 2146560,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/44fQDqnqd72y6SJalDQAyh"
+        },
+        "href": "https://api.spotify.com/v1/episodes/44fQDqnqd72y6SJalDQAyh",
+        "html_description": "<p>Med hjertet utenp\u00e5 drakta\u00a0gir deg historier fra kjente gjester om deres forhold til drakta og laget sitt.</p><p>I f\u00f8rste episode snakker Einar T\u00f8rnquist med Erik Solbakken om hans kj\u00e6re Aston Villa.</p><br /><p>Podkasten er laget i samarbeid med Barnekreftforeningen i anledning Fotballtr\u00f8yeFredag 9.mai.</p><p>Denne dagen viser vi st\u00f8tte til barn og unge med kreft og samler inn midler til livsviktig forskning.</p><p>Vipps til 4422 og bli med p\u00e5 laget, tusen takk for st\u00f8tten!</p><br /><p>Flere episoder av Med hjertet utenp\u00e5 drakta finner alle steder der du h\u00f8rer podkast.</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "44fQDqnqd72y6SJalDQAyh",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a518716df9047ad136aaa4c78",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f518716df9047ad136aaa4c78",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d518716df9047ad136aaa4c78",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "NY PODKAST: Med hjertet utenp\u00e5 drakta",
+        "release_date": "2025-04-29",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:44fQDqnqd72y6SJalDQAyh"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2LY6EvCqe3ybsxg8RXKWaz/clip_0_60000.mp3",
         "description": "Ekrem \u0130mamo\u011flu er borgermesteren i Istanbul, og en popul\u00e6r kandidat til \u00e5 kunne utfordre Tyrkias president slash enehersker Recep Tayyip Erdo\u011fan. Forrige m\u00e5ned ble f\u00f8rstnevnte fengslet (sannsynligvis takket v\u00e6re sistnevnte) og fratatt universitetsgraden sin, som han avla for 31 \u00e5r siden. Hva i alle dager er det som skjer? Hvordan dekkes dette i tyrkisk presse? Hva synes folk flest om dette? Hvordan kommer dette til \u00e5 utvikle seg? Hm, hadde vi bare hatt en egen Istanbulreporter her i 198 land-konsernet... HVILKET VI HAR! N\u00e5v\u00e6rende Venstrepolitiker (og tidligere 198 land-gjest) Ane Breivik befinner seg midt i stormens \u00f8ye i Istanbul, og forteller oss hva, hvordan, hvorfor, hvem og hvilke. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1549635,
