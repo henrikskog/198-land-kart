@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2J5XtnzwhBu9s9SoaI69Hm/clip_0_60000.mp3",
+        "description": "Einar skal ta turen ned til K\u00f8benhavn for \u00e5 bes\u00f8ke en egyptolog, og spille inn et par episoder om den laaaaaaaaaange gamle historien til Egypt. I den anledning vil han s\u00f8rge for at alle sp\u00f8rsm\u00e5l blir stilt, og sl\u00e5r p\u00e5 tr\u00e5den til den personen han kjenner som er mest opptatt av faraoer, Kleopatra, pyramidene og alt det derre der: Mediepersonlighet Annika Momrak.Hvis du vil h\u00f8re svaret p\u00e5 alle sp\u00f8rsm\u00e5lene, samt dypdykke ned i triologien om Egypt, s\u00e5 b\u00f8r du pelle deg inn til podimo.com/198land og pr\u00f8ve gratis i 30 dager. Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1017364,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/2UHaJIOn7yVSAYWgLCFsJW"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2UHaJIOn7yVSAYWgLCFsJW",
+        "html_description": "<p>Einar skal ta turen ned til K\u00f8benhavn for \u00e5 bes\u00f8ke en egyptolog, og spille inn et par episoder om den laaaaaaaaaange gamle historien til Egypt. I den anledning vil han s\u00f8rge for at alle sp\u00f8rsm\u00e5l blir stilt, og sl\u00e5r p\u00e5 tr\u00e5den til den personen han kjenner som er mest opptatt av faraoer, Kleopatra, pyramidene og alt det derre der: Mediepersonlighet Annika Momrak.</p><br /><p>Hvis du vil h\u00f8re svaret p\u00e5 alle sp\u00f8rsm\u00e5lene, samt dypdykke ned i triologien om Egypt, s\u00e5 b\u00f8r du pelle deg inn til podimo.com/198land og pr\u00f8ve gratis i 30 dager. </p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "2UHaJIOn7yVSAYWgLCFsJW",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Egypts mysterier med Annika Momrak",
+        "release_date": "2025-05-01",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2UHaJIOn7yVSAYWgLCFsJW"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7F13x2PVz9Wo4vWqvyNw3K/clip_0_60000.mp3",
         "description": "Med hjertet utenp\u00e5 drakta\u00a0gir deg historier fra kjente gjester om deres forhold til drakta og laget sitt.I f\u00f8rste episode snakker Einar T\u00f8rnquist med Erik Solbakken om hans kj\u00e6re Aston Villa.Podkasten er laget i samarbeid med Barnekreftforeningen i anledning Fotballtr\u00f8yeFredag 9.mai.Denne dagen viser vi st\u00f8tte til barn og unge med kreft og samler inn midler til livsviktig forskning.Vipps til 4422 og bli med p\u00e5 laget, tusen takk for st\u00f8tten!Flere episoder av Med hjertet utenp\u00e5 drakta finner alle steder der du h\u00f8rer podkast. Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2146560,
