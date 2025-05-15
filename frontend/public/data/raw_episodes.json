@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4qaxCLkuZepj8IY9Y5mcBp/clip_0_60000.mp3",
+        "description": "V\u00e5r flunkende nye utviklingminister \u00c5smund Aukrust har v\u00e6rt i Ghana p\u00e5 jobbtur, og forteller om hvordan Norge bygger internasjonale relasjoner, hvordan han kommer seg rundt i hverdagen og leverer SJOKKERENDE nyheter om sin slipskompetanse.Keen p\u00e5 nye landepisoder? Frem til (og inkludert) 17. mai kan du, ja, du, pr\u00f8ve Podimo gratis i 60 - SEKSTI - dager p\u00e5 podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1733015,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/0oIz6o391wHrqKVD8OMm61"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0oIz6o391wHrqKVD8OMm61",
+        "html_description": "<p>V\u00e5r flunkende nye utviklingminister \u00c5smund Aukrust har v\u00e6rt i Ghana p\u00e5 jobbtur, og forteller om hvordan Norge bygger internasjonale relasjoner, hvordan han kommer seg rundt i hverdagen og leverer SJOKKERENDE nyheter om sin slipskompetanse.</p><br /><p>Keen p\u00e5 nye landepisoder? Frem til (og inkludert) 17. mai kan du, ja, du, pr\u00f8ve Podimo gratis i 60 - SEKSTI - dager p\u00e5 podimo.com/198land</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "0oIz6o391wHrqKVD8OMm61",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Oppdatering fra Ghana med utviklingsminister \u00c5smund Aukrust",
+        "release_date": "2025-05-15",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0oIz6o391wHrqKVD8OMm61"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1OTk1QYSEHfPHE9HnqoNYa/clip_0_60000.mp3",
         "description": "Med tanke p\u00e5 hvor koko det politiske landskapet i Brasil er, s\u00e5 dekkes det overraskende lite i norsk media. Heldigvis har vi tidligere Brasilgjest Torkjell Leira lett tilgjengelig, som forteller Einar - og dere - alt som foreg\u00e5r med Sirkus Bolsonaro. N\u00f8kkelord: Planlagte attentater, statskupp, kongresstorminger, demokratisk utvikling og, ikke minst, et par lettbeinte reisetips s\u00e5nn helt p\u00e5 tampen.Keen p\u00e5 nye landepisoder? Fra 12. tom. 17. mai kan du, ja, du, pr\u00f8ve Podimo gratis i 60 - SEKSTI - dager p\u00e5 podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2366145,
