@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6MP8GLjB1ZUP5k0BaORoic/clip_0_60000.mp3",
+        "description": "Salomon\u00f8yene er kanskje innspillingen som scorer h\u00f8yest p\u00e5 lengst lengde i forhold til land i podkastens historie, s\u00e5 her er noe som ikke overlevde klippen, men som kan v\u00e6re interessant for deg som lytter: Lingvist Anders Vaa forteller om pidginspr\u00e5ket, som snakkes i langt flere land enn Salomon\u00f8yene, i tillegg til \u00e5 fortelle om de lokale r\u00f8de fj\u00e6rpengene.Hvis dette faller i smak, s\u00e5 finnes det to stappfulle episoder som Salomon\u00f8yene - i tillegg til mange andre nye landepisoder - hos podimo.com/198land Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1561025,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/2z1zn9OA4JcMpoAcw6yqdu"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2z1zn9OA4JcMpoAcw6yqdu",
+        "html_description": "<p>Salomon\u00f8yene er kanskje innspillingen som scorer h\u00f8yest p\u00e5 lengst lengde i forhold til land i podkastens historie, s\u00e5 her er noe som ikke overlevde klippen, men som kan v\u00e6re interessant for deg som lytter: Lingvist Anders Vaa forteller om pidginspr\u00e5ket, som snakkes i langt flere land enn Salomon\u00f8yene, i tillegg til \u00e5 fortelle om de lokale r\u00f8de fj\u00e6rpengene.</p><br /><p>Hvis dette faller i smak, s\u00e5 finnes det to stappfulle episoder som Salomon\u00f8yene - i tillegg til mange andre nye landepisoder - hos podimo.com/198land</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "2z1zn9OA4JcMpoAcw6yqdu",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: Pidgin og r\u00f8de fj\u00e6rpenger med Anders Vaa",
+        "release_date": "2025-05-22",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2z1zn9OA4JcMpoAcw6yqdu"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4qaxCLkuZepj8IY9Y5mcBp/clip_0_60000.mp3",
         "description": "V\u00e5r flunkende nye utviklingminister \u00c5smund Aukrust har v\u00e6rt i Ghana p\u00e5 jobbtur, og forteller om hvordan Norge bygger internasjonale relasjoner, hvordan han kommer seg rundt i hverdagen og leverer SJOKKERENDE nyheter om sin slipskompetanse.Keen p\u00e5 nye landepisoder? Frem til (og inkludert) 17. mai kan du, ja, du, pr\u00f8ve Podimo gratis i 60 - SEKSTI - dager p\u00e5 podimo.com/198landProdusert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 1733015,
@@ -33,7 +73,7 @@
         "languages": [
             "no"
         ],
-        "name": "Oppdatering fra Ghana med utviklingsminister \u00c5smund Aukrust",
+        "name": "Tema: Oppdatering fra Ghana med utviklingsminister \u00c5smund Aukrust",
         "release_date": "2025-05-15",
         "release_date_precision": "day",
         "type": "episode",
@@ -1873,7 +1913,7 @@
         "languages": [
             "no"
         ],
-        "name": "Tema: En kjapp prat med Kjersti R\u00f8dsmoen, ambassad\u00f8ren for Sveits, Lichtenstein og Den hellige stol",
+        "name": "Tema: En kjapp prat med Kjersti R\u00f8dsmoen, ambassad\u00f8ren for Sveits, Liechtenstein og Den hellige stol",
         "release_date": "2024-06-24",
         "release_date_precision": "day",
         "type": "episode",
