@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3HCeRMaw98dcpO13iPV8bL/clip_0_60000.mp3",
+        "description": "Dette er en mindre triveligere episode enn vanlig, men noen ganger m\u00e5 vi snakke om det forferdelige som skjer i verden ogs\u00e5. Tragedien i Gaza er vanskelig \u00e5 forst\u00e5 og ta innover seg, og er en s\u00e5 m\u00f8rk hendelse at ord ikke lenger strekker til. Hanne Eggen R\u00f8islien, forfatter av boken \"Alt er tapt - israelske soldater forteller\", har b\u00e5de kunnskap om og kjennskap til IDF mer enn folk flest. Hun pr\u00f8ver \u00e5 forklare, uten \u00e5 st\u00f8tte, hvordan avgj\u00f8relser blir tatt, hvorfor en dehumaniserende ordbruk og strategi har blitt til, hva dette gj\u00f8r med soldater som forlater kone og barn for \u00e5 angripe andre koner og barn en snau time unna, og hva man kan gj\u00f8re n\u00e5r ord mister all betydning.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 4366341,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/5QdmUPSIhJvqPdnRV0N75W"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5QdmUPSIhJvqPdnRV0N75W",
+        "html_description": "<p>Dette er en mindre triveligere episode enn vanlig, men noen ganger m\u00e5 vi snakke om det forferdelige som skjer i verden ogs\u00e5. Tragedien i Gaza er vanskelig \u00e5 forst\u00e5 og ta innover seg, og er en s\u00e5 m\u00f8rk hendelse at ord ikke lenger strekker til. Hanne Eggen R\u00f8islien, forfatter av boken &#34;Alt er tapt - israelske soldater forteller&#34;, har b\u00e5de kunnskap om og kjennskap til IDF mer enn folk flest. Hun pr\u00f8ver \u00e5 forklare, uten \u00e5 st\u00f8tte, hvordan avgj\u00f8relser blir tatt, hvorfor en dehumaniserende ordbruk og strategi har blitt til, hva dette gj\u00f8r med soldater som forlater kone og barn for \u00e5 angripe andre koner og barn en snau time unna, og hva man kan gj\u00f8re n\u00e5r ord mister all betydning.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "5QdmUPSIhJvqPdnRV0N75W",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: IDF, israelske soldater og n\u00e5r ord blir fattige med Hanne Eggen R\u00f8islien",
+        "release_date": "2025-06-05",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5QdmUPSIhJvqPdnRV0N75W"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4ItDVhvqB0KdHBTV9J2rPf/clip_0_60000.mp3",
         "description": "Hvordan er hverdagen for en som m\u00f8ter Trump, Ahmed al-Sharaa og Pave Leo til daglig i jobben? Hvordan er det \u00e5 snakke med utenriksministere fra hele verden via Signal og holde diplomatiet ved like, med land med helt andre kulturelle verdier enn en selv? Og blir han noen gang lei? Dette er bare noen av tingene vi f\u00e5r vite om da selveste utenriksminister Espen Barth Eide tar turen innom 198 lands studio i V\u00f8yen, Oslo.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2995226,
