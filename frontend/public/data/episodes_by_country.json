@@ -7303,5 +7303,50 @@
                 "uri": "spotify:episode:2z1zn9OA4JcMpoAcw6yqdu"
             }
         }
+    ],
+    "MZB": [
+        {
+            "country": "Mozambique",
+            "ep": {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7engv1hsRhf3iRnByL95gb/clip_0_60000.mp3",
+                "description": "Inne hos Podimo finner du to tettpakkede episoder om Mosambik, og da ble dessverre ikke plass til strekk om kulturforskjeller, arbeidsetikk og trafikkbilde i Mosambik. Heldigvis fant det veien inn til en temaepisode, s\u00e5 her f\u00e5r du en liten smak av episodene med Nina Bull J\u00f8rgensen.Hvis dette faller i smak, s\u00e5 finner du resten p\u00e5 podimo.com/198land.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+                "duration_ms": 1430831,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6LKG4kiE9eMrb713WIj2pC"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6LKG4kiE9eMrb713WIj2pC",
+                "html_description": "<p>Inne hos Podimo finner du to tettpakkede episoder om Mosambik, og da ble dessverre ikke plass til strekk om kulturforskjeller, arbeidsetikk og trafikkbilde i Mosambik. Heldigvis fant det veien inn til en temaepisode, s\u00e5 her f\u00e5r du en liten smak av episodene med Nina Bull J\u00f8rgensen.</p><br /><p>Hvis dette faller i smak, s\u00e5 finner du resten p\u00e5 podimo.com/198land.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+                "id": "6LKG4kiE9eMrb713WIj2pC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "no",
+                "languages": [
+                    "no"
+                ],
+                "name": "Tema: Etikk og trafikk i Mosambik med Nina Bull J\u00f8rgensen",
+                "release_date": "2025-06-12",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6LKG4kiE9eMrb713WIj2pC"
+            }
+        }
     ]
 }
