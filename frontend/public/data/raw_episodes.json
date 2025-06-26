@@ -1,5 +1,45 @@
 [
     {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1yUi8LdNQt7XGyiXomTNnr/clip_0_60000.mp3",
+        "description": "Sommerferien er rett rundt hj\u00f8rnet, og sannsynligheten er stor for at du skal ut p\u00e5 tur! Men er du forberedt? Ved du hva du b\u00f8r v\u00e6re klar over dit du skal reise, og hva som skjer hvis uhellet er ute? \"If\u00f8lge UD\" er en setning som stadig ytres i landepisodene, og n\u00e5 skal vi rett og slette finne ut hva som ligger bak informasjonen de gir, hvordan det graderes, hva som skal til for at en destinasjon f\u00e5r en reiseadvarsel og hvordan et land kan tas av den listen. Mange sp\u00f8rsm\u00e5l trenger like mange svar, og med oss til \u00e5 besvare de har vi f\u00e5tt bes\u00f8k av seniorr\u00e5dgiver Mathias Rongved.Keen p\u00e5 noen nye landepisoder i sommer? Sjekk ut podimo.no/198land for flunkende nye landepisoder, hele sommeren.Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
+        "duration_ms": 1824835,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/episode/3yO9tHYdPUNuQgpJOyewh1"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3yO9tHYdPUNuQgpJOyewh1",
+        "html_description": "<p>Sommerferien er rett rundt hj\u00f8rnet, og sannsynligheten er stor for at du skal ut p\u00e5 tur! Men er du forberedt? Ved du hva du b\u00f8r v\u00e6re klar over dit du skal reise, og hva som skjer hvis uhellet er ute? &#34;If\u00f8lge UD&#34; er en setning som stadig ytres i landepisodene, og n\u00e5 skal vi rett og slette finne ut hva som ligger bak informasjonen de gir, hvordan det graderes, hva som skal til for at en destinasjon f\u00e5r en reiseadvarsel og hvordan et land kan tas av den listen. Mange sp\u00f8rsm\u00e5l trenger like mange svar, og med oss til \u00e5 besvare de har vi f\u00e5tt bes\u00f8k av seniorr\u00e5dgiver Mathias Rongved.</p><br /><p><br /></p><p>Keen p\u00e5 noen nye landepisoder i sommer? Sjekk ut podimo.no/198land for flunkende nye landepisoder, hele sommeren.</p><br /><p><br /></p><p>Produsert av Martin Oftedal, PLAN-B</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p>",
+        "id": "3yO9tHYdPUNuQgpJOyewh1",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a85e7cb9af2c5fffa4f7edb69",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f85e7cb9af2c5fffa4f7edb69",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d85e7cb9af2c5fffa4f7edb69",
+                "width": 64
+            }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "no",
+        "languages": [
+            "no"
+        ],
+        "name": "Tema: UDs reiseinformasjon (og advarsler) med Mathias Rongved",
+        "release_date": "2025-06-26",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3yO9tHYdPUNuQgpJOyewh1"
+    },
+    {
         "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7K9B9hrHNVbM3PBl91mJCC/clip_0_60000.mp3",
         "description": "L\u00f8rdag 21. juni er det skogfinnenes dag, og i den anledning skal vi bli kjent med hva skogfinnene er, var og kommer til \u00e5 bli. Dette er en sterkt underkommunisert befolkning, til tross for at hele 500 000 nordmenn er av skogfinsk avstamming. Hvor kom de fra? Hvilke spor finner man fra de i dag? Og, ikke minst, hvordan feires en splitter ny nasjonaldag (f\u00f8rste gang arrangert i 2023?) For \u00e5 besvare disse sp\u00f8rsm\u00e5lene, har vi f\u00e5tt storfint skogfinsk bes\u00f8k av styremedlem i Skogfinneforeningen, Erik Vadholm.Er du gira p\u00e5 nye landepisoder? L\u00f8p til Podimo.no/198land, da vel! Produsert av Martin Oftedal, PLAN-B Hosted on Acast. See acast.com/privacy for more information.",
         "duration_ms": 2389028,
